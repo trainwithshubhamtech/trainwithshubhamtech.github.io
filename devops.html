@@ -133,6 +133,11 @@
                 <hr style="border-top: 1px solid #337ab7;">
               </div>
               <div class="row">
+                <div id="broc" style="margin-left:25px;margin-right:25px;padding:10px;background-color: #ff9933; color:#FFFFFF; cursor: pointer">
+                  <b>REGISTER NOW</b>
+                </div>
+              </div>
+              <div class="row">
                 <div id="now" style="margin-left:25px;margin-right:25px;padding:10px;background-color: #337ab7; color:#FFFFFF; cursor: pointer">
                   <b>REGISTER NOW</b>
                 </div>
@@ -503,6 +508,13 @@
     </script>
     <script>
       $('#now').click(function(e) {
+        $("html, body").animate({
+          scrollTop: $(document).height()
+        }, "slow");
+        return false;
+      });
+      
+      $('#broc').click(function(e) {
         $("html, body").animate({
           scrollTop: $(document).height()
         }, "slow");
