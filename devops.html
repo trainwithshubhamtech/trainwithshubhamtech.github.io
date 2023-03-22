@@ -470,9 +470,23 @@
           </div>
         </div>
       </div>
+      <div class="row" style="background-color: #F5F5F5; font-size:1.8rem; padding-top:8px;">
+        <div class="col-sm-12" style="display: flex; justify-content: center;">          
+          <div class="row">
+            <b>Have any queries?</b>
+          </div>
+        </div>
+      </div>
+      <div class="row" style="background-color: #F5F5F5; font-size:1.8rem; padding-top:8px;">
+        <div class="col-sm-12" style="display: flex; justify-content: center;">          
+          <div class="row">
+           <button class="btn btn-success" id="wt">Connect on Whatsapp</button>
+          </div>
+        </div>
+      </div>
       <div class="row" style="background:#000000; text-align: center; color:#FFFFFF;margin-top: 25px;">
         <div class="col-md-12" style="text-align: center;margin-top: 2px;">
-          <h5 style="margin-bottom:1px;">In case of queries, mail to <b>mentor@trainwithshubham.tech</b>
+          <h5 style="margin-bottom:1px;">For help, mail to <b>mentor@trainwithshubham.tech</b>
           </h5>
         </div>
         <div class="col-md-12">
@@ -516,6 +530,12 @@
       
       $('#broc').click(function(e) {        
         var win = window.open('https://www.trainwithshubham.tech/DevOps-ZeroToHero-English.pdf', '_blank');
+        win.focus();        
+        return false;
+      });
+
+      $('#wt').click(function(e) {        
+        var win = window.open('https://wa.me/918605634504', '_blank');
         win.focus();        
         return false;
       });
