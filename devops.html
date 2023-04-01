@@ -469,6 +469,11 @@
            <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_LLwnKymgX217DV" async> </script> </form>
           </div>
         </div>
+        <div class="col-sm-12" style="display: flex; justify-content: center;">
+          <div class="row">
+           <button class="btn btn-primary" style="padding:10px; padding-left: 22px; padding-right: 22px;" id="paypal"><b>Enroll From PayPal</b></button>
+          </div>
+        </div>
       </div>
       <div class="row" style="background-color: #F5F5F5; font-size:1.8rem; padding-top:8px;">
         <div class="col-sm-12" style="display: flex; justify-content: center;">          
@@ -536,6 +541,12 @@
 
       $('#wt').click(function(e) {        
         var win = window.open('https://wa.me/918605634504', '_blank');
+        win.focus();        
+        return false;
+      });
+
+      $('#paypal').click(function(e) {        
+        var win = window.open('https://www.paypal.com/paypalme/ShubhamLondhe02', '_blank');
         win.focus();        
         return false;
       });
