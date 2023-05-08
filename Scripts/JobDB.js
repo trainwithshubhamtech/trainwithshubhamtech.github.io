@@ -7,7 +7,7 @@ const jobList = [
       applyURL: "https://careers.google.com/jobs"
     },
     {
-      jobTitle: "Data Analyst",
+      jobTitle: "devops engineer",
       companyName: "Facebook",
       location: "Menlo Park, CA",
       yearsOfExperienceRequired: 2,
