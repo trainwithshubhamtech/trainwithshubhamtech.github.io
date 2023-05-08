@@ -7,12 +7,13 @@ const jobList = [
       applyURL: "https://careers.google.com/jobs"
     },
     {
-      jobTitle: "DevOps Engineer",
-      companyName: "Amazon",
-      location: "Seattle, WA",
-      yearsOfExperienceRequired: 3,
-      applyURL: "https://www.amazon.jobs/en-gb"
+      jobTitle: "Data Analyst",
+      companyName: "Facebook",
+      location: "Menlo Park, CA",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.facebook.com/careers/"
     },
+    
     {
       jobTitle: "Data Analyst",
       companyName: "Facebook",
@@ -20,6 +21,15 @@ const jobList = [
       yearsOfExperienceRequired: 2,
       applyURL: "https://www.facebook.com/careers/"
     },
+    
+    {
+      jobTitle: "Data Analyst",
+      companyName: "Facebook",
+      location: "Menlo Park, CA",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.facebook.com/careers/"
+    },
+    
     /*{
       jobTitle: "Data Analyst",
       companyName: "Facebook",
