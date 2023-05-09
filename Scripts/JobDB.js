@@ -120,10 +120,108 @@ const jobList = [
       yearsOfExperienceRequired: 3,
       applyURL: "https://www.diverselynx.com/career-with-us/"
     },
+    {
+      jobTitle: "DevOps Engineer Associate",
+      companyName: "NatWest Group",
+      location: "Bengaluru, Karnataka, India",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.natwestgroup.com/careers-at-natwest-group.html"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Ira Technologies",
+      location: "Noida,Uttar Pradesh,India",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.iratechnologies.com/about/#careers"
+    },
+    {
+      jobTitle: "DevOps Fresher",
+      companyName: "Deutsche Telekom Digital Labs Private Limited",
+      location: "Gurugram,hariyana",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://deutschetelekom.darwinbox.in/ms/candidate/careers"
+    },
+    {
+      jobTitle: "DevOps Fresher",
+      companyName: "Techmologics Innovations",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://techmologics.com/career/"
+    },
+    {
+      jobTitle: "DevOps Intern",
+      companyName: "Iamops",
+      location: "Derech Menachem,Israel",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://iamops.io/careers/"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "ontash india technologies pvt. ltd",
+      location: "Kerala, India",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://ontash.net/us/careers"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Wpoets Technology",
+      location: "Pune,Maharastra,India",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.wpoets.com/careers/"
+    },
+    {
+      jobTitle: "Cloud Engineer-Fresher",
+      companyName: "pragma edge software services pvt ltd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired: 0-2,
+      applyURL: "https://careers.pragmaedge.com/"
+    },
+    {
+      jobTitle: "DevOps QA Engineer-I",
+      companyName: "Dotdash Meredith",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired: 2-3,
+      applyURL: "https://www.dotdashmeredith.com/careers"
+    },
+    {
+      jobTitle: "web scraping",
+      companyName: "GM WARE",
+      location: "Mohali,India",
+      yearsOfExperienceRequired: 0-4,
+      applyURL: "https://gmware.com/careers/"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Aumni Techworks",
+      location: "Pune,Maharastra,India ",
+      yearsOfExperienceRequired: 0-2,
+      applyURL: "https://www.aumnitechworks.com/careers"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Associate Engineer, DevOps",
+      location: "nagarro ",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.nagarro.com/en/careers"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Appzia Technologies",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.appziatech.com/careers"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "DevOps Engineer",
+      location: "Pune,Maharastra",
+      yearsOfExperienceRequired: 0-1,
+      applyURL: "https://www.tetrapak.com/about-tetra-pak/careers/jobs-traineeships"
+    },
     /*{
       jobTitle: "DevOps",
-      companyName: "Vbeyond",
-      location: "Mumbai, Maharashtra",
+      companyName: "Dotdash Meredith",
+      location: "Bangalore/Bengaluru ",
       yearsOfExperienceRequired: 3,
       applyURL: "https://www.diverselynx.com/career-with-us/"
     },*/
