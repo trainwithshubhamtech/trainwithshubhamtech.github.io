@@ -213,7 +213,7 @@ const jobList = [
     },
     {
       jobTitle: "DevOps Engineer",
-      companyName: "DevOps Engineer",
+      companyName: "Tetra Pak",
       location: "Pune,Maharastra",
       yearsOfExperienceRequired: 0-1,
       applyURL: "https://www.tetrapak.com/about-tetra-pak/careers/jobs-traineeships"
