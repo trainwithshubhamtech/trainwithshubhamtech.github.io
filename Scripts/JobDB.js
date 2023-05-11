@@ -1,35 +1,69 @@
 const jobList = [
     {
-      jobTitle: "Software Engineer",
-      companyName: "Google",
-      location: "Mountain View, CA",
-      yearsOfExperienceRequired: 5,
-      applyURL: "https://careers.google.com/jobs"
+      jobTitle: "DevOps Engineer",
+      companyName: "Rchilli Inc",
+      location: "Panjab,India",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.rchilli.com/careers"
     },
     {
       jobTitle: "devops engineer",
-      companyName: "Facebook",
-      location: "Menlo Park, CA",
-      yearsOfExperienceRequired: 2,
-      applyURL: "https://www.facebook.com/careers/"
+      companyName: "SAP",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired: ,
+      applyURL: "https://jobs.sap.com/?utm_source=CareerSite&utm_campaign=CorpSite_FT"
     },
     
     {
-      jobTitle: "Data Analyst",
-      companyName: "Facebook",
-      location: "Menlo Park, CA",
+      jobTitle: "Junior DevOps Engineer",
+      companyName: "NCR",
+      location: "Kolkata, Mumbai, New Delhi, Hyderabad/Secunderabad, Pune, Chennai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.ncr.com/careers"
+    },
+    {
+      jobTitle: "Wits Innovation Lab",
+      companyName: "Panjab,India",
+      location: "Wits Innovation Lab",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://thewitslab.com/career"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "ASPB Services Pvt Ltd",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired: 1,
+      applyURL: "http://aspbservices.com/career"
+    },
+  
+      jobTitle: "DevOps Engineer",
+      companyName: "ANTINO LABS PRIVATE LIMITED",
+      location: "Gurgao,India ",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.antino.com/careers"
+    },
+        {
+      jobTitle: "DevOps Engineer",
+      companyName: "Aumni Techworks",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.aumnitechworks.com/careers"
+    },
+        {
+      jobTitle: "DevOps Engineer",
+      companyName: "Capital Numbers Infotech",
+      location: "India, USA(Remote)",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.capitalnumbers.com/careers.php"
+    },
+        {
+      jobTitle: "DevOps Engineer",
+      companyName: "Infoneo Technologies",
+      location: "Noida, Uttar Pradesh ",
       yearsOfExperienceRequired: 2,
-      applyURL: "https://www.facebook.com/careers/"
+      applyURL: "https://www.infoneotech.com/latest-job-openings.html"
     },
-    {
-      jobTitle: "AWS Freelance Trainer",
-      companyName: "Tata Consultancy Services",
-      location: "Hyderabad, Telangana,India",
-      yearsOfExperienceRequired: 3,
-      applyURL: "https://www.tcs.com/careers"
-    },
-    
-    {
+     {
       jobTitle: "DevOps Engineer",
       companyName: "GlobalLogic",
       location: "Noida, Uttar Pradesh,India",
