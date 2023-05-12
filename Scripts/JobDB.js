@@ -1,5 +1,61 @@
 const jobList = [
     {
+      jobTitle: "Software Engineer-Data",
+      companyName: "DeepIntent",
+      location: "Pune, Maharastra ",
+      yearsOfExperienceRequired: 0-1,
+      applyURL: "https://www.springct.com/careers/"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Lotusflare",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired:1-5 ,
+      applyURL: "https://lotusflare.com/careers/current-openings/"
+    },
+    {
+      jobTitle: "Cloud Operation Engineer",
+      companyName: "Searce",
+      location: "Searce ",
+      yearsOfExperienceRequired:1-4 ,
+      applyURL: "https://www.searce.com/join-us"
+    },
+    {
+      jobTitle: "Software Developer (Python Cloud)",
+      companyName: "Blancco",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired: 1-6,
+      applyURL: "https://www.blancco.com/company/careers/"
+    },
+    {
+      jobTitle: "Cloud Service Operation Engineer",
+      companyName: "PTC",
+      location: "Pune Maharastra ",
+      yearsOfExperienceRequired: 0-3,
+      applyURL: "https://www.ptc.com/en/careers"
+    },
+    {
+      jobTitle: "AWS/DevOps Engineer",
+      companyName: "Gleecus TechLabs Pvt. Ltd",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired: 5,
+      applyURL: "https://gleecus.com/careers/"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "LTIMindtree",
+      location: "Pune,Maharastra",
+      yearsOfExperienceRequired:3 ,
+      applyURL: "https://www.ltimindtree.com/careers/"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Aristocrat IT Solutions Pvt Ltd",
+      location: "Chennai, Tamil Nadu ",
+      yearsOfExperienceRequired:0-1 ,
+      applyURL: "https://www.aristocratitsolutions.com/careers"
+    },
+    {
       jobTitle: "DevOps Engineer",
       companyName: "Rchilli Inc",
       location: "Panjab,India",
