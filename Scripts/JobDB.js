@@ -66,7 +66,7 @@ const jobList = [
       jobTitle: "devops engineer",
       companyName: "SAP",
       location: "Bangalore/Bengaluru",
-      yearsOfExperienceRequired: ,
+      yearsOfExperienceRequired: 4,
       applyURL: "https://jobs.sap.com/?utm_source=CareerSite&utm_campaign=CorpSite_FT"
     },
     
@@ -91,14 +91,14 @@ const jobList = [
       yearsOfExperienceRequired: 1,
       applyURL: "http://aspbservices.com/career"
     },
-  
+    {
       jobTitle: "DevOps Engineer",
       companyName: "ANTINO LABS PRIVATE LIMITED",
       location: "Gurgao,India ",
       yearsOfExperienceRequired: 1,
       applyURL: "https://www.antino.com/careers"
     },
-        {
+    {
       jobTitle: "DevOps Engineer",
       companyName: "Aumni Techworks",
       location: "Pune,Maharastra ",
@@ -112,7 +112,7 @@ const jobList = [
       yearsOfExperienceRequired: 1,
       applyURL: "https://www.capitalnumbers.com/careers.php"
     },
-        {
+    {
       jobTitle: "DevOps Engineer",
       companyName: "Infoneo Technologies",
       location: "Noida, Uttar Pradesh ",
