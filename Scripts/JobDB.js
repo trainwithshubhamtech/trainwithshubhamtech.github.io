@@ -1,5 +1,103 @@
 const jobList = [
-    
+    {
+      jobTitle: "Sr. Engineer",
+      companyName: "Yash Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.yash.com/about-us/career/"
+    },
+    {
+      jobTitle: "Azure DevOps",
+      companyName: "Infogain",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.infogain.com/careers/"
+    },
+    {
+      jobTitle: "",
+      companyName: "Neotas",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 0-1,
+      applyURL: "https://www.neotas.com/careers/"
+    },
+    {
+      jobTitle: "DevOps Engineers",
+      companyName: "Cloud Cover",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2 ,
+      applyURL: "https://cloudcover.darwinbox.in/ms/candidate/careers"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "Diverse Lynx",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.diverselynx.com/career-with-us/"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "truminds",
+      location: "Pune,Maharastra",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.truminds.com/careers"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "in2it technologies",
+      location: "Noida",
+      yearsOfExperienceRequired: 0-1,
+      applyURL: "https://www.in2ittech.com/career/"
+    },
+    {
+      jobTitle: "DevOps Engineer ( Intern )",
+      companyName: "Mactores Cognition",
+      location: "Mumbai ",
+      yearsOfExperienceRequired:0-1 ,
+      applyURL: "https://mactores.com/careers"
+    },
+    {
+      jobTitle: "Intern DevOps",
+      companyName: "ONE BCG",
+      location: " Mohali",
+      yearsOfExperienceRequired: 0-2,
+      applyURL: "https://careers.onebcg.com/one-bcg-careers"
+    },
+    {
+      jobTitle: "Salesforce Developer",
+      companyName: "forecastera india",
+      location: " Bangalore/Bengaluru ",
+      yearsOfExperienceRequired: 0-1,
+      applyURL: "https://nextq.ai/careers/"
+    },
+    {
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Cedcoss Technologies",
+      location: "Lucknow",
+      yearsOfExperienceRequired: 0-1,
+      applyURL: "https://cedcoss.com/current-openings/"
+    },
+    {
+      jobTitle: "Trainee DevOps",
+      companyName: "Yagna IQ India",
+      location: "pune,Maharastra",
+      yearsOfExperienceRequired: 0-1,
+      applyURL: "https://www.yagnaiq.com/company/careers/"
+    },
+    {
+      jobTitle: "Azure Solutions Architect",
+      companyName: "BT Corporation",
+      location: "India ",
+      yearsOfExperienceRequired: 3,
+      applyURL: "https://careers.jbtc.com/"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Appzia Technologies",
+      location: "Pune,Maharastra ",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.appziatech.com/careers"
+    },
+  
     {
       jobTitle: "Software Engineer-Data",
       companyName: "DeepIntent",
