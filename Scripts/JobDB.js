@@ -1,5 +1,89 @@
 const jobList = [
     {
+        {
+      jobTitle: "Aws Engineer",
+      companyName: "MNR Solutions Pvt. Ltd.",
+      location: " Bengaluru, Karnataka",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://mnrsolutions.in/job-openings/"
+    },
+    {
+      jobTitle: "Cloud Operations Engineer (AWS)",
+      companyName: "CONXAI",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired:0 ,
+      applyURL: "https://www.conxai.com/careers"
+    },
+    {
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Visionet Systems",
+      location: "Bengaluru, Karnata ",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://www.visionet.com/careers"
+    },
+      jobTitle: "DevOps Engineer",
+      companyName: "Luxoft",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://career.luxoft.com/"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Verantos",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://verantos.com/careers/"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "TIAA GBS India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://careers.tiaa.org/global/en/career-areas"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Nihilent",
+      location: " Pune, Maharastra",
+      yearsOfExperienceRequired:5 ,
+      applyURL: "https://www.nihilent.com/job-openings/#"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "kwalee",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://www.kwalee.com/current-openings/"
+    },
+    {
+      jobTitle: "AWS Data Engineer",
+      companyName: "Abzooba",
+      location: "Pune, Maharashtra ",
+      yearsOfExperienceRequired: 0 ,
+      applyURL: "https://careers.abzooba.com/#!/"
+    },
+    {
+      jobTitle: "Senior AWS Cloud Engineer",
+      companyName: "nVent",
+      location: "Mumbai, Maharashtra ",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.nvent.com/en-us/careers"
+    },
+    {
+      jobTitle: "AWS Engineer",
+      companyName: "SLK",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired: 3,
+      applyURL: "https://www.slksoftware.com/careers-slk/"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Houghton Mifflin Harcourt",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://careers.hmhco.com/"
+    },
+    {
       jobTitle: "Sr. Engineer",
       companyName: "Yash Technologies Private Limited",
       location: "Pune, Maharashtra",
