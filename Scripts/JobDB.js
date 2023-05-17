@@ -1,5 +1,55 @@
 const jobList = [
     {
+      jobTitle: "Junior S/W Developer",
+      companyName: "Symtrax Software Pvt Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://www.symtrax.com/jobs/"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "amdocs",
+      location: "Pune,Maharastra",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.amdocs.com/careers/home"
+    },
+    {
+      jobTitle: "Software Development Engineer",
+      companyName: "Philips",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "Golden Hippo Technology",
+      location: "Madurai, Chennai",
+      yearsOfExperienceRequired: 1,
+      applyURL: "https://www.goldenhippo.com/careers"
+    },
+    {
+      jobTitle: "DEVOPS AND VALIDATION ENGINEER",
+      companyName: "Intel",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://companies.naukri.com/intelnew-jobs/jobs/"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "solverminds solutions and technologies",
+      location: "Chennai",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.solverminds.com/careers/"
+    },
+    {
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Cedcoss Technologies",
+      location: "Lucknow",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://cedcoss.com/current-openings/"
+    },
+    
+    {
         {
       jobTitle: "Aws Engineer",
       companyName: "MNR Solutions Pvt. Ltd.",
