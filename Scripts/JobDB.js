@@ -1,5 +1,54 @@
 const jobList = [
     {
+      jobTitle: "DevOps Engineer",
+      companyName: "Perfios",
+      location: "Bengaluru",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://perfios.skillate.com/"
+    },
+    {
+      jobTitle: "DevOPs Engineer",
+      companyName: "Freston Analytics",
+      location: "Calicut ",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://frestonanalytics.zohorecruit.in/jobs/Careers/"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Albireo Tech System",
+      location: "Remote",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://www.albireotechsystem.com/"
+    },
+    {
+      jobTitle: "DevOPs Engineer",
+      companyName: "Freston Analytics",
+      location: "India/calicut ",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://frestonanalytics.com/career.html"
+    },
+    {
+      jobTitle: "Intern – Devops Engineer",
+      companyName: "CloudPlinth, Inc",
+      location: "Warangal ",
+      yearsOfExperienceRequired:0 ,
+      applyURL: "https://cloudplinth.com/careers/"
+    },
+    {
+      jobTitle: " Intern – Devops Engineer",
+      companyName: "CloudPlinth, Inc.",
+      location: "Warangal",
+      yearsOfExperienceRequired: 0,
+      applyURL: "https://www."
+    },
+    {
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Wobot Intelligence",
+      location: "Remote",
+      yearsOfExperienceRequired:0 ,
+      applyURL: "https://wobot.ai/careers"
+    },
+    {
       jobTitle: "Junior S/W Developer",
       companyName: "Symtrax Software Pvt Ltd",
       location: "Anywhere",
