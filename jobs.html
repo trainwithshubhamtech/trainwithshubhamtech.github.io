@@ -14,6 +14,43 @@
     <link rel="stylesheet" href="Styles/root.css">
     <link rel="stylesheet" href="Styles/loader.css">
   </head>
+
+  <style>
+    .test {
+      border: 1px solid black;
+    }
+
+    .text-rainbow-animation {
+      background-image:
+      linear-gradient(to right, red, orange, green, blue, indigo, red);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow-animation 100s linear infinite;
+    }
+
+    .text-rainbow-animation1 {
+      background-image:
+      linear-gradient(to right, red, orange, green, cyan, magenta, red);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow-animation 4000s linear infinite;
+    }
+
+    .text-rainbow-animation2 {
+      background-image:
+      linear-gradient(to right, rgb(100, 100, 0), green, royalblue, black, indigo, purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow-animation 4000s linear infinite;
+    }
+
+    @keyframes rainbow-animation {
+      to {
+        background-position: 5000vh;
+      }
+    }
+  </style>
+
   <body style="font-family: system-ui, Geneva, Verdana, sans-serif;">
     <div class="container-fluid">
       <!--HEADER CONTAINER-->
@@ -46,13 +83,19 @@
       </div>
     </div>
 
-    <div class="container">
-        <div class="panel-heading text-center">
-            <h2>Job opportunities for <b>Dev Ops Engineers</b> </h2>
-          </div>
+    <div class="container-fluid" style="background-color: #000000; color: #FFFFFF;">
+      <div class="container">
+          <div class="panel-heading text-center" style="text-shadow: 0 0 5px #ffee00">
+              <h2><u>Job opportunities for Dev Ops Engineers</u></h2>
+            </div>
+      </div>
     </div>
-    <div class="container mt-5" id="lelo">
-        
+
+
+    <div class="container-fluid" style="background-color: #000000;">
+      <div class="container mt-5" id="lelo">
+          
+      </div>
     </div>
 
     <div class="container-fluid">
