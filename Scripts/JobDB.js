@@ -35,13 +35,6 @@ const jobList = [
       applyURL: "https://cloudplinth.com/careers/"
     },
     {
-      jobTitle: " Intern – Devops Engineer",
-      companyName: "CloudPlinth, Inc.",
-      location: "Warangal",
-      yearsOfExperienceRequired: 0,
-      applyURL: "https://www."
-    },
-    {
       jobTitle: "Azure DevOps Engineer",
       companyName: "Wobot Intelligence",
       location: "Remote",
