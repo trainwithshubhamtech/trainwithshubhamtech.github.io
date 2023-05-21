@@ -677,6 +677,10 @@ const jobList = [
     },*/
 ];
 
+
+var count = jobList.length;
+$('#cunt').append(`<h3>Available Jobs : `+count+`</h3>`)
+
 jobList.forEach(job => {
     AddJobData(job.jobTitle, job.companyName, job.location, job.yearsOfExperienceRequired, job.applyURL, job.dateUpdated)
   });
