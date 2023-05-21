@@ -99,7 +99,7 @@ const jobList = [
     },
     
     {
-        {
+        
       jobTitle: "Aws Engineer",
       companyName: "MNR Solutions Pvt. Ltd.",
       location: " Bengaluru, Karnataka",
@@ -120,6 +120,7 @@ const jobList = [
       yearsOfExperienceRequired: 0,
       applyURL: "https://www.visionet.com/careers"
     },
+    {
       jobTitle: "DevOps Engineer",
       companyName: "Luxoft",
       location: "Pune, Maharashtra",
