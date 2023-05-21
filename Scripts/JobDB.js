@@ -687,7 +687,7 @@ function AddJobData(jt, jc, jl, jy, ju,du) {
     var divElement = `
     <div class="col-md-6">
       <div class="panel panel-default">
-            <div class="panel-body" style="box-shadow: 0 0 15px 4px rgb(82, 174, 255); height:250px">
+            <div class="panel-body" style="box-shadow: 0 0 15px 4px rgb(82, 174, 255); min-height:250px">
               <div style="margin-left:15px;">
                 <h3><b>`+jt+`</b></h3>
                 <h4><b><u>`+jc+`</u></b></h4>
