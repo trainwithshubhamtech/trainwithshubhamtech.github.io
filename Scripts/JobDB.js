@@ -683,16 +683,21 @@ jobList.forEach(job => {
   
 
 function AddJobData(jt, jc, jl, jy, ju,du) {
+    var x = Math.random() * 10;
     var divElement = `
-    <div class="panel panel-default">
-          <div class="panel-body">
-            <h3>`+jt+`</h3>
-            <h4>`+jc+`</h4>
-            <p>Location : `+jl+`</p>
-            <p>Years of Experience Required : `+jy+`</p>
-            <p>Updated on: `+du+`</p>
-            <button type="button" class="btn btn-primary" onclick="location.href='`+ju+`'">Apply Now</button>
-          </div>
+    <div class="col-md-6">
+      <div class="panel panel-default">
+            <div class="panel-body" style="box-shadow: 0 0 15px 4px rgb(82, 174, 255); height:250px">
+              <div style="margin-left:15px;">
+                <h3><b>`+jt+`</b></h3>
+                <h4><b><u>`+jc+`</u></b></h4>
+                <p>Location : `+jl+`</p>
+                <p>Years of Experience Required : `+jy+`</p>
+                <p>Updated on: `+du+`</p>
+                <button type="button" class="btn btn-primary" onclick="location.href='`+ju+`'">Apply Now</button>
+              </div>
+            </div>
+      </div>
     </div>
     `
     $('#lelo').append(divElement)
