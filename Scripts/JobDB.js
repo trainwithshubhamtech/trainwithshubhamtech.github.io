@@ -1,6 +1,79 @@
 const jobList = [
     {
       jobTitle: "DevOps Engineer",
+      companyName: "scaleway",
+      location: "Paris ",
+      yearsOfExperienceRequired: 0.3,
+      applyURL: "https://careers.scaleway.com/",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "Prime Focus Technologies (PFT)",
+      location: "Bangalore/Bengaluru( Electronics City Phase 1 )",
+      yearsOfExperienceRequired: 3.6,
+      applyURL: "https://www.primefocustechnologies.com/careers",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "Karkinos",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired: 3.7,
+      applyURL: "https://www.karkinos.in/careers/",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "Intern",
+      companyName: "mindtickle",
+      location: "Pune",
+      yearsOfExperienceRequired: 0.1,
+      applyURL: "https://www.mindtickle.com/sales-enablement-business-solution-jobs/",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Zocket",
+      location: "India",
+      yearsOfExperienceRequired: 2.5,
+      applyURL: "https://wellfound.com/company/zockettechnologies/jobs",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "Cloud Security Engineer",
+      companyName: "Nab",
+      location: "Gurgaon",
+      yearsOfExperienceRequired: 3.8,
+      applyURL: "https://nablainfotech.com/?page_id=21624",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "Cloud Engineer",
+      companyName: "Merck KGaA Darmstadt, Germany",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.merckgroup.com/en/careers.html",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "Web Scraping",
+      companyName: "PromptCloud",
+      location: "Anywhere ",
+      yearsOfExperienceRequired: 1.5,
+      applyURL: "https://www.promptcloud.com/careers/",
+      dateUpdated: "22/May/2023"
+    },
+    {
+      jobTitle: "Data Scraper/GIS",
+      companyName: "Guidewire Software, Inc.",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired: 4.8,
+      applyURL: "https://careers.guidewire.com//",
+      dateUpdated: "22/May/2023"
+    },
+   
+    {
+      jobTitle: "DevOps Engineer",
       companyName: "Perfios",
       location: "Bengaluru",
       yearsOfExperienceRequired: "1.2",
