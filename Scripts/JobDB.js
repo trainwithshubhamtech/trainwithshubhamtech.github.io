@@ -1,6 +1,86 @@
 const jobList = [
     {
       jobTitle: "DevOps Engineer",
+      companyName: "Assurant",
+      location: "India",
+      yearsOfExperienceRequired: 5,
+      applyURL: "https://jobs.assurant.com/en/jobs/",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "DevOps Intern",
+      companyName: "Marvell India Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired: 0.1,
+      applyURL: "https://www.marvell.com/company/careers.html",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "AWS Data Engineer",
+      companyName: "DATA ECONOMY PRIVATE LIMITED",
+      location: "Pune, Maharashtra ",
+      yearsOfExperienceRequired: 0.1,
+      applyURL: "https://dataeconomy.zohorecruit.com/jobs/Careers",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Ivitesse",
+      location: "Ivitesse ",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.ivitesse.com/careers.php",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "DevOps/Cloud Engineer",
+      companyName: "NeoSoft Pvt.Ltd.",
+      location: "Mumbai, Maharashtra ",
+      yearsOfExperienceRequired: 3,
+      applyURL: "https://www.neosofttech.com/careers/",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Hammoq Inc",
+      location: "Anywhere",
+      yearsOfExperienceRequired: 5,
+      applyURL: "https://www.hammoq.com/careers",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Krisha Web Technologies",
+      location: "Krisha Web Technologies ",
+      yearsOfExperienceRequired: 3,
+      applyURL: "http://krishnatech.in/Career.aspx",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "AWS Devops Engineer",
+      companyName: "InfluxService",
+      location: "Sahibzada Ajit Singh Nagar, Punjab ",
+      yearsOfExperienceRequired: 3.8,
+      applyURL: "https://influxservice.com/jobs/",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "msg global solutions",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://careers.msg-global.com/go/Experienced-Professionals/3246601/",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "Tivona Global Technologies",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired: 3,
+      applyURL: "https://www.tivonaglobal.com/careers/",
+      dateUpdated: "26/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
       companyName: "scaleway",
       location: "Paris ",
       yearsOfExperienceRequired: 0.3,
