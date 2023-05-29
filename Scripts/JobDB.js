@@ -1,5 +1,85 @@
 const jobList = [
     {
+      jobTitle: "DevOps Engineer Associate",
+      companyName: "Cognizant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.cognizant.com/global/en",
+      dateUpdated: "29/May/2023"
+    },
+    {
+      jobTitle: "AWS Internship",
+      companyName: "Radical Technologies",
+      location: "Pune, Maharashtra ",
+      yearsOfExperienceRequired: 0.1,
+      applyURL: "https://www.radicaltechnologies.co.in/careers/",
+      dateUpdated: "29/May/2023"
+    },
+    {
+      jobTitle: "",
+      companyName: "Iesoft Technologies Private Limited",
+      location: "Mumbai, Maharashtra ",
+      yearsOfExperienceRequired:0.1 ,
+      applyURL: "https://iesoftfzc.com/careers",
+      dateUpdated: "29/May/2023"
+    },
+    {
+      jobTitle: "Software Developer ",
+      companyName: "MindNerves Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://mindnerves.com/careers/",
+      dateUpdated: "29/May/2023"
+    },
+    {
+      jobTitle: "Associate Software Engineer (Entry-level/Fresher)",
+      companyName: "Velotio Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.velotio.com/careers",
+      dateUpdated: "29/May/2023"
+    },
+    {
+      jobTitle: "UI/UX Designer",
+      companyName: "Merito.in",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://jobs.merito.in/jobs/Careers",
+      dateUpdated: "29/May/2023"
+    },
+    {
+      jobTitle: "Azure DevOps ",
+      companyName: "Dataeaze Systems Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.dataeaze.io/data-science-jobs/",
+      dateUpdated: "29/May/2023"
+    },
+    {
+      jobTitle: "DevOps Administrator",
+      companyName: "Synechron",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.4,
+      applyURL: "https://www.synechron.com/careers",
+      dateUpdated: "29/May/2023"
+    },
+     {
+      jobTitle: "AWS Engineer",
+      companyName: "Cavista",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.cavistatech.com/careers.html",
+      dateUpdated: "29/May/2023"
+    },
+     {
+      jobTitle: "Deutsche Bank",
+      companyName: "Deutsche Bank",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.4,
+      applyURL: "https://careers.db.com/?language_id=1",
+      dateUpdated: "29/May/2023"
+    },
+    {
       jobTitle: "DevOps Engineer",
       companyName: "Assurant",
       location: "India",
