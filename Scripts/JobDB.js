@@ -1,5 +1,62 @@
 const jobList = [
     {
+      jobTitle: "Engineer CI|CD",
+      companyName: "minutus computing",
+      location: "Pune",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://minutuscomputing.com/career",
+      dateUpdated: "31/May/2023"
+    },
+    {
+      jobTitle: "Sr. Back-End Dev",
+      companyName: "BNY Mellon",
+      location: "Pune",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://bnymellon.eightfold.ai/careers",
+      dateUpdated: "31/May/2023"
+    },
+    {
+      jobTitle: "IT Freshers - Java/ Python / ",
+      companyName: "OMFYS Technologies India PVT LTD",
+      location: "Pune,Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.omfysgroup.com/careers",
+      dateUpdated: "31/May/2023"
+    },
+    {
+      jobTitle: "System Engineer",
+      companyName: "IGT Solutions",
+      location: "Pune, Chennai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.igtsolutions.com/careers/",
+      dateUpdated: "31/May/2023"
+    },
+    {
+      jobTitle: "Python Software Developer",
+      companyName: "Stigentech IT Services",
+      location: "Hyderabad/Secunderabad",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://stigentech.com/careers/",
+      dateUpdated: "31/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Society Of Innovation And Development",
+      location: "Bangalore/Bengaluru( Sanjay nagar ) ",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://sid.iisc.ac.in/careers/",
+      dateUpdated: "31/May/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "In2IT Technologies",
+      location: "Noida",
+      yearsOfExperienceRequired: 0.3,
+      applyURL:"https://www.in2ittech.com/life-at-work/",
+      dateUpdated: "31/May/2023"
+    },
+    {
+        
       jobTitle: "DevOps Engineer Associate",
       companyName: "Cognizant",
       location: "Pune, Maharashtra",
