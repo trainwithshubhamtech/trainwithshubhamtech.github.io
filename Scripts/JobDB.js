@@ -1,5 +1,101 @@
 const jobList = [
     {
+      jobTitle: "Cloud DevOps Engineer(Nest.js, Python)",
+      companyName: "orangepeople",
+      location: "Anywhere ",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.orangepeople.com/jobs",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "scanpoint geomatics ltd",
+      location: "Ahmedabad, Gujarat",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.sgligis.com/careers/",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer - India",
+      companyName: "Flutterwave",
+      location: "West Bengal",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://flutterwave.com/eu/careers",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "Abhyaz",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.abhyaz.com/career",
+      dateUpdated: "03/june/2023"
+    },
+    {
+    jobTitle: "Azure DevOps Engineer",
+      companyName: "Xcede",
+      location: "Anywhere",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://www.gulftalent.com/companies/xcede-careers",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "Associate DevOps Engineer",
+      companyName: "Trimble Inc.",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired: 0.3,
+      applyURL: "https://www.trimble.com/en/our-company/working-at-trimble/overview",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "retailcloud",
+      location: "Kozhikode, Kerala",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.retailcloud.com/career",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer (AWS)",
+      companyName: "MPOWER Financing",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.mpowerfinancing.com/about-us/careers",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Tetra Pak",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3 ,
+      applyURL: "https://www.tetrapak.com/en-in/about-tetra-pak/careers/jobs-traineeships",
+      dateUpdated: "03/june/2023"
+    },
+    {
+      jobTitle: "Cloud Engineer - Freshers",
+      companyName: "pragma edge software services pvt ltd",
+      location:"Inda",
+      yearsOfExperienceRequired:0.0,
+      applyURL: "https://careers.pragmaedge.com/",
+      dateUpdated: "03/June/2023"
+    },
+    {
+      jobTitle: "Fresher",
+      companyName: "ARMIA SYSTEMS INC",
+      location: "Kochi/Cochin",
+      yearsOfExperienceRequired:0.6,
+      applyURL: "https://www.armia.com/careers.php",
+      dateUpdated: "03/June/2023"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "SS&C Technologies",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.ssctech.com/careers/why-ssc#",
+      dateUpdated: "03/june/2023"
+    },
+    {
       jobTitle: "Engineer CI|CD",
       companyName: "minutus computing",
       location: "Pune",
