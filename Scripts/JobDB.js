@@ -1,5 +1,77 @@
 const jobList = [
     {
+      jobTitle: "Cloud Internship",
+      companyName: "Whizlabs Software",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.whizlabs.com/careers/",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "Linux & AWS Intern",
+      companyName: "Jaipur, Rajasthan",
+      location: "Jaipur, Rajasthan ",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.diverselynx.com/career-with-us/",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "DevOps",
+      companyName: "Dotdash Meredith",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired:,
+      applyURL: "https://www.mobzway.com/careers//",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "AWS System Engineer",
+      companyName: "PureSoftware Ltd",
+      location: "Hyderabad, Telangana ",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://puresoftware.com/careers/",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "Application Support Engineers",
+      companyName: "Evision",
+      location: "Accenture",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.evisions.co.in/fresher-hired-gallery",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "Azure Devops Engineer",
+      companyName: "Globant",
+      location: "Pune,Maharashtra",
+      yearsOfExperienceRequired: 4,
+      applyURL: "https://www.globant.com/careers",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: " Softregent Technolog",
+      location: "Pune",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://softregent.com/devops-and-cloud/",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Applicantz",
+      location: " Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://arc.dev/remote-jobs",
+      dateUpdated: "06/june/2023"
+    },
+    {
+      jobTitle: "Jr. DevOps Engineer",
+      companyName: "Sarathi Softech Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.billinghub.net/jobs",
+      dateUpdated: "06/june/2023"
+    },
+    {
       jobTitle: "Cloud DevOps Engineer(Nest.js, Python)",
       companyName: "orangepeople",
       location: "Anywhere ",
