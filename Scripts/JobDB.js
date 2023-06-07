@@ -19,7 +19,7 @@ const jobList = [
       jobTitle: "DevOps",
       companyName: "Dotdash Meredith",
       location: "Bangalore/Bengaluru ",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:2,
       applyURL: "https://www.mobzway.com/careers//",
       dateUpdated: "06/june/2023"
     },
