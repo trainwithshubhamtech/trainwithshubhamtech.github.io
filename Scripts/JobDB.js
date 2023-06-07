@@ -1,4 +1,84 @@
 const jobList = [
+     {
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "GenexCorp",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.genexcorp.com/jobs.html",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "Cloud Operations Engineer",
+      companyName: "Cisco",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.cisco.com/c/en/us/about/careers.html",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "CloudOps Engineer-AWS",
+      companyName: "eInfochips",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.einfochips.com/careers/",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "Amazon Web Services",
+      companyName: "Wipro",
+      location: "Varanasi, Uttar Pradesh",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.wipro.com/careers-home",
+      dateUpdated: "07/june/2023"
+    },
+     {
+      jobTitle: "freshers as Python-AWS Trainee",
+      companyName: "Futops",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "http://futopstech.com/",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "SquareOps",
+      location: "Bangalore/Bengaluru ",
+      yearsOfExperienceRequired: 3,
+      applyURL: "https://squareops.com/careers/",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "Devops Engineer",
+      companyName: "AbiShar Technologies",
+      location: "Pune, Maharashtra ",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://intuitive.cloud/careers",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Tech Q Ware Technologies Private Limited",
+      location: "Pune, Maharashtra ",
+      yearsOfExperienceRequired: 2,
+      applyURL: "https://intuitive.cloud/careers",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "Associate - DevOps ",
+      companyName: "TIAA GBS India",
+      location: "Pune, Maharashtra ",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.tiaa.org/global/en/career-areas",
+      dateUpdated: "07/june/2023"
+    },
+    {
+      jobTitle: "DevOps Engineer",
+      companyName: "Edfora",
+      location: "New Delhi, Delhi ",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.edfora.com/careers",
+      dateUpdated: "07/june/2023"
+    },
     {
       jobTitle: "Cloud Internship",
       companyName: "Whizlabs Software",
