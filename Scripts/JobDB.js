@@ -1,5 +1,85 @@
 const jobList = [
      {
+      jobTitle: "DevOps Engineer",
+      companyName: "Agivant Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.agivant.com/careers/",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Marvell India Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.marvell.com/company/careers.html",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer Intern",
+      companyName: "Applied Cloud Computing",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.appliedcloudcomputing.com/careers/",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "rtCamp",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://rtcamp.com/careers/",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "FPL Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.onescore.app/careers/",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "FPL Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.onescore.app/careers/",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Softility",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.softility.com/softility-work-culture-careers-jobs-in-cloud-data-aiops-itsm/",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "SAP India Pvt. Ltd",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://jobs.sap.com/?utm_source=CareerSite&utm_campaign=CorpSite_FT",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "NEOSOFT PRIVATE LIMITED",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.neosofttech.com/careers/",
+      dateUpdated: "09/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "SigFig",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2.2,
+      applyURL: "https://jobs.lever.co/sigfig-2",
+      dateUpdated: "09/june/2023"
+    },
+     {
       jobTitle: "AWS Cloud Engineer",
       companyName: "GenexCorp",
       location: "Hyderabad, Telangana",
