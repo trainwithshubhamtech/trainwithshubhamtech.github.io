@@ -22,7 +22,7 @@ const jobList = [
       yearsOfExperienceRequired:2.3,
       applyURL: "https://www.omsoftware.net/careers/search-for-jobs",
       dateUpdated: "13/june/2023"
-    }
+    },
      {
       jobTitle: "DevOps Engineer",
       companyName: "Emerson",
