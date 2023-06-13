@@ -23,7 +23,7 @@ const jobList = [
       applyURL: "https://www.omsoftware.net/careers/search-for-jobs",
       dateUpdated: "13/june/2023"
     },
-     {
+      {
       jobTitle: "DevOps Engineer",
       companyName: "Emerson",
       location: "Pune, Maharashtra",
