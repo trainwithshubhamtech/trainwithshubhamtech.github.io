@@ -1,4 +1,77 @@
 const jobList = [
+	{
+      jobTitle: "DevOps Engineer-Web Banking",
+      companyName: "Avaloq",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.avaloq.com/careers",
+      dateUpdated: "13/june/2023"
+    },
+     {
+      jobTitle: "DevOps Engineer-Web Banking",
+      companyName: "Avaloq",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.avaloq.com/careers",
+      dateUpdated: "13/june/2023"
+    },
+      {
+      jobTitle: "Aws Cloud Engineer",
+      companyName: "om software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://www.omsoftware.net/careers/search-for-jobs",
+      dateUpdated: "13/june/2023"
+    }
+     {
+      jobTitle: "DevOps Engineer",
+      companyName: "Emerson",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.emerson.com/en-in/careers",
+      dateUpdated: "13/june/2023"
+    },
+     {
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Virtuoso Staffing Solutions Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.virtuosorecruitment.com/careers/",
+      dateUpdated: "13/june/2023"
+    },
+	
+     {
+      jobTitle: "DevOps Engineer",
+      companyName: "Trigyn",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://trigyn.com/careers?f[0]=regions_job_opening%3AAsia&f[1]=country_name%3A62&time=1686681082808",
+      dateUpdated: "13/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineering",
+      companyName: "TIAA GBS India",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.tiaa.org/global/en/career-areas",
+      dateUpdated: "13/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineering",
+      companyName: "TIAA GBS India",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.tiaa.org/global/en/career-areas",
+      dateUpdated: "13/june/2023"
+    },
+    { 
+      jobTitle: "AWS DevOps Engineer",
+      companyName:"Coforge",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.coforge.com/#!/",
+      dateUpdated: "13/june/2023"
+    },
      {
       jobTitle: "DevOps Engineer",
       companyName: "Agivant Technologies",
@@ -7,7 +80,7 @@ const jobList = [
       applyURL: "https://www.agivant.com/careers/",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Intern",
       companyName: "Marvell India Pvt. Ltd.",
       location: "Pune, Maharashtra",
@@ -23,7 +96,7 @@ const jobList = [
       applyURL: "https://www.appliedcloudcomputing.com/careers/",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "rtCamp",
       location: "Pune, Maharashtra",
@@ -31,7 +104,7 @@ const jobList = [
       applyURL: "https://rtcamp.com/careers/",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "FPL Technologies",
       location: "Pune, Maharashtra",
@@ -39,7 +112,7 @@ const jobList = [
       applyURL: "https://www.onescore.app/careers/",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "FPL Technologies",
       location: "Pune, Maharashtra",
@@ -47,7 +120,7 @@ const jobList = [
       applyURL: "https://www.onescore.app/careers/",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "Softility",
       location: "Hyderabad, Telangana",
@@ -55,7 +128,7 @@ const jobList = [
       applyURL: "https://www.softility.com/softility-work-culture-careers-jobs-in-cloud-data-aiops-itsm/",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "SAP India Pvt. Ltd",
       location: "Bengaluru, Karnataka",
@@ -63,7 +136,7 @@ const jobList = [
       applyURL: "https://jobs.sap.com/?utm_source=CareerSite&utm_campaign=CorpSite_FT",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "NEOSOFT PRIVATE LIMITED",
       location: "Mumbai, Maharashtra",
@@ -71,7 +144,7 @@ const jobList = [
       applyURL: "https://www.neosofttech.com/careers/",
       dateUpdated: "09/june/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "SigFig",
       location: "Anywhere",
