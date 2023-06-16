@@ -1,5 +1,77 @@
 const jobList = [
 	{
+      jobTitle: "Devops Intern",
+      companyName: "iamops",
+      location: "Surat",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://iamops.io/careers/",
+      dateUpdated: "15/june/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Society Of Innovation And Development",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://sid.iisc.ac.in/careers/",
+      dateUpdated: "15/june/2023"
+    },
+	{
+      jobTitle: "DevOps Software Engineer 1",
+      companyName: "RSM Us Llp",
+      location: "Hyderabad/Secunderabad",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://jobs.rsmus.com/job-search-results/",
+      dateUpdated: "15/june/2023"
+    },
+	{
+      jobTitle: "Software Intern - Python",
+      companyName: "Rivan Solutions",
+      location: "Remote",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.rivan.in/careers.html#content4-1w",
+      dateUpdated: "15/june/2023"
+    },
+	{
+      jobTitle: "AWS Developer",
+      companyName: "Xpheno",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.xpheno.com/jobs",
+      dateUpdated: "15/june/2023"
+    },
+	{
+      jobTitle: "AWS Developer",
+      companyName: "Persistent",
+      location: "Remote",
+      yearsOfExperienceRequired:1.4,
+      applyURL: "https://careers.persistent.com/#!/",
+      dateUpdated: "15/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer, Azure",
+      companyName: "Tiger Analytics",
+      location: "Hyderabad/Secunderabad, Chennai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired:1.5,
+      applyURL: "https://www.tigeranalytics.com/current-openings/",
+      dateUpdated: "15/june/2023"
+    },
+	{
+      jobTitle: " Cloud Engineering and Operations",
+      companyName: "Brillio",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.brillio.com/",
+      dateUpdated: "15/june/2023"
+    },
+     {
+      jobTitle: "CLOUD SUPPORT ENGINEER (INTERN)",
+      companyName: "Netfuture Solutions & Services",
+      location: "Remote",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://netfuture.co.in/career.php",
+      dateUpdated: "15/june/2023"
+    },
+	{
       jobTitle: "DevOps Engineer-Web Banking",
       companyName: "Avaloq",
       location: "Pune, Maharashtra",
