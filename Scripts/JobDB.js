@@ -1,5 +1,104 @@
 const jobList = [
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Ansys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ansys.com/en-in/careers",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "TransPerfect",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.transperfect.com/about/careers",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "Python, AWS",
+      companyName: "Virtusa",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "AWS-DevOps Engineer",
+      companyName: "V2Solutions",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3.7,
+      applyURL: "https://www.v2solutions.com/career.php",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "AWS Cloud",
+      companyName: "vGics Global",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:,
+      applyURL: "https://www.v2solutions.com/career.php",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer,"AWS Cloud Engineer",
+      companyName: "APPSOFT SOLUTIONS",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.v2solutions.com/career.php",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "AWS System Analyst",
+      companyName: "Trigyn",
+      location: "India",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://trigyn.com/careers?f[0]=regions_job_opening%3AAsia&f[1]=country_name%3A62&time=1686989196963",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Usrya Artivision",
+      location: "Bengaluru, Karnataka,
+      yearsOfExperienceRequired:1.5,
+      applyURL: "https://www.usrya.com/career",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Usrya Artivision",
+      location: "Bengaluru, Karnataka,
+      yearsOfExperienceRequired:1.5,
+      applyURL: "https://www.usrya.com/career",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "mobileprogramming",
+      location: "Bengaluru, Karnataka,
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.mobileprogramming.com/careers",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "Azure Devops Engineer",
+      companyName: "SwiftWIN | A Concord Company",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.swiftwininc.com/career/",
+      dateUpdated: "16/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "ATEAM SOFT SOLUTIONS",
+      location: "Thiruvananthapuram, Kerala",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ateamsoftsolutions.com/career/",
+      dateUpdated: "16/june/2023"
+    },
+	
+	
+	
+	{
       jobTitle: "Devops Intern",
       companyName: "iamops",
       location: "Surat",
