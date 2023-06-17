@@ -35,7 +35,7 @@ const jobList = [
       jobTitle: "AWS Cloud",
       companyName: "vGics Global",
       location: "Noida, Uttar Pradesh",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:2,
       applyURL: "https://www.v2solutions.com/career.php",
       dateUpdated: "16/june/2023"
     },
