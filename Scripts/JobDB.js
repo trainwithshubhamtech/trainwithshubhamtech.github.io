@@ -40,7 +40,7 @@ const jobList = [
       dateUpdated: "16/june/2023"
     },
 	{
-      jobTitle: "Cloud Engineer,"AWS Cloud Engineer",
+      jobTitle: "AWS Cloud Engineer",
       companyName: "APPSOFT SOLUTIONS",
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:0.4,
@@ -67,11 +67,11 @@ const jobList = [
       jobTitle: "Cloud Engineer",
       companyName: "Usrya Artivision",
       location: "Bengaluru, Karnataka,
-      yearsOfExperienceRequired:1.5,
+      yearsOfExperienceRequired:1.3,
       applyURL: "https://www.usrya.com/career",
       dateUpdated: "16/june/2023"
     },
-	{
+      {
       jobTitle: "DevOps Engineer",
       companyName: "mobileprogramming",
       location: "Bengaluru, Karnataka,
@@ -95,9 +95,6 @@ const jobList = [
       applyURL: "https://www.ateamsoftsolutions.com/career/",
       dateUpdated: "16/june/2023"
     },
-	
-	
-	
 	{
       jobTitle: "Devops Intern",
       companyName: "iamops",
