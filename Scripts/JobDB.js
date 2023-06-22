@@ -1,5 +1,94 @@
 const jobList = [
 	{
+      jobTitle: "DevOps Freshers",
+      companyName: "Techmologics Innovations",
+      location: "Guntur",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://techmologics.com/career/",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "IT (DevOps Support) Fresher",
+      companyName: "Vyom Labs",
+      location: "Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://vyomlabs.com/careers/",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "VN2 Solutions",
+      location: "Ahmedabad, Chennai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.5,
+      applyURL: "https://www.vn2solutions.com/careers/",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "Internship Trainee",
+      companyName: "AIT Global India Pvt. LTD",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.7,
+      applyURL: "https://aitglobalindia.com/careers/",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "AllianceBernstein",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.alliancebernstein.com/corporate/en/careers.html",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "DevOps",
+      companyName: "Semtech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.semtech.com/careers",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Simplifai India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.simplifai.ai/careers/",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Accenture in India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.accenture.com/in-en/careers/jobsearch?jk=&vw=0&is_rj=0",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Nouryon",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.nouryon.com/careers/",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "DevOps",
+      companyName: "Fynd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://careers.fynd.com/roles-at-fynd#Job-Listing",
+      dateUpdated: "22/june/2023"
+    },
+	{
+      jobTitle: "Google Cloud Platform Engineer",
+      companyName: "Neosoft Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.neosofttech.com/careers/",
+      dateUpdated: "22/june/2023"
+    },
+	
+	{
       jobTitle: "DevOps Engineer",
       companyName: "Ansys",
       location: "Pune, Maharashtra",
