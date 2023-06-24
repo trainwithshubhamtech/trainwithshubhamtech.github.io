@@ -1,5 +1,85 @@
 const jobList = [
 	{
+      jobTitle: "Python-AWS Trainee",
+      companyName: "Futops",
+      location: "Kharadi,Pune,Maharastra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "http://futopstech.com/",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "Freshers - AWS Cloud",
+      companyName: "aeonx digital solutions",
+      location: "Mumbai",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.aeonx.digital/career/",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "AWS System Operations",
+      companyName: "Vsoft Technology",
+      location: "Pune",
+      yearsOfExperienceRequired:0.5,
+      applyURL: "https://www.vsoft.co.in/careers/",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "Python, Reactjs, React Native, QA and DevOps",
+      companyName: "Radical Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.radicaltechnologies.co.in/careers/",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Aics consultancy service pvt. ltd.",
+      location: "Uttar Pradesh",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "http://abigjob4u.com/",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "Software Engineer",
+      companyName: "Baker Hughes",
+      location: "Mumbai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://careers.bakerhughes.com/global/en",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "python developer, data science, ML, AI, freshers, Django",
+      companyName: "EXCELPTP",
+      location: "Ahmedabad",
+      yearsOfExperienceRequired:0.5,
+      applyURL: "https://www.excelptp.com/careers.html",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "Junior DevOps Engineer",
+      companyName: "Tivona Global Technologies Pvt Ltd",
+      location: "Chanai",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.tivonaglobal.com/careers/",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer ( Fresher )",
+      companyName: "Cedcoss Technologies",
+      location: "Lucknow",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://cedcoss.com/current-openings/",
+      dateUpdated: "24/june/2023"
+    },
+	{
+      jobTitle: "DevOps",
+      companyName: "BMC",
+      location: "India",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.bmc.com/careers/careers.html",
+      dateUpdated: "24/june/2023"
+    },
+	{
       jobTitle: "DevOps Freshers",
       companyName: "Techmologics Innovations",
       location: "Guntur",
