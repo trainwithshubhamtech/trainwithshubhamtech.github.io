@@ -1,5 +1,85 @@
 const jobList = [
 	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Mastercard",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.mastercard.com/us/en",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "Freshers - AWS Cloud",
+      companyName: "Benchmark IT Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://benchmarkit.zohorecruit.com/jobs/Careers",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Hilti Corporation",
+      location: "Pune",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.hilti.group/en/jobs/",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "DevOps Cloud (Azure)",
+      companyName: "VigourSoft Global Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://vigoursoft.com/career/",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "Cloud DevOps Specialist",
+      companyName: "Tata Consultancy Services",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.tcs.com/careers",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Trigyn",
+      location: "Mumbai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.trigyn.com/careers",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "orangepeople",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.orangepeople.com/jobs",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "AWS / DevOPS Engineer",
+      companyName: "Swaran Soft",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.swaransoft.com/careers.html",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer (Mid level)",
+      companyName: "Benchmark IT Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://benchmarkit.zohorecruit.com/jobs/Careers",
+      dateUpdated: "27/june/2023"
+    },
+	{
+      jobTitle: "Devops Consultant",
+      companyName: "Infosys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.infosys.com/careers/apply.html",
+      dateUpdated: "27/june/2023"
+    },
+    {
       jobTitle: "Python-AWS Trainee",
       companyName: "Futops",
       location: "Kharadi,Pune,Maharastra",
@@ -7,7 +87,7 @@ const jobList = [
       applyURL: "http://futopstech.com/",
       dateUpdated: "24/june/2023"
     },
-	{
+    {
       jobTitle: "Freshers - AWS Cloud",
       companyName: "aeonx digital solutions",
       location: "Mumbai",
@@ -15,7 +95,7 @@ const jobList = [
       applyURL: "https://www.aeonx.digital/career/",
       dateUpdated: "24/june/2023"
     },
-	{
+     {
       jobTitle: "AWS System Operations",
       companyName: "Vsoft Technology",
       location: "Pune",
