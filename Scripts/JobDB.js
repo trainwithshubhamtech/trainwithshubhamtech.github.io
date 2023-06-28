@@ -1,5 +1,85 @@
 const jobList = [
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Acme Services Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.acme-services.in/current-openings/",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Reliance Group",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.reliancegroupindia.com/web/reliance-group-india/human-resources",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "Sr. Aws DevOps Engineer",
+      companyName: "Fugetron Corp",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.fugetroncorp.com/job-opportunities",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "DevOps Cloud (Azure)",
+      companyName: "VigourSoft Global Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.dieboldnixdorf.com/en-us/careers/",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Wpoets Technology",
+      location: "Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.wpoets.com/careers/",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Squareops",
+      location: "Gurgaon/Gurugram",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://squareops.com/careers/",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "Cloud Service Operations Engineer, Associate",
+      companyName: "PTC",
+      location: "Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ptc.com/en/careers",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "ALM - DevOps Engineer",
+      companyName: "Cybage",
+      location: "Pune",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.cybage.com/careers/current-openings",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "IT Freshers - Java/ Python / Node JS",
+      companyName: "omfys technologies india pvt ltd",
+      location: "Pune,Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.omfysgroup.com/careers",
+      dateUpdated: "28/june/2023"
+    },
+	{
+      jobTitle: "Web Scraping",
+      companyName: "Greenwich",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.greenwich.com/careers/career-opportunities",
+      dateUpdated: "28/june/2023"
+    },
+     {
       jobTitle: "Senior DevOps Engineer",
       companyName: "Mastercard",
       location: "Pune, Maharashtra",
