@@ -1,5 +1,77 @@
 const jobList = [
 	{
+      jobTitle: "DevOps Fresher",
+      companyName: "Iamops",
+      location: "Surat,Gujarat",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://iamops.io/careers/",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Ordrio Technologies Pvt Ltd.",
+      location: "Udupi Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://ordrio.com/careers/",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Aventior",
+      location: "Pune",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://aventior.com/careers-aventior/",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "Jr. DevOps Engineer",
+      companyName: "XcelTec Interactive Pvt Ltd",
+      location: "Ahmedabad",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.xceltec.com/career/",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "DevOps engineer - Kubernetes/Terraform",
+      companyName: "Siemens",
+      location: "Pune",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.siemens.com/in/en/company/jobs.html",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "Devops Consultant",
+      companyName: "Infosys",
+      location: "Pune",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.infosys.com/careers/",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Softregent Technologies",
+      location: "Pune",
+      yearsOfExperienceRequired:0.5,
+      applyURL: "https://softregent.com/careers/",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "Associate Staff Engineer, DevOps",
+      companyName: "Nagarro",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.nagarro.com/en/careers",
+      dateUpdated: "30/june/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Keyutech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://keyutech.com/Careers.html",
+      dateUpdated: "30/june/2023"
+    },
+     {
       jobTitle: "DevOps Engineer",
       companyName: "Acme Services Private Limited",
       location: "Pune, Maharashtra",
