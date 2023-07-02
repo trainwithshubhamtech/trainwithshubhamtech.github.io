@@ -1,5 +1,77 @@
 const jobList = [
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Edfora",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.edfora.com/careers",
+      dateUpdated: "02/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Easyecom",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.easyecom.io/careers",
+      dateUpdated: "02/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "goGlocal",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://goglocal.live/careers",
+      dateUpdated: "02/July/2023"
+    },
+	{
+      jobTitle: "Associate DevOps Engineer",
+      companyName: "Neurosensum",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://neurosensum.com/careers/",
+      dateUpdated: "02/June/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "DRC Systems",
+      location: "Gandhinagar, Gujarat",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.drcsystems.com/careers",
+      dateUpdated: "02/July/2023"
+    },
+	{
+      jobTitle: "AWS/DevOps Engineer",
+      companyName: "Boson",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.5,
+      applyURL: "https://www.boson.com/careers",
+      dateUpdated: "02/July/2023"
+    },
+	{
+      jobTitle: "Sr. DevOps Engineer",
+      companyName: "HHAeXchange",
+      location: "Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.hhaexchange.com/careers",
+      dateUpdated: "02/July/2023"
+    },
+	{
+      jobTitle: "Associate Staff Engineer, DevOps",
+      companyName: "Nagarro",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.nagarro.com/en/careers",
+      dateUpdated: "02/July/2023"
+    },
+	{
+      jobTitle: "Trainee Engineer, Fresher",
+      companyName: "Nenosystems Consulting Services",
+      location: "Indore",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.nenosystems.com/openings",
+      dateUpdated: "02/July/2023"
+    },
+      {
       jobTitle: "DevOps Fresher",
       companyName: "Iamops",
       location: "Surat,Gujarat",
