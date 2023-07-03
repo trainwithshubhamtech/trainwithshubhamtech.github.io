@@ -1,5 +1,85 @@
 const jobList = [
 	{
+      jobTitle: "Devops Engineer",
+      companyName: "VN2 Solutions",
+      location: "Hyderabad/Secunderabad, Chennai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.5,
+      applyURL: "https://www.vn2solutions.com/careers/",
+      dateUpdated: "03/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Foxit eSign",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.foxit.com/company/careers.html",
+      dateUpdated: "03/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Fleetx",
+      location: "",Gurugram, Haryana
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.fleetx.io/careers",
+      dateUpdated: "03/July/2023"
+    },
+	{
+      jobTitle: " DevOps",
+      companyName: "BharatPe",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://bharatpe.com/career",
+      dateUpdated: "03/June/2023"
+    },
+	{
+      jobTitle: "Azure Cloud Devops Internship ",
+      companyName: "Iweb Technology Solutions Private Limited",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://iwebtechno.com/careers/",
+      dateUpdated: "03/July/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer Fresher",
+      companyName: "Acqueon",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.acqueon.com/careers/",
+      dateUpdated: "03/July/2023"
+    },
+	{
+      jobTitle: " Cloud Computing",
+      companyName: "Desire Infoweb",
+      location: "Ahmedabad, Gujarat",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://docs.google.com/forms/d/e/1FAIpQLSd5_w9myObaV8ZQyQ-Qrprtd8unT7Pieh_SyS8OpBzscH3ovA/viewform",
+      dateUpdated: "03/July/2023"
+    },
+	{
+      jobTitle: "Cloud Architect",
+      companyName: "Wipro",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.wipro.com/careers-home",
+      dateUpdated: "03/July/2023"
+    },
+	{
+      jobTitle: "Devops,Python,AWS",
+      companyName: "duxcon",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://duxcon.in/career-2/",
+      dateUpdated: "03/July/2023"
+    },
+	{
+      jobTitle: "DevOps/AWS",
+      companyName: "Cliffex Software Solutions",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://cliffex.com/careers/",
+      dateUpdated: "03/July/2023"
+    },
+     {
       jobTitle: "DevOps Engineer",
       companyName: "Edfora",
       location: "New Delhi, Delhi",
@@ -7,7 +87,7 @@ const jobList = [
       applyURL: "https://www.edfora.com/careers",
       dateUpdated: "02/july/2023"
     },
-	{
+     {
       jobTitle: "DevOps Engineer",
       companyName: "Easyecom",
       location: "Bangalore/Bengaluru",
