@@ -18,7 +18,7 @@ const jobList = [
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Fleetx",
-      location: "",Gurugram, Haryana
+      location: "Gurugram, Haryana",
       yearsOfExperienceRequired:3,
       applyURL: "https://www.fleetx.io/careers",
       dateUpdated: "03/July/2023"
