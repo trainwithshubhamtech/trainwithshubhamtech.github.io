@@ -67,7 +67,7 @@ const jobList = [
       jobTitle: "Devops Engineer",
       companyName: "Tivona Global Technologies",
       location: "Bengaluru, Karnataka",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:2,
       applyURL: "https://www.tivonaglobal.com/careers/",
       dateUpdated: "05/July/2023"
     },
