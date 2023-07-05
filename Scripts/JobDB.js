@@ -1,5 +1,85 @@
 const jobList = [
 	{
+      jobTitle: "DevOps Support",
+      companyName: "Vyom Labs Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://vyomlabs.com/careers/",
+      dateUpdated: "05/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Bijak",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.bijak.in/careers/",
+      dateUpdated: "05/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Netomi",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.netomi.com/people-culture/open-roles",
+      dateUpdated: "05/July/2023"
+    },
+	{
+      jobTitle: "Cyber DevOps",
+      companyName: "Nab",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.nab.com.au/en/listing/",
+      dateUpdated: "05/June/2023"
+    },
+	{
+      jobTitle: "SRE / DevOps",
+      companyName: "Airtel Africa",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://airtel.africa/#/pages/career?tab=join",
+      dateUpdated: "05/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Neova Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.neovasolutions.com/career-opportunities/",
+      dateUpdated: "05/July/2023"
+    },
+	{
+      jobTitle: "DevOps",
+      companyName: "Navigators Software",
+      location: "Ahmedabad, Gujarat",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.thenavsoft.com/careers/",
+      dateUpdated: "05/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Gorewo",
+      location: "India",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.gorewo.com/careers",
+      dateUpdated: "05/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Tivona Global Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:,
+      applyURL: "https://www.tivonaglobal.com/careers/",
+      dateUpdated: "05/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Crimson Interactive",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.crimsoni.com/opportunities.html",
+      dateUpdated: "05/July/2023"
+    },
+     {
       jobTitle: "Devops Engineer",
       companyName: "VN2 Solutions",
       location: "Hyderabad/Secunderabad, Chennai, Bangalore/Bengaluru",
