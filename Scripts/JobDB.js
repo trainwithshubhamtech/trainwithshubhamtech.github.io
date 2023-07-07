@@ -10,7 +10,7 @@ const jobList = [
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Deqode",
-      location: "Pune, Maharashtra,
+      location: "Pune, Maharashtra",
       yearsOfExperienceRequired:1.3,
       applyURL: "https://deqode.com/jobs/devops-sre-engineer/",
       dateUpdated: "08/july/2023"
