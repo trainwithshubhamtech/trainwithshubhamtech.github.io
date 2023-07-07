@@ -1,5 +1,85 @@
 const jobList = [
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "JetSynthesys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.jetsynthesys.com/careers/",
+      dateUpdated: "08/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Deqode",
+      location: "Pune, Maharashtra,
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://deqode.com/jobs/devops-sre-engineer/",
+      dateUpdated: "08/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Tata Consultancy Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.tcs.com/careers",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "Cloud DevOps",
+      companyName: "TARANA WIRELESS INDIA PRIVATE LIMITED",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://taranawireless.applytojob.com/",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - AWS Infrastructure",
+      companyName: "Zimetrics Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.taranawireless.com/careers/",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "eQ Technologic",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.1eq.com/eq-careers",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Release Engineer",
+      companyName: "Ness Digital Engineering",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.ness.com/careers/",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer GCP",
+      companyName: "TRIARQ Health India",
+      location: "Nashik, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.triarqindia.com/careers/",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "The Walt Disney Company",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://jobs.disneycareers.com/",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "Devops",
+      companyName: "ATCS Inc.",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.atcs.com/careers/india",
+      dateUpdated: "08/July/2023"
+    },
+ {
       jobTitle: "DevOps Support",
       companyName: "Vyom Labs Pvt Ltd",
       location: "Pune, Maharashtra",
