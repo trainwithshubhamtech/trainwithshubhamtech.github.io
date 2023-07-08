@@ -51,7 +51,7 @@
     }
   </style>
 
-  <body style="font-family: system-ui, Geneva, Verdana, sans-serif;">
+  <body style="font-family: system-ui, Geneva, Verdana, sans-serif; background-color: #000000;">
     <div class="container-fluid">
       <!--HEADER CONTAINER-->
       <div class="row">
@@ -99,7 +99,28 @@
     </div>
 
     <div class="container-fluid" style="background-color: #000000; color: #FFFFFF;">
-      <div class="container">
+      <div class="row 1">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <div id="maillelo" class="panel panel-default" style="max-width: 100%; width: 85vw; font-size:1.6rem; box-shadow: 0 0 18px 9px rgb(82, 174, 255);">
+                <div class="panel-heading">
+                <h2 class="panel-title"><b>Enter your email</b></h2>
+                </div>
+                <div class="panel-body">
+                <div>
+                    <div class="form-group">
+                    <div id="valid" style="display: none;"><h6 style="color:#ff0000">Enter a valid Email</h6></div>
+                    <input type="email" class="form-control" id="emailInput" placeholder="Email">
+                    </div>
+                    <button id="iet" class="btn btn-primary">Next</button>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4"></div>
+    </div>
+
+      <div class="container 2">
           <div class="panel-heading text-center" style="text-shadow: 0 0 5px #ffee00" id="cunt">
               
           </div>
@@ -107,12 +128,13 @@
     </div>
 
     <div class="container-fluid" style="background-color: #000000;">
-      <div class="container mt-5" id="lelo">
+      <div class="container mt-5 2" id="lelo">
           
       </div>
     </div>
 
     <div class="container-fluid">
+
         <div class="row" style="background:#000000; text-align: center; color:#FFFFFF;margin-top: 25px;">
             <div class="col-md-12" style="text-align: center;margin-top: 2px;">
               <h5 style="margin-bottom:1px;">In case of queries, mail to <b>mentor@trainwithshubham.tech</b>
@@ -125,7 +147,53 @@
             </div>
           </div>
     </div>
+    <script>
+      $('.2').hide();
 
+      var url = "https://prod-82.eastus.logic.azure.com:443/workflows/b3ec5c0ccf6e45cb927393a9dd9dfd08/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=-VY6an80DMrRObAfCr-842k0ipfYiUsWeZjETbNWyvI"
+      function XYZ(s){
+            var jsonData = {
+              "email": s
+            };
+            $('.1').hide();
+            $('.2').show();
+            $.ajax({
+              type: "POST",
+              url: url,
+              data: JSON.stringify(jsonData),
+              contentType: "application/json",
+              success: function(response) {
+                // Handle the response from the API
+                //console.log(response);            
+              },
+              error: function(jqXHR, textStatus, errorThrown) {
+                // Handle any errors that occur during the API call
+                console.log(textStatus, errorThrown);
+              }
+            });        
+        }
+
+        $(document).ready(function() {
+          $('#iet').click(function(event) {
+            event.preventDefault(); // Prevent form submission
+            var email = $('#emailInput').val();
+            var isValid = email === "" ? false : true;
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            isValid = emailRegex.test(email);
+            if(isValid)
+            {
+              XYZ(email)
+            }
+            else
+            {
+              const element = document.getElementById("valid");
+              if (element) {
+                element.style.display = "block";
+              }
+            }
+          });
+        });
+    </script>
     <script src="Scripts/JobDB.js"></script>  
 
   </body>
