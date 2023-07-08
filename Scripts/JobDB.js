@@ -1,4 +1,68 @@
 const jobList = [
+{
+      jobTitle: "DevOps Engineer",
+      companyName: "PRI India IT Services Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://priglobal.com/careers/",
+      dateUpdated: "08/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Purview Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.0,
+      applyURL: "https://purviewjobs.com/index.php?q=result",
+      dateUpdated: "08/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Servify",
+      location: "DevOps Engineer",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://servify.in/careers",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Rejolut Technology Solutions",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://rejolut.com/career-at-rejolut/",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "Consultant Devops",
+      companyName: "IFI Techsolutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://ifi.tech/#!/careers",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "iRageCapital Advisory Private Limited",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "iRageCapital Advisory Private Limited",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer/GCP Engineer",
+      companyName: "NEOSOFT PRIVATE LIMITED",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.neosofttech.com/careers/",
+      dateUpdated: "08/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer GCP",
+      companyName: "Tivona Global Technologies",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:0,
+      applyURL: "https://www.tivonaglobal.com/careers/",
+      dateUpdated: "08/July/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "JetSynthesys",
