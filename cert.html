@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrainWithShubham</title>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <!--LOAD BOOTSTRAP JQUERY-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <!--LOAD BOOTSTRAP JQUERY-->
+    <!--LOAD CUSTOM CSS-->
+    <link rel="stylesheet" href="Styles/root.css">
+    <link rel="stylesheet" href="Styles/loader.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!--LOAD CUSTOM CSS-->
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans|Pinyon+Script|Rochester');
+      .test {
+        border: 1px solid black;
+      }
+
+        .cursive {
+        font-family: 'Pinyon Script', cursive;
+        }
+
+        .sans {
+        font-family: 'Open Sans', sans-serif;
+        }
+
+        .bold {
+        font-weight: bold;
+        }
+
+        .block {
+        display: block;
+        }
+
+        .underline {
+        border-bottom: 1px solid #777;
+        padding: 5px;
+        margin-bottom: 15px;
+        }
+
+        .margin-0 {
+        margin: 0;
+        }
+
+        .padding-0 {
+        padding: 0;
+        }
+
+        .pm-empty-space {
+        height: 40px;
+        width: 100%;
+        }
+
+        body {
+        padding: 20px 0;
+        background: #ccc;
+        }
+
+        .pm-certificate-container {
+        position: relative;
+        width: 800px;
+        height: 600px;
+        background-color: #618597;
+        padding: 30px;
+        color: #333;
+        font-family: 'Open Sans', sans-serif;
+        box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+        /*background: -webkit-repeating-linear-gradient(
+            45deg,
+            #618597,
+            #618597 1px,
+            #b2cad6 1px,
+            #b2cad6 2px
+        );
+        background: repeating-linear-gradient(
+            90deg,
+            #618597,
+            #618597 1px,
+            #b2cad6 1px,
+            #b2cad6 2px
+        );*/
+        
+        .outer-border {
+            width: 794px;
+            height: 594px;
+            position: absolute;
+            left: 50%;
+            margin-left: -397px;
+            top: 50%;
+            margin-top:-297px;
+            border: 2px solid #fff;
+        }
+        
+        .inner-border {
+            width: 730px;
+            height: 530px;
+            position: absolute;
+            left: 50%;
+            margin-left: -365px;
+            top: 50%;
+            margin-top:-265px;
+            border: 2px solid #fff;
+        }
+
+        .pm-certificate-border {
+            position: relative;
+            width: 720px;
+            height: 520px;
+            padding: 0;
+            border: 1px solid #E1E5F0;
+            background-color: rgba(255, 255, 255, 1);
+            background-image: none;
+            left: 50%;
+            margin-left: -360px;
+            top: 50%;
+            margin-top: -260px;
+
+            .pm-certificate-block {
+            width: 650px;
+            height: 200px;
+            position: relative;
+            left: 50%;
+            margin-left: -325px;
+            top: 70px;
+            margin-top: 0;
+            }
+
+            .pm-certificate-header {
+            margin-bottom: 10px;
+            }
+
+            .pm-certificate-title {
+            position: relative;
+            top: 40px;
+
+            h2 {
+                font-size: 34px !important;
+            }
+            }
+
+            .pm-certificate-body {
+            padding: 20px;
+
+            .pm-name-text {
+                font-size: 20px;
+            }
+            }
+
+            .pm-earned {
+            margin: 15px 0 20px;
+            .pm-earned-text {
+                font-size: 20px;
+            }
+            .pm-credits-text {
+                font-size: 15px;
+            }
+            }
+
+            .pm-course-title {
+            .pm-earned-text {
+                font-size: 20px;
+            }
+            .pm-credits-text {
+                font-size: 15px;
+            }
+            }
+
+            .pm-certified {
+            font-size: 12px;
+
+            .underline {
+                margin-bottom: 5px;
+            }
+            }
+
+            .pm-certificate-footer {
+            width: 650px;
+            height: 100px;
+            position: relative;
+            left: 50%;
+            margin-left: -325px;
+            bottom: -105px;
+            }
+        }
+        }
+
+
+    </style>
+  </head>
+  <body style="font-family: system-ui, Geneva, Verdana, sans-serif; overflow-x: auto;">
+    <div class="container-fluid">
+      <!--HEADER CONTAINER-->
+      <div class="row">
+        <nav class="navbar navbar-default" style="border-radius: 0px;">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand navbarText" href="/index"><b>TRAIN WITH SHUBHAM</b></a>
+            </div>
+            <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+              <ul class="nav navbar-nav">
+                <li class=" navbar-pillet">
+                  <a href="/index" class="navbarText">HOME</a>
+                </li>
+                <li class="navbar-pillet">
+                  <a href="/courses" class="navbarText">COURSES</a>
+                </li>
+                 <li class="navbar-pillet">
+                   <a href="/jobs" class="navbarText">DEVOPS JOBS</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div class="container-fluid" style="overflow-x: auto; min-height: 90vh;" id="121">
+        
+            <div class="container pm-certificate-container">
+                <div class="outer-border"></div>
+                <div class="inner-border"></div>
+                
+                <div class="pm-certificate-border col-xs-12">
+                <div class="row pm-certificate-header">
+                    <div class="pm-certificate-title cursive col-xs-12 text-center cursive">
+                    <h2><b class="cursive" style="font-size: 3rem;">Train With Shubham</b></h2>
+                    </div>
+                </div>
+
+                <div class="row pm-certificate-body" style="margin-top: -30px;">
+                    
+                    <div class="pm-certificate-block">
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-certificate-name underline margin-0 col-xs-8 text-center">
+                            <span class="pm-name-text bold" id="nm1"></span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                        </div>
+                        </div>          
+
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-earned col-xs-8 text-center">
+                            <span class="pm-earned-text padding-0 block cursive">has earned</span>
+                            <span class="pm-credits-text block bold sans" id="t1"></span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="col-xs-12"></div>
+                        </div>
+                        </div>
+                        
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-course-title col-xs-8 text-center">
+                            <span class="pm-earned-text block cursive">while completing the training course entitled</span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                        </div>
+                        </div>
+
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-course-title underline col-xs-8 text-center">
+                            <span class="pm-credits-text block bold sans" id="cc"></span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                        </div>
+                        </div>
+                    </div>       
+                    
+                    <div class="col-xs-12">
+                    <div class="row">
+                        <div class="pm-certificate-footer">
+                            <div class="col-xs-4 pm-certified col-xs-4 text-center">
+                            <span class="pm-credits-text block sans">Course Commenced</span>
+                            <span class="pm-empty-space block underline"><b id="stD"></b></span>
+                            </div>
+                            <div class="col-xs-4">
+                            <!-- LEAVE EMPTY -->
+                            </div>
+                            <div class="col-xs-4 pm-certified col-xs-4 text-center">
+                            <span class="pm-credits-text block sans">Course Concluded</span>
+                            <span class="pm-empty-space block underline"><b id="endD"></b></span>
+                            </div>
+                        </div>
+
+                        <div class="text-center pm-certificate-footer" ><p>This is a digitally signed certifice and does not need signature</p></div>
+                        
+                    </div>
+                    </div>
+
+                </div>
+
+                </div>
+            </div>
+            
+    </div>
+  </body>
+
+  <script>
+    param=location.href.split("?")
+    i = (param[1]).split("i=")[1]
+    k=i
+    var x = {
+        "osheen" : {
+            "name" : "Osheen Khare",
+            "title": "Certified DevOps Practitioner",
+            "course" : "DevOps: Zero to Hero [3 Months]",
+            "start" : "1.April.2023",
+            "end" : "30.June.2023"
+        }
+    }
+
+    if(!x.hasOwnProperty(i)){
+        $('#121').html('<h3>CERTIFICATE INVALID</h3>');
+    }
+
+    $('#endD').text(x[k].end);
+    $('#stD').text(x[k].start);
+    $('#cc').text(x[k].course);
+    $('#t1').text(x[k].title);
+    $('#nm1').text(x[k].name);
+  </script>
+
+
+</html>
