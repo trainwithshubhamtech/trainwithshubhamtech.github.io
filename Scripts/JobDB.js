@@ -1,4 +1,88 @@
 const jobList = [
+	{
+	
+      jobTitle: "Azure/DevOps",
+      companyName: "Axcess Consultancy services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://axcesscareers.com/job-seekers/",
+      dateUpdated: "11/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Amdocs",
+      location: "Pimpri-Chinchwad, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "11/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer ",
+      companyName: "Vikgol",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.5,
+      applyURL: "https://www.vikgol.com/jobs",
+      dateUpdated: "11/July/2023"
+    },
+	{
+      jobTitle: "DevOps Application Lead",
+      companyName: "Accenture in India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.accenture.com/in-en/careers/explore-careers/area-of-interest/operations-careers",
+      dateUpdated: "11/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "QuoDeck Technologies Private Limited",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:,
+      applyURL: "https://www.quodeck.com/welcome/careers.html",
+      dateUpdated: "11/July/2023"
+    },
+	{
+      jobTitle: "DevOps",
+      companyName: "Medius Technologies Private Limited",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.themedicusapp.com/careers/",
+      dateUpdated: "11/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer/GCP Engineer",
+      companyName: "NEOSOFT PRIVATE LIMITED",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.xoriant.com/about-xoriant/careers",
+      dateUpdated: "11/July/2023"
+    },
+	{
+      jobTitle: "Python Developer (Cloud AWS)",
+      companyName: "Xoriant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.tivonaglobal.com/careers/",
+      dateUpdated: "11/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS Cloud FullStack",
+      companyName: "IBM Careers",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.ibm.com/careers/in-en/early-career/internship/",
+      dateUpdated: "11/July/2023"
+    },
+	{
+      jobTitle: "AWS Database Engineer",
+      companyName: "LTIMindtree Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "11/July/2023"
+    },
+	
+	
 {
       jobTitle: "DevOps Engineer",
       companyName: "PRI India IT Services Pvt Ltd",
