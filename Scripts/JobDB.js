@@ -36,7 +36,7 @@ const jobList = [
       jobTitle: "DevOps Engineer",
       companyName: "QuoDeck Technologies Private Limited",
       location: "Mumbai, Maharashtra",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:3,
       applyURL: "https://www.quodeck.com/welcome/careers.html",
       dateUpdated: "11/July/2023"
     },
