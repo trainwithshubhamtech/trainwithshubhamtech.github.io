@@ -19,7 +19,7 @@ const jobList = [
       jobTitle: "AWS",
       companyName: "Zensar Technologies",
       location: "Pune, Maharashtra",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:1,
       applyURL: "https://www.zensar.com/careers/",
       dateUpdated: "12/July/2023"
     },
