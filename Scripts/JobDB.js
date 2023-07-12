@@ -60,7 +60,7 @@ const jobList = [
       companyName: "VigourSoft Global Solutions",
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:2,
-      applyURL: "https://vigoursoft.com/career/"
+      applyURL: "https://vigoursoft.com/career/",
       dateUpdated: "12/July/2023"
     },
     {
