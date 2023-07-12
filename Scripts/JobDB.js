@@ -1,5 +1,86 @@
 const jobList = [
 	{
+      jobTitle: "AWS DevOps",
+      companyName: "Eroute Technologies",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.eroute.in/career",
+      dateUpdated: "12/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Azure",
+      companyName: "GlobalLogic",
+      location: "Bangalore",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.globallogic.com/careers/",
+      dateUpdated: "12/july/2023"
+    },
+	{
+      jobTitle: "AWS",
+      companyName: "Zensar Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:,
+      applyURL: "https://www.zensar.com/careers/",
+      dateUpdated: "12/July/2023"
+    },
+	{
+      jobTitle: "Cloud Database",
+      companyName: "V2 Tech Ventures",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.v2solutions.com/career.php",
+      dateUpdated: "12/July/2023"
+    },
+	{
+      jobTitle: "Cloud DevOps Engineer",
+      companyName: "IDOX plc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.idoxgroup.com/careers/",
+      dateUpdated: "12/July/2023"
+    },
+	{
+      jobTitle: "Associate DevOps Engineer",
+      companyName: "Beinex",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://beinex.com/careers",
+      dateUpdated: "12/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Aexonic Technologies",
+      location: "Pune",
+      yearsOfExperienceRequired:1.4,
+      applyURL: "https://www.aexonic.com/careers",
+      dateUpdated: "12/July/2023"
+    },
+	{
+      jobTitle: "DevOps Cloud (Azure)",
+      companyName: "VigourSoft Global Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://vigoursoft.com/career/"
+      dateUpdated: "12/July/2023"
+    },
+    {
+      jobTitle: "AWS Cloud FullStack",
+      companyName: "Techvantage Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.techvantagesystems.com/careers/",
+      dateUpdated: "12/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Techvantage Systems",
+      location: "Thiruvananthapuram, Kerala",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "12/July/2023"
+    },
+	
+	{
 	
       jobTitle: "Azure/DevOps",
       companyName: "Axcess Consultancy services",
