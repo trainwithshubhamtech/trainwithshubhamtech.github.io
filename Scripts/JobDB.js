@@ -1,5 +1,61 @@
 const jobList = [
 	{
+      jobTitle: "Associate Cloud Engineer",
+      companyName: "mobileprogramming",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.mobileprogramming.com/careers",
+      dateUpdated: "13/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Azure",
+      companyName: "Convera",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://convera.com/careers/",
+      dateUpdated: "13/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "AllianceBernstein",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.alliancebernstein.com/corporate/en/careers.html",
+      dateUpdated: "13/July/2023"
+    },
+	{
+      jobTitle: "DevOps AWS Engineer",
+      companyName: "Innovecture",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://www.innovect.com/careers",
+      dateUpdated: "13/July/2023"
+    },
+	{
+      jobTitle: "Cloud DevOps Engineer",
+      companyName: "IDOX plc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.innovect.com/careers",
+      dateUpdated: "13/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Getinz",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://getinz-people.freshteam.com/jobs",
+      dateUpdated: "13/July/2023"
+    },
+	{
+      jobTitle: "Azure Devops Engineer",
+      companyName: "Marktine",
+      location: "Remote",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://marktine.com/current-openings/",
+      dateUpdated: "13/July/2023"
+    },
+	{
       jobTitle: "AWS DevOps",
       companyName: "Eroute Technologies",
       location: "Noida, Uttar Pradesh",
