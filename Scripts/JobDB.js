@@ -1,4 +1,95 @@
 const jobList = [
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Webyops Inc",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://webyops.com/careers/",
+      dateUpdated: "15/july/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Ataloud Technologies",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ataloud.com/careers#currentopenings",
+      dateUpdated: "15/July/2023"
+    },
+	
+	{
+      jobTitle: "Microsoft Azure DevOps",
+      companyName: "Prorigo Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.prorigo.com/careers.html",
+      dateUpdated: "15/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "OvalEdge",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.ovaledge.com/careers",
+      dateUpdated: "15/July/2023"
+    },
+	{
+      jobTitle: "Software Testing Engineer (Senior & Junior)",
+      companyName: "cal4care",
+      location: "Pune, Chennai, Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.cal4care.com/company/careers/",
+      dateUpdated: "15/July/2023"
+    },
+	{
+      jobTitle: "Cloud Expert - Devops",
+      companyName: "Niveus Solutions",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://niveussolutions.com/careers/",
+      dateUpdated: "15/July/2023"
+    },
+	
+	{
+      jobTitle: " devops Intern",
+      companyName: "Sujosu Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.sujosu.com/Career.html",
+      dateUpdated: "15/July/2023"
+    },
+	{
+      jobTitle: "Python, Reactjs, React Native, QA and DevOps; Freshers",
+      companyName: "Radical Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.radicaltechnologies.co.in/careers/",
+      dateUpdated: "15/July/2023"
+    },
+	{
+      jobTitle: "AI/ML Intern",
+      companyName: "Kylo Apps",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://kyloapps.com/careers",
+      dateUpdated: "15/July/2023"
+    },
+	{
+      jobTitle: "Tech Development Internship",
+      companyName: "Anaxee Digital Runners Pvt. Ltd.",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://anaxee.com/career/",
+      dateUpdated: "15/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Dori Ai",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.dori.ai/careers",
+      dateUpdated: "15/July/2023"
+    },
 	{
       jobTitle: "Associate Cloud Engineer",
       companyName: "mobileprogramming",
