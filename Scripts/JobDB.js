@@ -2,6 +2,96 @@ const jobList = [
 	
 	{
       jobTitle: "DevOps Engineer",
+      companyName: "Siemens",
+      location: "Pune",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.siemens.com/in/en/company/jobs.html",
+      dateUpdated: "17/july/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Eclat Engineering Pvt. Ltd.",
+      location: "Ahmedabad",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://eclateng.com/career-eclat",
+      dateUpdated: "17/July/2023"
+    },
+	
+	{
+      jobTitle: "Microsoft Azure DevOps",
+      companyName: "Mercedes-Benz Research and Development India Private Limited",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.mbrdi.co.in/hiring-opportunities/",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Quodeck Technologies Pvt Ltd",
+      location: "Mumbai",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.quodeck.com/welcome/careers.html",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "Software Testing Engineer (Senior & Junior)",
+      companyName: "Wipro Limited",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://careers.wipro.com/careers-home",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Opteamix",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://opteamix.com/careers/",
+      dateUpdated: "17/July/2023"
+    },
+	
+	{
+      jobTitle: "Azure Devops",
+      companyName: "L&T Technology Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.ltts.com/careers",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "AWS DevOps",
+      companyName: "Yash Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.yash.com/about-us/career/",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "AI/ML Intern",
+      companyName: "Vimerse InfoTech Inc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.vimerseit.com/careers/",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "DevOps Development Internship",
+      companyName: "Kelp Global",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.kelpglobal.com/careers/",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "BMC Software",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired:1,
+      applyURL: " Associate DevOps Engineer ",
+      dateUpdated: "17/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
       companyName: "Webyops Inc",
       location: "Mumbai, Maharashtra",
       yearsOfExperienceRequired:2,
