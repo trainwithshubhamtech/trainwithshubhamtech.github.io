@@ -1,6 +1,96 @@
 const jobList = [
 	
 	{
+      jobTitle: "Middle DevOps Engineer",
+      companyName: "Intellias",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://career.intellias.com/",
+      dateUpdated: "18/july/2023"
+    },
+	{
+      jobTitle: "devops",
+      companyName: "Natobotics Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "http://www.natobotics.com/careers.html",
+      dateUpdated: "18/July/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Edfora",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://edfora.com/careers",
+      dateUpdated: "18/July/2023"
+    },
+	{
+      jobTitle:"Fresher Python Developer ",
+      companyName: "TransForm Solutions",
+      location: "Surat, Gujarat",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.transformsolution.com/current-openings",
+      dateUpdated: "18/July/2023"
+    },
+	{
+      jobTitle: "Cloud/AWS Engineer",
+      companyName: "Cybage Software Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.cybage.com/careers/current-openings",
+      dateUpdated: "18/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "JPMorgan Chase & Co.",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.jpmorganchase.com/institute/about/careers",
+      dateUpdated: "18/July/2023"
+    },
+	
+	{
+      jobTitle: "Azure Devops",
+      companyName: "Visionet Systems",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.visionet.com/careers",
+      dateUpdated: "18/July/2023"
+    },
+	{
+      jobTitle: "Python and AWS",
+      companyName: "Comcast",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://corporate.comcast.com/careers",
+      dateUpdated: "18/July/2023"
+    },
+	{
+      jobTitle: "AWS Devops",
+      companyName: "DXC Technology",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.dxc.com/global/en/home",
+      dateUpdated: "18/July/2023"
+    },
+	{
+      jobTitle: "Trainee Engineer",
+      companyName: "Cambridge Technology Enterprises Limited",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ctepl.com/careers/",
+      dateUpdated: "18/July/2023"
+    },
+	{
+      jobTitle: "DevOps,Testing,AWS, Python",
+      companyName: "duxcon",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://duxcon.in/career-2/",
+      dateUpdated: "18/July/2023"
+    },
+	{
       jobTitle: "DevOps Engineer",
       companyName: "Siemens",
       location: "Pune",
