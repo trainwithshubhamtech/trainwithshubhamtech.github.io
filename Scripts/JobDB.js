@@ -1,6 +1,71 @@
 const jobList = [
+
+	 {
+      jobTitle: "DevOps Engineer",
+      companyName: "HCLTech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.hcltech.com/careers/Careers-in-india",
+      dateUpdated: "19/july/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "NielsenIQ",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://nielseniq.com/global/en/careers/",
+      dateUpdated: "19/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "NatWest Group",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://jobs.natwestgroup.com/",
+      dateUpdated: "19/July/2023"
+    },
+	{
+      jobTitle:"AWS DevOps Engineer Internship",
+      companyName: "RDandX",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.rebid.co/careers/",
+      dateUpdated: "19/July/2023"
+    },
+	{
+      jobTitle: "Intern Cloud Devops Engineer",
+      companyName: "CloudPlinth",
+      location: "Warangal, Telangana",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.cloudplinth.com/careers/",
+      dateUpdated: "19/July/2023"
+    },
+	{
+      jobTitle: "Cloud Computing/DevOps/SRE Internship",
+      companyName: "ITechserv",
+      location: "India",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://itechserv.net/career/",
+      dateUpdated: "19/July/2023"
+    },
 	
 	{
+      jobTitle: "Intern - DevOps",
+      companyName: "",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "Spanda technologies private limited",
+      dateUpdated: "19/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer Intern",
+      companyName: "Diatoz Solutions Private Limited",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.diatoz.com/careers",
+      dateUpdated: "19/July/2023"
+    },
+     {
       jobTitle: "Middle DevOps Engineer",
       companyName: "Intellias",
       location: "Pune, Maharashtra",
