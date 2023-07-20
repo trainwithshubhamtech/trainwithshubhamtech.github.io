@@ -13,7 +13,7 @@ const jobList = [
       companyName: "Nvent.com",
       location: "Mumbai, Maharashtra",
       yearsOfExperienceRequired:0.2,
-      applyURL: ""https://www.nvent.com/en-us/careers,
+      applyURL: "https://www.nvent.com/en-us/careers",
       dateUpdated: "20/July/2023"
     },
 	{
