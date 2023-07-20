@@ -1,6 +1,96 @@
 const jobList = [
-
-	 {
+	
+	{
+      jobTitle: "Cloud AWS DevOps Engineer ",
+      companyName: "CodersBrain",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.codersbrain.com/careers/",
+      dateUpdated: "20/july/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Nvent.com",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: ""https://www.nvent.com/en-us/careers,
+      dateUpdated: "20/July/2023"
+    },
+	{
+      jobTitle: "Cloud Devops Engineer (AWS)",
+      companyName: "IVY TECH SOLUTIONS INC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://ivytechsol.com/jobs/",
+      dateUpdated: "20/July/2023"
+    },
+	{
+      jobTitle:"AWS DevOps Engineer Internship",
+      companyName: "Tvs Next Private Limited",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://careers.tvsnext.io/#!/",
+      dateUpdated: "20/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer / Cloud Engineer",
+      companyName: "Cincyr Tech Private Limited",
+      location: "Secunderabad, Telangana",
+      yearsOfExperienceRequired:2,
+      applyURL: "http://cincyrtech.com/careers",
+      dateUpdated: "20/July/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Flutter Entertainment",
+      location: "Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.flutter.com/careers/",
+      dateUpdated: "20/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Sysvine Technologies",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.sysvine.com/careers/current-opportunities/",
+      dateUpdated: "20/July/2023"
+    },
+	{
+      jobTitle: "Cloud DevOps Engineer",
+      companyName: "CloudPlinth, Inc.",
+      location: "Hanamkonda, Telangana",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.sysvine.com/careers/",
+      dateUpdated: "20/July/2023"
+    },
+	
+	{
+      jobTitle: " DevOps Engineer",
+      companyName: "Ansys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ansys.com/en-in/careers",
+      dateUpdated: "20/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Cognizant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.cognizant.com/global/en",
+      dateUpdated: "20/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Cognizant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.cognizant.com/global/en",
+      dateUpdated: "20/July/2023"
+    },
+	{
       jobTitle: "DevOps Engineer",
       companyName: "HCLTech",
       location: "Pune, Maharashtra",
