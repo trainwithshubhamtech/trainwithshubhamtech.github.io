@@ -1,6 +1,88 @@
 const jobList = [
+   
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Acme Services Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.acme-services.in/current-openings/",
+      dateUpdated: "22/july/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Siemens Energy",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://jobs.siemens-energy.com/en_US/jobs",
+      dateUpdated: "22/July/2023"
+    },
 	
 	{
+      jobTitle: "Middle DevOps Engineer",
+      companyName: "Intellias",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://career.intellias.com/",
+      dateUpdated: "22/July/2023"
+    },
+	{
+      jobTitle:"Cloud AWS DevOps Engineer",
+      companyName: "CodersBrain",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.codersbrain.com/careers/",
+      dateUpdated: "22/July/2023"
+    },
+	{
+      jobTitle: "AWS Devops with python",
+      companyName: "LTIMindtree",
+      location: "India",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "22/July/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Ernst & Young",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.ey.com/en_in/careers/job-search",
+      dateUpdated: "22/July/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Ysquare Technology Pvt Ltd",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://ysquaretechnology.com/careers",
+      dateUpdated: "22/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer (Azure/AWS)",
+      companyName: "ClockHash Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://clockhash.com/careers",
+      dateUpdated: "22/July/2023"
+    },
+	{
+      jobTitle: "",
+      companyName: "Hexaware Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://hexaware.com/careers/employee-programs/mavericks/",
+      dateUpdated: "22/July/2023"
+    },
+	{
+      jobTitle: "Cloud Support Engineer",
+      companyName: "VSynergize",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://vsynergize.freshteam.com/jobs",
+      dateUpdated: "22/July/2023"
+    },
+     {
       jobTitle: "Cloud AWS DevOps Engineer ",
       companyName: "CodersBrain",
       location: "Anywhere",
