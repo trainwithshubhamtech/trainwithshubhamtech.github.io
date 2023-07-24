@@ -1,5 +1,89 @@
 const jobList = [
-   
+
+	
+	{
+      jobTitle: "AWS DevOps",
+      companyName: "YASH Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.yash.com/about-us/career/",
+      dateUpdated: "24/july/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer - Cloud",
+      companyName: "ACE TALENT CONSULTING",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "http://www.ace-talent.com/career-seekers",
+      dateUpdated: "24/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Admin with Devops",
+      companyName: "NuStar Technologies",
+      location: "Bhubaneswar, Odisha",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.nustar-tech.com/Careers.html",
+      dateUpdated: "24/July/2023"
+    },
+	{
+      jobTitle:"AWS DevOps Intern",
+      companyName: "Spring Computing Technologies",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://springct.com/careers/",
+      dateUpdated: "24/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer-Azure/AWS",
+      companyName: "Qualitest",
+      location: "India",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.qualitestgroup.com/careers/",
+      dateUpdated: "24/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer(Azure DevOps / AWS DevOps)",
+      companyName: "CodeTrade India Pvt. Ltd.",
+      location: "Ahmedabad, Gujarat",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.codetrade.io/careers/",
+      dateUpdated: "24/July/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Ignatiuz Software Pvt. Ltd",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.ignatiuz.com/careers/",
+      dateUpdated: "24/July/2023"
+    },
+	{
+      jobTitle: "Salesforce DevOps Intern",
+      companyName: "Alcon",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.alcon.com/about-us/careers",
+      dateUpdated: "24/July/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "Abhyaz",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.abhyaz.com/internship_for_jobseekers",
+      dateUpdated: "24/July/2023"
+    },
+	{
+      jobTitle: "Cloud Support Engineer",
+      companyName: "Blue Data Consulting",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.bluedataconsulting.in/career/",
+      dateUpdated: "24/July/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Acme Services Private Limited",
