@@ -1,7 +1,96 @@
 const jobList = [
-
+	{
+      jobTitle: "Cloud Security Engineer",
+      companyName: "Mphasis",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.mphasis.com/home.html",
+      dateUpdated: "25/july/2023"
+    },
+	{
+      jobTitle: "Cloud Developer",
+      companyName: "Expleo Group",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.expleo.com/en/#",
+      dateUpdated: "25/July/2023"
+    },
 	
 	{
+      jobTitle: "Cloud Jobs",
+      companyName: "Virtusa",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "25/July/2023"
+    },
+	{
+      jobTitle:"AWS DevOps Intern",
+      companyName: "Anaxee Digital Runners Private Limited",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://anaxee.com/career/",
+      dateUpdated: "25/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer-Azure/AWS",
+      companyName: "Anaxee Digital Runners Private Limited",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.qualitestgroup.com/careers/",
+      dateUpdated: "25/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Mediaocean",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.mediaocean.com/careers",
+      dateUpdated: "25/July/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "WPoets Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.wpoets.com/careers/",
+      dateUpdated: "25/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Kyndryl",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.kyndryl.com/in/en/careers",
+      dateUpdated: "25/July/2023"
+    },
+	
+	{
+      jobTitle: "Jr DevOps Engineer",
+      companyName: "Tekdi Technologies Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.tekdi.net/careers/",
+      dateUpdated: "25/July/2023"
+    },
+	{
+      jobTitle: "Cloud Support Engineer",
+      companyName: "Innovecture",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.innovect.com/careers",
+      dateUpdated: "25/July/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "InovarTech",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.inovar-tech.com/about/careers",
+      dateUpdated: "25/July/2023"
+    },
+      {
       jobTitle: "AWS DevOps",
       companyName: "YASH Technologies",
       location: "Pune, Maharashtra",
