@@ -1,5 +1,89 @@
 const jobList = [
 	{
+      jobTitle: "Cloud DevOps",
+      companyName: "Firminiq",
+      location: "Chandigarh",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://firminiq.com/job-openings/",
+      dateUpdated: "26/july/2023"
+    },
+	{
+      jobTitle: "Cloud DevOps Engineer",
+      companyName: "Trellix",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.trellix.com/",
+      dateUpdated: "26/July/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Anicca Data Science Solutions",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://www.aniccadata.com/careers",
+      dateUpdated: "26/July/2023"
+    },
+	{
+      jobTitle:"Cloud DevOps Engineer",
+      companyName: "KLX Cloud IT",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://knitlogix.com/career/",
+      dateUpdated: "26/July/2023"
+    },
+	{
+      jobTitle: "Devops Engineer-Azure/AWS",
+      companyName: "Finxera",
+      location: "Chandigarh",
+      yearsOfExperienceRequired:3.4,
+      applyURL: "https://careers.finxera.com/career/",
+      dateUpdated: "26/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engg with Cloud Automation",
+      companyName: "FIS",
+      location: "India",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://careers.fisglobal.com/us/en",
+      dateUpdated: "26/July/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Hirexa",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://hirexa.com/page/careers",
+      dateUpdated: "26/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer internship",
+      companyName: "Comprinno Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://comprinno.net/careers/",
+      dateUpdated: "26/July/2023"
+    },
+	
+	{
+      jobTitle: "Linux/AWS Internship",
+      companyName: "Mobzway Technologies LLP",
+      location: "Jaipur, Rajasthan",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.mobzway.com/careers/",
+      dateUpdated: "26/July/2023"
+    },
+	{
+      jobTitle: "AWS Marketing Internship",
+      companyName: "Aabasoft Technologies India Private Limited",
+      location: "Kakkanad, Kerala",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.aabasoft.com/in-en/career/",
+      dateUpdated: "26/July/2023"
+    },
+	
+	{
       jobTitle: "Cloud Security Engineer",
       companyName: "Mphasis",
       location: "Pune, Maharashtra",
