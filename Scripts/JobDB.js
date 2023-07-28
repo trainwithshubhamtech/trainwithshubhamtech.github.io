@@ -1,4 +1,80 @@
 const jobList = [
+	
+	{
+      jobTitle: "DevOps Engineer - Intern",
+      companyName: "Adagrad AI",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.adagrad.ai/careers",
+      dateUpdated: "28/july/2023"
+    },
+	{
+      jobTitle: "Cloud Engineering/DevOps Engineering",
+      companyName: "Bharati Robotic Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.brsindia.com/careers.html",
+      dateUpdated: "28/July/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer Intern",
+      companyName: "Anuta Networks",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.anutanetworks.com/careers/",
+      dateUpdated: "28/July/2023"
+    },
+	{
+      jobTitle:"DevOps (Presales Engineer) Intern",
+      companyName: "Nimesa Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://nimesa.io/careers/",
+      dateUpdated: "28/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Quodeck",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.quodeck.com/welcome/careers.html",
+      dateUpdated: "28/July/2023"
+    },
+	{
+      jobTitle: "AWS-DevOps Engineer",
+      companyName: "V2Solutions",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.v2solutions.com/career.php",
+      dateUpdated: "28/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps",
+      companyName: "Tata Consultancy Services Limited",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.tcs.com/careers",
+      dateUpdated: "28/July/2023"
+    },
+	{
+      jobTitle: "AWS DevOps ",
+      companyName: "YASH Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://comprinno.net/careers/",
+      dateUpdated: "28/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS Devops",
+      companyName: "Sureminds Solutions Private Limited",
+      location: "India",
+      yearsOfExperienceRequired:2.4,
+      applyURL: "https://www.sureminds.co.in/careers/",
+      dateUpdated: "28/July/2023"
+    },
 	{
       jobTitle: "Cloud DevOps",
       companyName: "Firminiq",
