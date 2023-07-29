@@ -1,6 +1,81 @@
 const jobList = [
 	
 	{
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "Abhyaz",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.abhyaz.com/career",
+      dateUpdated: "29/july/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Administrator",
+      companyName: "Exela Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.exelatech.com/careers",
+      dateUpdated: "29/July/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer : Internship",
+      companyName: "Bynry",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.bynry.com/careers",
+      dateUpdated: "29/July/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "TSS Consultancy",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.smartrecruiters.com/TSSConsultancyPvtLtd",
+      dateUpdated: "29/July/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Everestek Technosoft Solutions Pvt Ltd.",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.everestek.com/careers/",
+      dateUpdated: "29/July/2023"
+    },
+	{
+      jobTitle: "AWS",
+      companyName: "Zensar Technologies Limited",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.zensar.com/careers/",
+      dateUpdated: "29/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "LucidPlus IT Solutions LLP",
+      location: "Kochi, Kerala",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://lucidplus.com/careers/",
+      dateUpdated: "29/July/2023"
+    },
+	{
+      jobTitle: "Python API Developer with AWS",
+      companyName: "VARITE INDIA PRIVATE LIMITED",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.varite.com/careers/",
+      dateUpdated: "29/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS Devops",
+      companyName: "Infosys",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.infosys.com/careers/apply.html",
+      dateUpdated: "29/July/2023"
+    },
+	{
       jobTitle: "DevOps Engineer - Intern",
       companyName: "Adagrad AI",
       location: "Pune, Maharashtra",
