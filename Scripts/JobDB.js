@@ -1,6 +1,80 @@
 const jobList = [
 	
 	{
+      jobTitle: "AWS DevOps Developer",
+      companyName: "Emtec Inc.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.emtecinc.com/careers/",
+      dateUpdated: "31/july/2023"
+    },
+	{
+      jobTitle: "Associate - Cloud Engineer",
+      companyName: "TIAA",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.tiaa.org/global/en/career-areas",
+      dateUpdated: "31/July/2023"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "TSL Consulting Pvt. Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://tslconsulting.in/life-at-tsl/",
+      dateUpdated: "31/July/2023"
+    },
+	{
+      jobTitle:"AWS Engineer",
+      companyName: "Bee Logical Software Solutions",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://bee-logical.com/career/",
+      dateUpdated: "31/July/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Administrator",
+      companyName: "Exela Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.exelatech.com/careers",
+      dateUpdated: "31/July/2023"
+    },
+	{
+      jobTitle: "IoT Cloud Principal Engineer",
+      companyName: "Sensata Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.sensata.com/careers",
+      dateUpdated: "31/July/2023"
+    },
+	
+	{
+      jobTitle: "ADAS/AD Cloud Engineer",
+      companyName: "Hexagon AB",
+      location: "India",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.sensata.com/careers",
+      dateUpdated: "31/July/2023"
+    },
+	{
+      jobTitle: "Python API Developer with AWS",
+      companyName: "DataBeat",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://databeat.io/open-positions/",
+      dateUpdated: "31/July/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "LucidPlus IT Solutions LLP",
+      location: "Kochi, Kerala",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://lucidplus.com/careers/",
+      dateUpdated: "31/July/2023"
+    },
+	{
       jobTitle: "DevOps Engineer- Intern",
       companyName: "Abhyaz",
       location: "Chennai, Tamil Nadu",
