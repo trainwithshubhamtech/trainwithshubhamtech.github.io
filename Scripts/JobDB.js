@@ -1,6 +1,81 @@
 const jobList = [
 	
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Oski Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://about.crunchbase.com/about-us/careers/",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Zensar Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.zensar.com/careers/",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Forescout Technologies Inc.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.forescout.com/company/careers/",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle:"Associate DevOps Engineer",
+      companyName: "BMC Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.bmc.com/careers/careers.html",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "Senior Cloud Engineer (AWS)",
+      companyName: "STAND 8 Technology Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.stand8.io/careers/",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "SitusAMC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.situsamc.com/",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineering",
+      companyName: "Hewlett Packard Enterprise (HPE)",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.hpe.com/us/en",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "eQ Technologic",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.1eq.com/eq-careers",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "DXC Technology",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.dxc.com/global/en/home",
+      dateUpdated: "01/August/2023"
+    },
+	{
       jobTitle: "AWS DevOps Developer",
       companyName: "Emtec Inc.",
       location: "Pune, Maharashtra",
