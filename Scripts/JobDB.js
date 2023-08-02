@@ -1,5 +1,80 @@
 const jobList = [
+
+	{
+      jobTitle: "DevOps/Support Engineer",
+      companyName: "Wolters Kluwer",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.wolterskluwer.com/en",
+      dateUpdated: "02/August/2023"
+    },
+	{
+      jobTitle: "AWS Devops",
+      companyName: "Coforge",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.coforge.com/#!/",
+      dateUpdated: "02/August/2023"
+    },
 	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Copeland",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.copeland.com/en-us/careers",
+      dateUpdated: "02/August/2023"
+    },
+	{
+      jobTitle:"Associate Cloud Engineer - Google Cloud Platform",
+      companyName: "Bicsom Technologies",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://bicsom.co/job-openings/",
+      dateUpdated: "02/August/2023"
+    },
+	{
+      jobTitle: "Cloud Service Operations Engineer, Associate",
+      companyName: "PTC",
+      location: "Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ptc.com/en/careers",
+      dateUpdated: "02/August/2023"
+    },
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "SitusAMC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.e2enetworks.com/careers",
+      dateUpdated: "02/August/2023"
+    },
+	
+	{
+      jobTitle: "Trainee Software Engineer",
+      companyName: "Apogaeis",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.apogaeis.com/career/",
+      dateUpdated: "02/August/2023"
+    },
+	{
+      jobTitle: "AWS Developer",
+      companyName: "Xpheno",
+      location: "Mumbai, Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.xpheno.com/jobs",
+      dateUpdated: "02/August/2023"
+    },
+	
+	{
+      jobTitle: "Associate Data Engineer- AWS",
+      companyName: "Xenonstack",
+      location: "Mohali",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.xenonstack.com/careers/",
+      dateUpdated: "02/August/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Oski Technology",
