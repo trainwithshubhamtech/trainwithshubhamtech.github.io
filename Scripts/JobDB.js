@@ -1,5 +1,80 @@
 const jobList = [
-
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "QuoDeck Technologies",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.quodeck.com/welcome/careers.html",
+      dateUpdated: "03/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer – EaaS",
+      companyName: "Siemens",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.siemens.com/global/en/company/jobs.html",
+      dateUpdated: "03/August/2023"
+    },
+	
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "M&G Global Services",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.mandg.com/careers",
+      dateUpdated: "03/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "PRAXINFO",
+      location: "Ahmedabad, Gujarat",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://praxinfo.com/careers/",
+      dateUpdated: "03/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Planview Incorporated",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://careers.planview.com/careers-home/",
+      dateUpdated: "03/August/2023"
+    },
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "Larsen & Toubro",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.larsentoubro.com/corporate/careers/",
+      dateUpdated: "03/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "SynergyTop LLC",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://synergytop.com/careers/",
+      dateUpdated: "03/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "CRIMSON INTERACTIVE PVT LTD",
+      location: "Mumbai, Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.crimsoni.com/opportunities.html",
+      dateUpdated: "03/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "KNOLSKAPE",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://knolskape.com/careers/",
+      dateUpdated: "03/August/2023"
+    },
 	{
       jobTitle: "DevOps/Support Engineer",
       companyName: "Wolters Kluwer",
