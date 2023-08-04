@@ -1,6 +1,89 @@
 const jobList = [
 	
 	{
+      jobTitle: "DevOps Support",
+      companyName: "Vyom Labs",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://vyomlabs.com/careers/",
+      dateUpdated: "04/August/2023"
+    },
+	{
+      jobTitle: "AWS Devops Engineer",
+      companyName: "Tvs Next Private Limited",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.tvsnext.io/#!/",
+      dateUpdated: "04/August/2023"
+    },
+	
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Nimesa Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://nimesa.io/careers/",
+      dateUpdated: "04/August/2023"
+    },
+	{
+      jobTitle:"Cloud Engineer",
+      companyName: "apiwiz",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.apiwiz.io/careers",
+      dateUpdated: "04/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Asmadiya Technologies",
+      location: "pune",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://www.idoxgroup.com/careers/",
+      dateUpdated: "04/August/2023"
+    },
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "Larsen & Toubro",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:,
+      applyURL: "https://asmadiya.com/careers",
+      dateUpdated: "04/August/2023"
+    },
+	
+	{
+      jobTitle: "Azure Data Engineer",
+      companyName: "Abzooba",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.abzooba.com/#!/joblist",
+      dateUpdated: "04/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "ADAGRAD HQ",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.adagrad.ai/careers",
+      dateUpdated: "04/August/2023"
+    },
+	
+	{
+      jobTitle: "Software Engineer Web Scraper",
+      companyName: "Perfios",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://finbox.freshteam.com/jobs",
+      dateUpdated: "04/August/2023"
+    },
+	{
+      jobTitle: "Azure Data Engineer",
+      companyName: "Epik Solutions",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.epikso.com/careers.php",
+      dateUpdated: "04/August/2023"
+    },
+	{
       jobTitle: "DevOps Engineer",
       companyName: "QuoDeck Technologies",
       location: "Mumbai, Maharashtra",
