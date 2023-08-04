@@ -43,9 +43,9 @@ const jobList = [
     },
 	{
       jobTitle: "Associate, Cloud Engineer",
-      companyName: "Larsen & Toubro",
+      companyName: "asmadiya",
       location: "Mumbai, Maharashtra",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:0.3,
       applyURL: "https://asmadiya.com/careers",
       dateUpdated: "04/August/2023"
     },
