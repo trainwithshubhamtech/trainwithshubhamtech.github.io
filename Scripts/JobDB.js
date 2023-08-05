@@ -3835,13 +3835,40 @@ const jobList = [
 ];
 
 
+//filter
+var minExperience=0
+var maxExperience=0
+function onDropdownChange() {
+  // Your logic here
+  minExperience = document.getElementById('minExperience').value;
+  maxExperience = document.getElementById('maxExperience').value;
+  console.log(`Minimum Experience: ${minExperience}, Maximum Experience: ${maxExperience}`);
+  $('#cunt').html(``)
+  $('#lelo').html(``)
+
+  var jbl1 = filterJobsByExperience(minExperience,maxExperience);
+  var count = jbl1.length;
+  $('#cunt').append(`<h3>Available Jobs : `+count+`</h3>`)
+  jbl1.forEach(job => {
+    AddJobData(job.jobTitle, job.companyName, job.location, job.yearsOfExperienceRequired, job.applyURL, job.dateUpdated)
+});
+
+}
+// Adding event listeners to the dropdowns
+document.getElementById('minExperience').addEventListener('change', onDropdownChange);
+document.getElementById('maxExperience').addEventListener('change', onDropdownChange);
+function filterJobsByExperience(min, max) {
+  return jobList.filter((job) => job.yearsOfExperienceRequired >= min &&
+  job.yearsOfExperienceRequired <= max);
+}
+//filter over
+
 var count = jobList.length;
 $('#cunt').append(`<h3>Available Jobs : `+count+`</h3>`)
 
 jobList.forEach(job => {
     AddJobData(job.jobTitle, job.companyName, job.location, job.yearsOfExperienceRequired, job.applyURL, job.dateUpdated)
-  });
-  
+});
 
 function AddJobData(jt, jc, jl, jy, ju,du) {
     var x = Math.random() * 10;

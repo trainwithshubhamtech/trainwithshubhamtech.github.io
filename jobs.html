@@ -16,6 +16,23 @@
   </head>
 
   <style>
+    /* Custom CSS to center the dropdowns */
+    .center-content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Custom CSS to beautify the dropdown */
+    .custom-dropdown {
+      width: 200px; /* Adjust the width as needed */
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      padding: 8px;
+    }
+  </style>
+
+  <style>
     .test {
       border: 1px solid black;
     }
@@ -118,7 +135,56 @@
             </div>
         </div>
         <div class="col-lg-4"></div>
-    </div>
+      </div>
+
+      <div class="container 2" style="margin-top: 10px; background-color: #000000; color: #FFFFFF;">
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="minExperience">Minimum Experience:</label>
+            <select class="custom-select" id="minExperience" style="background-color: #000000; color: #FFFFFF;">
+              <option value="0" selected>No Experience</option>
+              <option value="1">1 Year</option>
+              <option value="2">2 Years</option>
+              <option value="3">3 Years</option>
+              <option value="4">4 Years</option>
+              <option value="5">5 Years</option>
+              <!-- Add more options as needed -->
+            </select>
+          </div>
+        </div>
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="maxExperience">Maximum Experience:</label>
+            <select class="custom-select" id="maxExperience" style="background-color: #000000; color: #FFFFFF;">
+              <option value="10" selected>10+ Years</option>
+              <option value="9">9 Years</option>
+              <option value="8">8 Years</option>
+              <option value="7">7 Years</option>
+              <option value="6">6 Years</option>
+              <option value="5">5 Years</option>
+              <option value="3">3 Years</option>
+              <option value="2">2 Years</option>
+              <option value="1">1 Year</option>
+              <!-- Add more options as needed -->
+            </select>
+          </div>
+        </div>
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="maxExperience">Company Name:</label>
+            <input class="custom-select" id="maxExperience" style="background-color: #000000; color: #FFFFFF;">
+          </input>
+          </div>
+        </div>
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="maxExperience">Location:</label>
+            <input class="custom-select" id="maxExperience" style="background-color: #000000; color: #FFFFFF;">
+          </input>
+          </div>
+        </div>
+      </div>
+
 
       <div class="container 2">
           <div class="panel-heading text-center" style="text-shadow: 0 0 5px #ffee00" id="cunt">
@@ -126,6 +192,7 @@
           </div>
       </div>
     </div>
+
 
     <div class="container-fluid" style="background-color: #000000;">
       <div class="container mt-5 2" id="lelo">
