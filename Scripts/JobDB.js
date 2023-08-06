@@ -1,5 +1,96 @@
 const jobList = [
+
+	{
+      jobTitle: "Cloud DevOps Engineer",
+      companyName: "IDOX plc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.idoxgroup.com/careers/",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Junior Devops Engineer",
+      companyName: "Centelon",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://centelonsolutions.com/company/careers/",
+      dateUpdated: "06/August/2023"
+    },
 	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Evervent",
+      location: "Sahibzada Ajit Singh Nagar, Punjab",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://evervent.in/career",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Ginni Systems",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ginesys.in/careers",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Cognizant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.cognizant.com/global/en",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Anicca Data Science Solutions",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:,
+      applyURL: "https://www.aniccadata.com/careers",
+      dateUpdated: "06/August/2023"
+    },
+	
+	{
+      jobTitle: "Azure Data Engineer",
+      companyName: "Techenhance",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.aniccadata.com/careers",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "TripleLift",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://triplelift.com/careers/",
+      dateUpdated: "06/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud engineer",
+      companyName: "Cotocus",
+      location: "India",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.cotocus.com/career/",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Sitero",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://sitero.com/careers/",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Anaxee Digital Runners Private Limited",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://anaxee.com/career/",
+      dateUpdated: "06/August/2023"
+    },
 	{
       jobTitle: "DevOps Support",
       companyName: "Vyom Labs",
