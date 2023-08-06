@@ -45,7 +45,7 @@ const jobList = [
       jobTitle: "Cloud Engineer",
       companyName: "Anicca Data Science Solutions",
       location: "Bengaluru, Karnataka",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:2,
       applyURL: "https://www.aniccadata.com/careers",
       dateUpdated: "06/August/2023"
     },
