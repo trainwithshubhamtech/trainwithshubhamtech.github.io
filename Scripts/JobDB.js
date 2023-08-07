@@ -1,5 +1,88 @@
 const jobList = [
-
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Fuze Technology",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.fuzeindia.com/careers.html",
+      dateUpdated: "07/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS Devops Engineer",
+      companyName: "DXC.technology",
+      location: "India",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.dxc.com/global/en",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer Intern",
+      companyName: "DIATOZ Solutions Pvt Ltd.",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://diatoz.com/careers",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "Data Scraping Engineer Intern",
+      companyName: "Stylumia",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.stylumia.ai/careers/",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Dori Ai",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.dori.ai/careers",
+      dateUpdated: "07/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Saffo Solution Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.saffotech.com/Career",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "Python Developer - web scraping",
+      companyName: "Gmware Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://gmware.com/careers/",
+      dateUpdated: "07/August/2023"
+    },
+	
+	{
+      jobTitle: "Python Developer-AWS",
+      companyName: "CGI",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.cgi.com/en/careers",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "AWS DevOps",
+      companyName: "GlobalLogic",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.globallogic.com/careers/",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Neilsoft",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL:"https://neilsoft.com/careers",
+      dateUpdated: "07/August/2023"
+    },
+	
 	{
       jobTitle: "Cloud DevOps Engineer",
       companyName: "IDOX plc",
