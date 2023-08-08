@@ -1,4 +1,81 @@
 const jobList = [
+	
+	
+	{
+      jobTitle: "Phython Django Intern",
+      companyName: "Techfaya",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://careers.smartrecruiters.com/TechfayaInnovationsPvtLtd",
+      dateUpdated: "08/August/2023"
+    },
+	
+	{
+      jobTitle: "Senior Devops Engineer",
+      companyName: "Webonise",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://webonise.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle:"Associate Senior DevOps Engineer",
+      companyName: "Global Payments (Beamery",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://jobs.globalpayments.com/en/internships-us/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "PubMatic",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://pubmatic.com/careers/job-search/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Webonise Lab Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://webonise.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Neutrino Tech Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://neutrinotechsystems.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Kibo",
+      location: "Anywhere",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://neutrinotechsystems.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	
+	{
+      jobTitle: "Python Developer-AWS",
+      companyName: "TransUnion",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.transunion.com/about-us/careers",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "DevOps AWS Engineer",
+      companyName: "Cybage",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.cybage.com/careers/current-openings",
+      dateUpdated: "08/August/2023"
+    },
 	{
       jobTitle: "AWS DevOps Engineer",
       companyName: "Fuze Technology",
