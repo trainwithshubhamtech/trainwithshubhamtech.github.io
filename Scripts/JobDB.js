@@ -2,6 +2,90 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Velotio Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.velotio.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Crest Data Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.crestdatasys.com/careers/",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle:"Associate Senior DevOps Engineer",
+      companyName: "Trinesis Technology Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://trinesis.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: " DevOps",
+      companyName: "Dynamisch IT .",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://dynamisch.co/career/",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "WPoets Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.wpoets.com/careers/",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Neutrino Tech Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://hyrefox.com/Home/Jobs",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Renovision Automation Services Pvt. Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.raspl.com/career.php",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "The Situs Companies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.situsamc.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: "Senior Cloud Engineer",
+      companyName: "Ness Digital Engineering",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.ness.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Stibo Systems",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.stibosystems.com/company/careers-at-stibo-systems",
+      dateUpdated: "10/August/2023"
+    },
+	{
       jobTitle: "Phython Django Intern",
       companyName: "Techfaya",
       location: "Bengaluru, Karnataka",
