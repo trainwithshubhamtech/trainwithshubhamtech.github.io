@@ -1,7 +1,89 @@
 const jobList = [
-	
+
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Kibo",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://kibocommerce.com/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "AWS Internship ",
+      companyName: "Radical Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.radicaltechnologies.co.in/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle:"DevOps Internship",
+      companyName: "SquareOps",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://squareops.com/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Nvidia",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://kibocommerce.com/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "aws cloud devops",
+      companyName: "Diverse Lynx India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.diverselynx.com/career-with-us/",
+      dateUpdated: "12/August/2023"
+    },
 	
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "ASPB Services Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "http://aspbservices.com/career",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Renovision Automation Services Pvt. Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.raspl.com/career.php",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "The Situs Companies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.situsamc.com/careers",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "Azure Architect - DevOps Integration",
+      companyName: "Beauto System Pvt ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.beautosys.com/careers.html",
+      dateUpdated: "12/August/2023"
+    },
+	
+	{
+      jobTitle: "Microsoft Azure DevOps",
+      companyName: "Prorigo Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.prorigo.com/careers.html",
+      dateUpdated: "12/August/2023"
+    },
+      {
       jobTitle: "Senior DevOps Engineer",
       companyName: "Velotio Technologies",
       location: "Pune, Maharashtra",
