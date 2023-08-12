@@ -1,5 +1,90 @@
 const jobList = [
-
+	
+	
+	{
+      jobTitle: "DevOps Developer",
+      companyName: "Datamato Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.datamato.com/devops-case-study",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps",
+      companyName: "Cloud Counselage Pvt. Ltd.",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://geekrabit.com/career",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle:"DevOps Internship",
+      companyName: "Azure Devops Engineer",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.industryacademiacommunity.com/s/pages/jobs",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "SmartConnect Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.smartconnectt.com/career.html",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: " DevOps Engineer",
+      companyName: "Deloitte",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www2.deloitte.com/us/en/careers/careers.html",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Arieotech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://arieotech.com/job-openings/",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: "DevOps Specialist",
+      companyName: "VTEST Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.vtestcorp.com/careers/",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Guru",
+      companyName: "Pivotchain Solution Technologies",
+      location: "Pune,Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://pivotchain.com/raven-careers/",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Globant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.globant.com/careers",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "Information Systems ",
+      companyName: "PRI India IT Services Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://priglobal.com/careers/",
+      dateUpdated: "13/August/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Kibo",
