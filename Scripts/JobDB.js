@@ -1,6 +1,106 @@
 const jobList = [
+
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Virtusa",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4.5,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "16/August/2023"
+    },
 	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "PubMatic",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://pubmatic.com/careers/job-search/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Ansys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ansys.com/en-in/careers",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "LTIMindtree",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:8.12,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "Salesforce DevOps Specialist",
+      companyName: "Barclays",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://home.barclays/careers/",
+      dateUpdated: "16/August/2023"
+    },
 	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "BuildNext",
+      location: "Matheran, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.buildnext.in/jobs/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "Jr. Devops Engineer",
+      companyName: "Bizessence Pty Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4.6,
+      applyURL: "https://bizessence.com.au/job-list/",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Specialist",
+      companyName: "VTEST Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.7,
+      applyURL: "https://www.vtestcorp.com/careers/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Acute Informatics Private Limited",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.acuteinformatics.co.in/career/",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: " AWS Cloud Trainee",
+      companyName: "Rapyder",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.rapyder.com/jobs/Careers",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Daynil Group Solutions Pvt Ltd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://daynilgroup.com/career.php",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: "Internship Programme",
+      companyName: "CloudEthiX",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://cloudethix.com/careers/",
+      dateUpdated: "16/August/2023"
+    },
 	{
       jobTitle: "DevOps Developer",
       companyName: "Datamato Technologies",
