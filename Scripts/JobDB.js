@@ -1,5 +1,98 @@
 const jobList = [
-
+	
+	
+	{
+      jobTitle: "DevOps Engineer – Fresher Featured",
+      companyName: "Mobiloitte Technologies",
+      location: "New Delhi",
+      yearsOfExperienceRequired:0.1
+      applyURL: "https://www.mobiloitte.com/jobs/devops-engineer-fresher/",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - Intern",
+      companyName: "SIGMOID",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://boards.greenhouse.io/sigmoid/jobs/4470647002",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle:"Linux / Devops Admin",
+      companyName: "BPrise",
+      location: "Mumbai",
+      yearsOfExperienceRequired:4.7,
+      applyURL: "https://www.bprise.com/careers",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Cloud Sales Specialist Fresher",
+      companyName: "Nimesa Technologies",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://nimesa.io/careers/",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Junior System Admin (DevOps)",
+      companyName: "Ontash`",
+      location: "Calicut",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://ontash.net/global/in_sys_admin",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "Support Analyst",
+      companyName: "KPi-Tech Services",
+      location: "Hyderābād",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://kpitechservices.com/careers",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Web designer cum Developer",
+      companyName: "Redsky Advance Solutions Pvt. Ltd.",
+      location: "Mohali",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://redskyadvancesolutions.com/career/",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "EnactOn Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.enacton.com/careers/",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Data Scientist",
+      companyName: "Niftel Resources Pvt. Ltd.",
+      location: "Gurgaon",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.niftelresources.com/apply-for-job",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "Software / Web Developer Intern",
+      companyName: "eNest Technologies Pvt Ltd",
+      location: "Mohali",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.enestit.com/jobs/Careers",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Associate Trainee",
+      companyName: "American Chase LLP",
+      location: "Indore",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://americanchase.com/career/",
+      dateUpdated: "17/August/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Virtusa",
