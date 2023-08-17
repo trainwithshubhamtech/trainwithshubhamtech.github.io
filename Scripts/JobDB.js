@@ -5,7 +5,7 @@ const jobList = [
       jobTitle: "DevOps Engineer – Fresher Featured",
       companyName: "Mobiloitte Technologies",
       location: "New Delhi",
-      yearsOfExperienceRequired:0.1
+      yearsOfExperienceRequired:0.1,
       applyURL: "https://www.mobiloitte.com/jobs/devops-engineer-fresher/",
       dateUpdated: "17/August/2023"
     },
