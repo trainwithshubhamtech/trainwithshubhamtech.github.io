@@ -1,6 +1,97 @@
 const jobList = [
+
+	{
+      jobTitle: "Azure DevOps",
+      companyName: "Altimetrik",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://altimetrik.com/careers/",
+      dateUpdated: "19/August/2023"
+    },
 	
+	{
+      jobTitle: "Software Engineer - Devops",
+      companyName: "Houghton Mifflin Harcourt",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.hmhco.com/careers",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle:"Software Engineer - II (DevOps)",
+      companyName: "Helpshift",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.helpshift.com/company/careers/",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Operations Engineer Aws Devops",
+      companyName: "Yash Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.yash.com/about-us/career/",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Junior Engineer (AWS certified - Fresher)",
+      companyName: "People Tech",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://peopletech.com/careers/",
+      dateUpdated: "19/August/2023"
+    },
 	
+	{
+      jobTitle: "Python and AWS",
+      companyName: "Comcast",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://corporate.comcast.com/careers",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "AWS Fresher",
+      companyName: "Training Basket",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.jobbasket.in/find-job",
+      dateUpdated: "19/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Support Engineer",
+      companyName: "Umbrella Infocare",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.umbrellainfocare.com/career",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Python/Django Developer",
+      companyName: "Finoit Technologies Pvt. Ltd.",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.finoit.com/careers/",
+      dateUpdated: "19/August/2023"
+    },
+	
+	{
+      jobTitle: "Web Scraping Data Engineer",
+      companyName: "TransForm Solution",
+      location: "Surat, Gujarat",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.transformsolution.com/current-openings",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Web Scraping Engineer",
+      companyName: "InteleANTS",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.ojcommerce.com/jobs",
+      dateUpdated: "19/August/2023"
+    },
 	{
       jobTitle: "DevOps Engineer – Fresher Featured",
       companyName: "Mobiloitte Technologies",
