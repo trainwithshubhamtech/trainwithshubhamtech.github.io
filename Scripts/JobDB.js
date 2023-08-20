@@ -1,5 +1,791 @@
 const jobList = [
+
+	{
+      jobTitle: "Azure DevOps",
+      companyName: "Altimetrik",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://altimetrik.com/careers/",
+      dateUpdated: "19/August/2023"
+    },
 	
+	{
+      jobTitle: "Software Engineer - Devops",
+      companyName: "Houghton Mifflin Harcourt",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.hmhco.com/careers",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle:"Software Engineer - II (DevOps)",
+      companyName: "Helpshift",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.helpshift.com/company/careers/",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Operations Engineer Aws Devops",
+      companyName: "Yash Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.yash.com/about-us/career/",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Junior Engineer (AWS certified - Fresher)",
+      companyName: "People Tech",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://peopletech.com/careers/",
+      dateUpdated: "19/August/2023"
+    },
+	
+	{
+      jobTitle: "Python and AWS",
+      companyName: "Comcast",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://corporate.comcast.com/careers",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "AWS Fresher",
+      companyName: "Training Basket",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.jobbasket.in/find-job",
+      dateUpdated: "19/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Support Engineer",
+      companyName: "Umbrella Infocare",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.umbrellainfocare.com/career",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Python/Django Developer",
+      companyName: "Finoit Technologies Pvt. Ltd.",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.finoit.com/careers/",
+      dateUpdated: "19/August/2023"
+    },
+	
+	{
+      jobTitle: "Web Scraping Data Engineer",
+      companyName: "TransForm Solution",
+      location: "Surat, Gujarat",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.transformsolution.com/current-openings",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "Web Scraping Engineer",
+      companyName: "InteleANTS",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.ojcommerce.com/jobs",
+      dateUpdated: "19/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer – Fresher Featured",
+      companyName: "Mobiloitte Technologies",
+      location: "New Delhi",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.mobiloitte.com/jobs/devops-engineer-fresher/",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - Intern",
+      companyName: "SIGMOID",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://boards.greenhouse.io/sigmoid/jobs/4470647002",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle:"Linux / Devops Admin",
+      companyName: "BPrise",
+      location: "Mumbai",
+      yearsOfExperienceRequired:4.7,
+      applyURL: "https://www.bprise.com/careers",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Cloud Sales Specialist Fresher",
+      companyName: "Nimesa Technologies",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://nimesa.io/careers/",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Junior System Admin (DevOps)",
+      companyName: "Ontash`",
+      location: "Calicut",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://ontash.net/global/in_sys_admin",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "Support Analyst",
+      companyName: "KPi-Tech Services",
+      location: "Hyderābād",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://kpitechservices.com/careers",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Web designer cum Developer",
+      companyName: "Redsky Advance Solutions Pvt. Ltd.",
+      location: "Mohali",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://redskyadvancesolutions.com/career/",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "EnactOn Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.enacton.com/careers/",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Data Scientist",
+      companyName: "Niftel Resources Pvt. Ltd.",
+      location: "Gurgaon",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.niftelresources.com/apply-for-job",
+      dateUpdated: "17/August/2023"
+    },
+	
+	{
+      jobTitle: "Software / Web Developer Intern",
+      companyName: "eNest Technologies Pvt Ltd",
+      location: "Mohali",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.enestit.com/jobs/Careers",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "Associate Trainee",
+      companyName: "American Chase LLP",
+      location: "Indore",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://americanchase.com/career/",
+      dateUpdated: "17/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Virtusa",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4.5,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "PubMatic",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://pubmatic.com/careers/job-search/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Ansys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ansys.com/en-in/careers",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "LTIMindtree",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:8.12,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "Salesforce DevOps Specialist",
+      companyName: "Barclays",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://home.barclays/careers/",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "BuildNext",
+      location: "Matheran, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.buildnext.in/jobs/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "Jr. Devops Engineer",
+      companyName: "Bizessence Pty Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4.6,
+      applyURL: "https://bizessence.com.au/job-list/",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Specialist",
+      companyName: "VTEST Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.7,
+      applyURL: "https://www.vtestcorp.com/careers/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Acute Informatics Private Limited",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.acuteinformatics.co.in/career/",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: " AWS Cloud Trainee",
+      companyName: "Rapyder",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.rapyder.com/jobs/Careers",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Daynil Group Solutions Pvt Ltd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://daynilgroup.com/career.php",
+      dateUpdated: "16/August/2023"
+    },
+	
+	{
+      jobTitle: "Internship Programme",
+      companyName: "CloudEthiX",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://cloudethix.com/careers/",
+      dateUpdated: "16/August/2023"
+    },
+	{
+      jobTitle: "DevOps Developer",
+      companyName: "Datamato Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.datamato.com/devops-case-study",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps",
+      companyName: "Cloud Counselage Pvt. Ltd.",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://geekrabit.com/career",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle:"DevOps Internship",
+      companyName: "Azure Devops Engineer",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.industryacademiacommunity.com/s/pages/jobs",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "SmartConnect Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.smartconnectt.com/career.html",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: " DevOps Engineer",
+      companyName: "Deloitte",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www2.deloitte.com/us/en/careers/careers.html",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Arieotech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://arieotech.com/job-openings/",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: "DevOps Specialist",
+      companyName: "VTEST Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.vtestcorp.com/careers/",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Guru",
+      companyName: "Pivotchain Solution Technologies",
+      location: "Pune,Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://pivotchain.com/raven-careers/",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Globant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.globant.com/careers",
+      dateUpdated: "13/August/2023"
+    },
+	
+	{
+      jobTitle: "Information Systems ",
+      companyName: "PRI India IT Services Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://priglobal.com/careers/",
+      dateUpdated: "13/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Kibo",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://kibocommerce.com/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "AWS Internship ",
+      companyName: "Radical Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.radicaltechnologies.co.in/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle:"DevOps Internship",
+      companyName: "SquareOps",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://squareops.com/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Nvidia",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://kibocommerce.com/careers/",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "aws cloud devops",
+      companyName: "Diverse Lynx India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.diverselynx.com/career-with-us/",
+      dateUpdated: "12/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "ASPB Services Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "http://aspbservices.com/career",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Renovision Automation Services Pvt. Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.raspl.com/career.php",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "The Situs Companies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.situsamc.com/careers",
+      dateUpdated: "12/August/2023"
+    },
+	{
+      jobTitle: "Azure Architect - DevOps Integration",
+      companyName: "Beauto System Pvt ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.beautosys.com/careers.html",
+      dateUpdated: "12/August/2023"
+    },
+	
+	{
+      jobTitle: "Microsoft Azure DevOps",
+      companyName: "Prorigo Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.prorigo.com/careers.html",
+      dateUpdated: "12/August/2023"
+    },
+      {
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Velotio Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.velotio.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Crest Data Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.crestdatasys.com/careers/",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle:"Associate Senior DevOps Engineer",
+      companyName: "Trinesis Technology Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://trinesis.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: " DevOps",
+      companyName: "Dynamisch IT .",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://dynamisch.co/career/",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "WPoets Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.wpoets.com/careers/",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Neutrino Tech Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://hyrefox.com/Home/Jobs",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Renovision Automation Services Pvt. Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.raspl.com/career.php",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "The Situs Companies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.situsamc.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: "Senior Cloud Engineer",
+      companyName: "Ness Digital Engineering",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.ness.com/careers",
+      dateUpdated: "10/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Stibo Systems",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.stibosystems.com/company/careers-at-stibo-systems",
+      dateUpdated: "10/August/2023"
+    },
+	{
+      jobTitle: "Phython Django Intern",
+      companyName: "Techfaya",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://careers.smartrecruiters.com/TechfayaInnovationsPvtLtd",
+      dateUpdated: "08/August/2023"
+    },
+	
+	{
+      jobTitle: "Senior Devops Engineer",
+      companyName: "Webonise",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://webonise.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle:"Associate Senior DevOps Engineer",
+      companyName: "Global Payments (Beamery",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://jobs.globalpayments.com/en/internships-us/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "PubMatic",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://pubmatic.com/careers/job-search/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Webonise Lab Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://webonise.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Neutrino Tech Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://neutrinotechsystems.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Kibo",
+      location: "Anywhere",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://neutrinotechsystems.com/careers/",
+      dateUpdated: "08/August/2023"
+    },
+	
+	{
+      jobTitle: "Python Developer-AWS",
+      companyName: "TransUnion",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.transunion.com/about-us/careers",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "DevOps AWS Engineer",
+      companyName: "Cybage",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.cybage.com/careers/current-openings",
+      dateUpdated: "08/August/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Fuze Technology",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.fuzeindia.com/careers.html",
+      dateUpdated: "07/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS Devops Engineer",
+      companyName: "DXC.technology",
+      location: "India",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.dxc.com/global/en",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer Intern",
+      companyName: "DIATOZ Solutions Pvt Ltd.",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://diatoz.com/careers",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "Data Scraping Engineer Intern",
+      companyName: "Stylumia",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.stylumia.ai/careers/",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Dori Ai",
+      location: "Bangalore/Bengaluru",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.dori.ai/careers",
+      dateUpdated: "07/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Saffo Solution Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.saffotech.com/Career",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "Python Developer - web scraping",
+      companyName: "Gmware Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://gmware.com/careers/",
+      dateUpdated: "07/August/2023"
+    },
+	
+	{
+      jobTitle: "Python Developer-AWS",
+      companyName: "CGI",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.cgi.com/en/careers",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "AWS DevOps",
+      companyName: "GlobalLogic",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.globallogic.com/careers/",
+      dateUpdated: "07/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Neilsoft",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL:"https://neilsoft.com/careers",
+      dateUpdated: "07/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud DevOps Engineer",
+      companyName: "IDOX plc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.idoxgroup.com/careers/",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Junior Devops Engineer",
+      companyName: "Centelon",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://centelonsolutions.com/company/careers/",
+      dateUpdated: "06/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Evervent",
+      location: "Sahibzada Ajit Singh Nagar, Punjab",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://evervent.in/career",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Ginni Systems",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ginesys.in/careers",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Cognizant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.cognizant.com/global/en",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Anicca Data Science Solutions",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.aniccadata.com/careers",
+      dateUpdated: "06/August/2023"
+    },
+	
+	{
+      jobTitle: "Azure Data Engineer",
+      companyName: "Techenhance",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.aniccadata.com/careers",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "TripleLift",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://triplelift.com/careers/",
+      dateUpdated: "06/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud engineer",
+      companyName: "Cotocus",
+      location: "India",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.cotocus.com/career/",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Sitero",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://sitero.com/careers/",
+      dateUpdated: "06/August/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Anaxee Digital Runners Private Limited",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://anaxee.com/career/",
+      dateUpdated: "06/August/2023"
+    },
 	{
       jobTitle: "DevOps Support",
       companyName: "Vyom Labs",
