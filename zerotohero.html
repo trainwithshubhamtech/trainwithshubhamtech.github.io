@@ -14,6 +14,22 @@
     <link rel="stylesheet" href="Styles/root.css">
     <link rel="stylesheet" href="Styles/loader.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        /* Custom styles for the notification */
+        #notification {
+            position: fixed;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: none;
+            z-index: 1000;
+            padding: 10px 20px;
+            background-color: #17a2b8;
+            color: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
   </head>
   <body style="font-family: system-ui, Geneva, Verdana, sans-serif; overflow-x: auto; padding:0px;">
     <div class="container-fluid">
@@ -61,9 +77,8 @@
         </div>
     </div>
 
-    <div class="container-fluid" style="max-width: 1600px;" id="content-container" style="overflow-x: auto; min-height: 90vh;">
-        
-    </div>
+    <div class="container-fluid" style="max-width: 1600px;" id="content-container" style="overflow-x: auto; min-height: 90vh;"></div>
+    <div id="notification" class="alert alert-info"></div>
   </body>
 
   <script>
@@ -194,5 +209,62 @@
         AddVideoToParent(element.title,element.href,element.src);
     })
   </script>
+
+  <script>
+        function getRandomTime(min, max) {
+            return Math.random() * (max - min) + min;
+        }
+
+        function showNotification() {
+            const notification = document.getElementById('notification');
+            const users = [
+                "Aarav Sharma",
+                "Arya Patel",
+                "Ishaan Singh",
+                "Advait Kumar",
+                "Aanya Mehta",
+                "Ananya Joshi",
+                "Riya Gupta",
+                "Sara Desai",
+                "Aaradhya Shah",
+                "Avani Patel",
+                "Arnav Verma",
+                "Vihaan Jain",
+                "Shreya Malhotra",
+                "Kavya Reddy",
+                "Zoya Bhat",
+                "Ishika Choudhary",
+                "Aadhya Khanna",
+                "Saanvi Agarwal",
+                "Aryan Sengupta",
+                "Dhruv Yadav",
+                "Vivaan Kapoor",
+                "Anika Mathur",
+                "Aanya Chawla",
+                "Prisha Goyal",
+                "Ishani Singhania"
+            ];
+
+            const randomUser = users[Math.floor(Math.random() * users.length)];
+            const randomCourse = "DevOps - Zero to Hero";
+
+            notification.innerText = `${randomUser} enrolled in the course ${randomCourse}.`;
+            notification.style.display = 'block';
+
+            setTimeout(() => {
+                notification.style.display = 'none';
+            }, 5000);
+        }
+
+        function setupRandomNotifications() {
+
+            setInterval(() => {
+                showNotification();
+            }, getRandomTime(3000, 8000)); 
+        }
+
+        // Start the random notifications
+        setupRandomNotifications();
+    </script>
 
 </html>
