@@ -1,5 +1,98 @@
 const jobList = [
-
+	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Synechron",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.synechron.com/en-in/careers",
+      dateUpdated: "22/August/2023"
+    },
+	
+	{
+      jobTitle: "Azure Devops Engineer",
+      companyName: "RajYug IT Solutions Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.hmhco.com/careers",
+      dateUpdated: "22/August/2023"
+    },
+	{
+      jobTitle:"AWS DevOps",
+      companyName: "YASH Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.yash.com/about-us/career/",
+      dateUpdated: "22/August/2023"
+    },
+	{
+      jobTitle: "Operations Engineer Aws Devops",
+      companyName: "Yash Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.yash.com/about-us/career/",
+      dateUpdated: "22/August/2023"
+    },
+	{
+      jobTitle: "Junior Devops Engineer",
+      companyName: "Blenheim Chalcot India",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.blenheimchalcot.com/careers/",
+      dateUpdated: "22/August/2023"
+    },
+	
+	{
+      jobTitle: "Amazon Web Services",
+      companyName: "Wipro",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://careers.wipro.com/careers-home/",
+      dateUpdated: "22/August/2023"
+    },
+	{
+      jobTitle: "AWS And Linux",
+      companyName: "Mobzway Technologies LLP",
+      location: "Jaipur, Rajasthan",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.mobzway.com/careers/",
+      dateUpdated: "22/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps/AWS Development",
+      companyName: "Cliffex Software Solutions",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://cliffex.com/careers/",
+      dateUpdated: "22/August/2023"
+    },
+	{
+      jobTitle: "Devops,Python,AWS,Software testing",
+      companyName: "duxcon",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://duxcon.in/career-2/",
+      dateUpdated: "22/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Architect",
+      companyName: "TCS",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.tcs.com/careers",
+      dateUpdated: "22/August/2023"
+    },
+	{
+      jobTitle: "Python Web Scraping",
+      companyName: "Innefu Labs Pvt. Ltd.",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.innefu.com/careers/",
+      dateUpdated: "22/August/2023"
+    },
 	{
       jobTitle: "Azure DevOps",
       companyName: "Altimetrik",
