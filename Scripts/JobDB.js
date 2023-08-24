@@ -1,6 +1,89 @@
 const jobList = [
+
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Ansys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.ansys.com/en-in/careers",
+      dateUpdated: "24/August/2023"
+    },
 	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Mindbowser Inc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.mindbowser.com/careers/",
+      dateUpdated: "24/August/2023"
+    },
+	{
+      jobTitle:"Cloud Platform Engineer",
+      companyName: "e2e networks ltd",
+      location: "Vellore,Tamil Nadu",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.e2enetworks.com/careers",
+      dateUpdated: "24/August/2023"
+    },
+	{
+      jobTitle: "CLOUD SUPPORT ENGINEER (INTERN)",
+      companyName: "Netfuture Solutions & Services",
+      location: "Remote",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://netfuture.co.in/career.php",
+      dateUpdated: "24/August/2023"
+    },
+	{
+      jobTitle: "Network Engineer",
+      companyName: "Xenonstack",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.xenonstack.com/careers/",
+      dateUpdated: "24/August/2023"
+    },
 	
+	{
+      jobTitle: "Technical Support Engineer",
+      companyName: "Xpheno",
+      location: "Bangalore/ Bengaluru,Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.xpheno.com/jobs",
+      dateUpdated: "24/August/2023"
+    },
+	{
+      jobTitle: "Support Engineer II",
+      companyName: "Innovaccer",
+      location: "Noida",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://innovaccer.com/careers",
+      dateUpdated: "24/August/2023"
+    },
+	
+	{
+      jobTitle: "Software / Support Engineer",
+      companyName: "Azilen",
+      location: "Mumbai (All Areas)",
+      yearsOfExperienceRequired:0,
+      applyURL: "https://www.azilen.com/career/",
+      dateUpdated: "24/August/2023"
+    },
+	{
+      jobTitle: "Desktop Support Engineer",
+      companyName: "Broadridge",
+      location: "Mumbai",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://broadridge.wd5.myworkdayjobs.com/Careers",
+      dateUpdated: "24/August/2023"
+    },
+	
+	{
+      jobTitle: "Desktop Support Engineer",
+      companyName: "trigent software",
+      location: "Bangalore/ Bengaluru,Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.trigent.com/company/careers/",
+      dateUpdated: "24/August/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Synechron",
