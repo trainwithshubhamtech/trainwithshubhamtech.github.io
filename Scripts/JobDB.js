@@ -1,5 +1,97 @@
 const jobList = [
-
+	
+	{
+      jobTitle: "Jr. DevOps Engineer",
+      companyName: "PeerXP",
+      location: "Remote",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://globalshala.com/career-new/",
+      dateUpdated: "27/August/2023"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Mercedes-Benz Research and Development India Private Limited",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://peerxp.com/careers/",
+      dateUpdated: "27/August/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer- Immediate Joiner",
+      companyName: "Sofueled Media Pvt. Ltd",
+      location: "Remote",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.e2enetworks.com/careers",
+      dateUpdated: "27/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Intern",
+      companyName: "SIGMOID",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.sigmoid.com/careers/",
+      dateUpdated: "27/August/2023"
+    },
+	{
+      jobTitle: "Associate DevOps Engineer",
+      companyName: "MatrixCare",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.matrixcare.com/careers/",
+      dateUpdated: "27/August/2023"
+    },
+	
+	{
+     jobTitle: "DevOps/AWS Engineer",
+      companyName: "ideaux Technologies",
+      location: "Nagercoil",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.ideaux.in/career/",
+      dateUpdated: "27/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - I",
+      companyName: "CloudAngles",
+      location: "Noida",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://cloudangles.zohorecruit.com/jobs/Careers",
+      dateUpdated: "27/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Etech Global Services",
+      location: "Gāndhīnagar",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.etechgs.com/careers/",
+      dateUpdated: "27/August/2023"
+    },
+	{
+      jobTitle: "Devops",
+      companyName: "CGI",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.cgi.com/en/careers",
+      dateUpdated: "27/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Eclat Engineering Pvt. Ltd.",
+      location: "Bangalore/ Bengaluru,Karnataka",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.eclateng.com/career-eclat",
+      dateUpdated: "27/August/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Mobi India",
+      location: "Gurgaon",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.mobiindia.in/career.php",
+      dateUpdated: "27/August/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Ansys",
