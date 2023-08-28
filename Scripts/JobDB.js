@@ -1,5 +1,116 @@
 const jobList = [
+
 	
+	
+	{
+      jobTitle: "DevOps Engineer (AWS, Terraform)",
+      companyName: "SA Technologies Inc.",
+      location: "Pune, Maharashtra, India",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://jobs.satincorp.com/jobs/Careers",
+      dateUpdated: "29/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer, Hinjewadi, Pune",
+      companyName: "vmedulife software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://vmedulife.freshteam.com/jobs",
+      dateUpdated: "29/August/2023"
+    },
+	{
+      jobTitle:"DevOps",
+      companyName: "Sofueled Media Pvt. Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.6,
+      applyURL: "BlazeClan Technologies pvt ltd",
+      dateUpdated: "29/August/2023"
+    },
+	{
+      jobTitle: "DevOps (Azure)",
+      companyName: "EDISPHERE SOFTWARE",
+      location: "Nagpur, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://edisphere.com/current-openings.html",
+      dateUpdated: "29/August/2023"
+    },
+	{
+      jobTitle: "Associate DevOps Engineer",
+      companyName: "Quest Global",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.quest-global.com/careers/",
+      dateUpdated: "29/August/2023"
+    },
+	
+	{
+     jobTitle: "DevOps Engineer",
+      companyName: "WITS INNOVATION LAB",
+      location: "Sahibzada Ajit Singh Nagar, Punjab",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://thewitslab.com/career",
+      dateUpdated: "29/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "CloudIQ",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.cloudiqtech.com/careers/",
+      dateUpdated: "29/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineering ",
+      companyName: "Hexaware Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://hexaware.com/careers/",
+      dateUpdated: "29/August/2023"
+    },
+	{
+      jobTitle: "Cloud",
+      companyName: "Virtusa",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "29/August/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Operations Engineer",
+      companyName: "Zuse Talent Solutions",
+      location: "Bangalore/ Bengaluru,Karnataka",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.zusetalent.com/job-seekers",
+      dateUpdated: "29/August/2023"
+    },
+	{
+      jobTitle: "Dev Ops Cloud Engineer",
+      companyName: "UBS",
+      location: "pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.ubs.com/global/en/careers.html",
+      dateUpdated: "29/August/2023"
+    },
+	
+	{
+      jobTitle: "Sr. AWS DevOps (Remote job)",
+      companyName: "itechanalogy",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.ubs.com/global/en/careers.html",
+      dateUpdated: "29/August/2023"
+    },
+	{
+      jobTitle: "Devops",
+      companyName: "IGT Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.igtsolutions.com/careers/",
+      dateUpdated: "29/August/2023"
+    },
 	{
       jobTitle: "Jr. DevOps Engineer",
       companyName: "PeerXP",
