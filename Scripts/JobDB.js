@@ -3,6 +3,116 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Webyops Inc",
+      location: "Pune, Maharashtra, India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://webyops.com/careers/",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Forescout Technologies Inc.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.pragtech.co.in/company/career.html",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle:"Azure DevOps Engineer",
+      companyName: "M&G Global Services",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.mandg.com/careers",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "OvalEdge",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ovaledge.com/careers",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Remote",
+      companyName: "Mondelēz International",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.mondelezinternational.com/Careers/Jobs",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+     jobTitle: "DevOps Engineer",
+      companyName: "Rupeek",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://rupeek.com/about/careers?city=Bangalore",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Fortanix",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.fortanix.com/company/careers",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS / DevOPS Engineer",
+      companyName: "Swaran Soft Support Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.swaransoft.com/careers.html",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "Senior Devops Engineer",
+      companyName: "VolgaInfotech Pvt. Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.volgainfotech.com/careers.html",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer (Remote/Hybrid)",
+      companyName: "SJ INNOVATION",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://career.sjinnovation.com/",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "IT DevOps Engineer",
+      companyName: "Siemens",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.siemens.com/in/en/company/jobs.html",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Headsnminds Consultants",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://headsnminds.com/open-positions",
+      dateUpdated: "01/August/2023"
+    },
+	{
+      jobTitle: "Internship Programme",
+      companyName: "CloudEthiX",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://cloudethix.com/careers/",
+      dateUpdated: "01/August/2023"
+    },
+	
+	{
       jobTitle: "DevOps Engineer (AWS, Terraform)",
       companyName: "SA Technologies Inc.",
       location: "Pune, Maharashtra, India",
