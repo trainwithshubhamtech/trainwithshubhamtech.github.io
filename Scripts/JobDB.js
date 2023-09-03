@@ -1,6 +1,98 @@
 const jobList = [
-
 	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "PubMatic",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://pubmatic.com/careers/job-search/",
+      dateUpdated: "03/sept/2023"
+    },
+	
+	{
+      jobTitle: "Pune, Maharashtra",
+      companyName: "Coditas Technologies Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://coditas.com/careers",
+      dateUpdated: "03/Sept/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "U2opia Mobile",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0-2,
+      applyURL: "https://www.u2opiamobile.com/careers/",
+      dateUpdated: "03/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud specialist - Devops",
+      companyName: "Niveus Solutions",
+      location: "Rajasthan",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.niveussolutions.com/jobs/Careers",
+      dateUpdated: "03/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Remote",
+      companyName: "AVASOFT",
+      location: "India",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.avasoft.com/career/",
+      dateUpdated: "03/Sept/2023"
+    },
+	
+	{
+     jobTitle: "Cloud Devops Engineer (AWS)",
+      companyName: "IVY TECH SOLUTIONS INC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://ivytechsol.com/careers/",
+      dateUpdated: "03/sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Eclat Engineering",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://eclateng.com/career-eclat",
+      dateUpdated: "03/Sept/2023"
+    },
+	
+	{
+      jobTitle: "AWS / DevOPS Engineer",
+      companyName: "VWorker Solutions India Pvt Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://vworker.in/career/",
+      dateUpdated: "03/Sept/2023"
+    },
+	{
+      jobTitle: "Senior Devops Engineer",
+      companyName: "Equifax",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://careers.equifax.com/en",
+      dateUpdated: "03/sept/2023"
+    },
+	
+	{
+      jobTitle: "AWS Developer",
+      companyName: "T-Systems ICT India Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.t-systems.com/de/en/careers",
+      dateUpdated: "03/Sept/2023"
+    },
+	{
+      jobTitle: "IT DevOps Engineer",
+      companyName: "Siemens",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://vsynergize.freshteam.com/jobs/QZ9Tc49J9vp-/hiring-for-cloud-support-engineer",
+      dateUpdated: "03/Sept/2023"
+    },
 	
 	{
       jobTitle: "DevOps Engineer",
@@ -8,7 +100,7 @@ const jobList = [
       location: "Pune, Maharashtra, India",
       yearsOfExperienceRequired:0.2,
       applyURL: "https://webyops.com/careers/",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	
 	{
@@ -17,7 +109,7 @@ const jobList = [
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:2,
       applyURL: "https://www.pragtech.co.in/company/career.html",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	{
       jobTitle:"Azure DevOps Engineer",
@@ -25,7 +117,7 @@ const jobList = [
       location: "Anywhere",
       yearsOfExperienceRequired:3,
       applyURL: "https://www.mandg.com/careers",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/sept/2023"
     },
 	{
       jobTitle: "DevOps Engineer",
@@ -33,7 +125,7 @@ const jobList = [
       location: "Hyderabad, Telangana",
       yearsOfExperienceRequired:0.1,
       applyURL: "https://www.ovaledge.com/careers",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	{
       jobTitle: "DevOps Engineer - Remote",
@@ -41,7 +133,7 @@ const jobList = [
       location: "Anywhere",
       yearsOfExperienceRequired:5,
       applyURL: "https://www.mondelezinternational.com/Careers/Jobs",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	
 	{
@@ -50,7 +142,7 @@ const jobList = [
       location: "Anywhere",
       yearsOfExperienceRequired:2,
       applyURL: "https://rupeek.com/about/careers?city=Bangalore",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	{
       jobTitle: "Senior DevOps Engineer",
@@ -58,7 +150,7 @@ const jobList = [
       location: "Anywhere",
       yearsOfExperienceRequired:5,
       applyURL: "https://www.fortanix.com/company/careers",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	
 	{
@@ -67,7 +159,7 @@ const jobList = [
       location: "Anywhere",
       yearsOfExperienceRequired:2,
       applyURL: "https://www.swaransoft.com/careers.html",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	{
       jobTitle: "Senior Devops Engineer",
@@ -75,7 +167,7 @@ const jobList = [
       location: "Anywhere",
       yearsOfExperienceRequired:0.2,
       applyURL: "https://www.volgainfotech.com/careers.html",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/sept/2023"
     },
 	
 	{
@@ -84,7 +176,7 @@ const jobList = [
       location: "Anywhere",
       yearsOfExperienceRequired:3.5,
       applyURL: "https://career.sjinnovation.com/",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	{
       jobTitle: "IT DevOps Engineer",
@@ -92,7 +184,7 @@ const jobList = [
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:5,
       applyURL: "https://www.siemens.com/in/en/company/jobs.html",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	
 	{
@@ -101,7 +193,7 @@ const jobList = [
       location: "Mumbai, Maharashtra",
       yearsOfExperienceRequired:3,
       applyURL: "https://headsnminds.com/open-positions",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	{
       jobTitle: "Internship Programme",
@@ -109,7 +201,7 @@ const jobList = [
       location: "Mumbai, Maharashtra",
       yearsOfExperienceRequired:2,
       applyURL: "https://cloudethix.com/careers/",
-      dateUpdated: "01/August/2023"
+      dateUpdated: "01/Sept/2023"
     },
 	
 	{
@@ -118,7 +210,7 @@ const jobList = [
       location: "Pune, Maharashtra, India",
       yearsOfExperienceRequired:5,
       applyURL: "https://jobs.satincorp.com/jobs/Careers",
-      dateUpdated: "29/August/2023"
+      dateUpdated: "29/Agust/2023"
     },
 	
 	{
