@@ -1,6 +1,99 @@
 const jobList = [
+
 	
 	
+	{
+      jobTitle: "DevOps Support",
+      companyName: "FIS Global",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.fisglobal.com/us/en",
+      dateUpdated: "06/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Developer",
+      companyName: "IBM",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ibm.com/careers/us-en/search/?filters=primary_country:CA,primary_country:US",
+      dateUpdated: "06/Sept/2023"
+    },
+	{
+      jobTitle:"Senior DevOps Engineer",
+      companyName: "Higgs Boson Health Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0-2,
+      applyURL: "https://www.higgsbosonhealth.com/jobs",
+      dateUpdated: "06/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud specialist - Devops",
+      companyName: "Niveus Solutions",
+      location: "Rajasthan",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.niveussolutions.com/jobs/Careers",
+      dateUpdated: "03/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Siemens Digital Industries Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.sw.siemens.com/en-US/careers/",
+      dateUpdated: "06/Sept/2023"
+    },
+	
+	{
+     jobTitle: "Azure DevOps Engineer",
+      companyName: "Corporate Resources",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.crplindia.com/career",
+      dateUpdated: "06/sept/2023"
+    },
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Teksolto",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.teksolto.com/en-in/public/careers",
+      dateUpdated: "06/Sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Amazatic",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://careers.smartrecruiters.com/AmazaticSolutions/",
+      dateUpdated: "06/Sept/2023"
+    },
+	{
+      jobTitle: "Jr. DevOps Engineer",
+      companyName: "PeerXP",
+      location: "India",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://peerxp.com/careers/",
+      dateUpdated: "06/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "E Hook Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.ehooksystems.com/career-in-ehook.html",
+      dateUpdated: "06/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "iServeU",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://iserveu.in/career/",
+      dateUpdated: "06/Sept/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "PubMatic",
