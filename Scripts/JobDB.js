@@ -1,7 +1,97 @@
 const jobList = [
 
+      {
+      jobTitle: "DevOps Engineer",
+      companyName: "RedPhantom Tech Novelty",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://rptechnovelty.com/career.html",
+      dateUpdated: "08/sept/2023"
+    },
 	
+	{
+      jobTitle: "Devops Monitoring Engineer",
+      companyName: "Persistent Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.persistent.com/#!/",
+      dateUpdated: "08/Sept/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer (System Engineer)",
+      companyName: "Knorex India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.knorex.com/careers",
+      dateUpdated: "08/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Support Engineer",
+      companyName: "Wipro",
+      location: "Rajasthan",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.wipro.com/careers-home",
+      dateUpdated: "08/Sept/2023"
+    },
+	{
+      jobTitle: "Technical Support Engineer",
+      companyName: "VMware, Inc",
+      location: "India",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://careers.vmware.com/careers-home/",
+      dateUpdated: "08/Sept/2023"
+    },
 	
+	{
+     jobTitle: "Cloud Support Engineer L1",
+      companyName: "Intech Online Pvt. Ltd.",
+      location: "Thane, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://intechonline.net/careers.php",
+      dateUpdated: "08/sept/2023"
+    },
+	{
+      jobTitle: "DevSecops Support Engineer",
+      companyName: "Aqua Security",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.aquasec.com/careers/",
+      dateUpdated: "08/Sept/2023"
+    },
+	
+	{
+      jobTitle: "Technical Support Engineer - Cloud",
+      companyName: "Apptio",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.apptio.com/company/culture-careers/",
+      dateUpdated: "08/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Services Customer Support Engineer",
+      companyName: "Cisco Systems, Inc.",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.cisco.com/c/en/us/about/careers.html",
+      dateUpdated: "08/sept/2023"
+    },
+	
+	{
+      jobTitle: "Azure Cloud Support Engineer",
+      companyName: "Nityo Infotech",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:3.6,
+      applyURL: "https://nityo.com/careers",
+      dateUpdated: "08/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Support Engineer",
+      companyName: "Rubico",
+      location: "Dehradun, Uttarakhand",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://rubicotech.in/careers/",
+      dateUpdated: "08/Sept/2023"
+    },
 	{
       jobTitle: "DevOps Support",
       companyName: "FIS Global",
