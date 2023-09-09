@@ -1,6 +1,99 @@
 const jobList = [
-
-      {
+	
+	
+	{
+      jobTitle: "Azure Devops Engineer-Pune",
+      companyName: "Ampstek",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://ampstek.com/careers.html",
+      dateUpdated: "09/sept/2023"
+    },
+	
+	{
+      jobTitle: "AWS Support Engineer",
+      companyName: "Capgemini",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.capgemini.com/in-en/careers/",
+      dateUpdated: "09/Sept/2023"
+    },
+	{
+      jobTitle:"Cloud Support Engineer",
+      companyName: "Vsynergize",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://vsynergize.freshteam.com/jobs",
+      dateUpdated: "09/Sept/2023"
+    },
+	{
+      jobTitle: "AWS L2 Support Engineer",
+      companyName: "Randstad India",
+      location: "India",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.randstad.in/jobs/",
+      dateUpdated: "09/Sept/2023"
+    },
+	{
+      jobTitle: "SALESFORCE MARKETING CLOUD DEVELOPER",
+      companyName: "Long Finch Technologies LLC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://longfinch.com/career",
+      dateUpdated: "09/Sept/2023"
+    },
+	
+	{
+     jobTitle: "Salesforce Entry-Level Internship ",
+      companyName: "Access Global Group",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://acsgbl.com/careers/",
+      dateUpdated: "09/sept/2023"
+    },
+	{
+      jobTitle: "AWS Data Engineer",
+      companyName: "Hatigen",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://hatigen.com/careers",
+      dateUpdated: "09/Sept/2023"
+    },
+	
+	{
+      jobTitle: "Desktop Administration Application Support",
+      companyName: "Accenture",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.accenture.com/in-en/careers",
+      dateUpdated: "09/Sept/2023"
+    },
+	{
+      jobTitle: "Devops Engineer I - Remote",
+      companyName: "Duck Creek Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers",
+      dateUpdated: "09/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineering",
+      companyName: "DocNexus",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers",
+      dateUpdated: "09/Sept/2023"
+    },
+	{
+      jobTitle: "web scraping",
+      companyName: "Innefu Labs Pvt. Ltd",
+      location: "Delhi",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.innefu.com/careers/",
+      dateUpdated: "09/Sept/2023"
+    },
+	{
       jobTitle: "DevOps Engineer",
       companyName: "RedPhantom Tech Novelty",
       location: "Pune, Maharashtra",
