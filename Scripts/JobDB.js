@@ -2,6 +2,98 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Cloud Devops Engineer (AWS)",
+      companyName: "IVY TECH SOLUTIONS INC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://ivytechsol.com/jobs/",
+      dateUpdated: "11/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOPS Engineer",
+      companyName: "AutoRABIT Holding Inc.",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.autorabit.com/careers/",
+      dateUpdated: "11/Sept/2023"
+    },
+	{
+      jobTitle:"AWS Developer",
+      companyName: "Persistent Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://careers.persistent.com/#!/",
+      dateUpdated: "11/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps / Tech Support Engineer",
+      companyName: "Fibe India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.fibe.in/career/",
+      dateUpdated: "11/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Eclat Engineering Pvt. Ltd.",
+      location: "Ahmedabad",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://eclateng.com/career-eclat",
+      dateUpdated: "11/Sept/2023"
+    },
+	
+	{
+     jobTitle: "devOps engineer",
+      companyName: "Redbytes Software",
+      location: "Pune",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://redbytescareers.vercel.app/",
+      dateUpdated: "11/sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Beinex",
+      location: "Cochin",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://beinex.com/careers",
+      dateUpdated: "11/Sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Numerix",
+      location: "Mumbai",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.numerix.com/careers",
+      dateUpdated: "11/Sept/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "TransUnion",
+      location: "Pune",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.transunion.com/about-us/careers",
+      dateUpdated: "11/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Kanini Software Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://kanini.com/careers/",
+      dateUpdated: "11/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Rejolut Technology Solutions",
+      location: "Navi Mumbai",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://rejolut.com/career-at-rejolut/",
+      dateUpdated: "11/Sept/2023"
+    },
+	{
       jobTitle: "Azure Devops Engineer-Pune",
       companyName: "Ampstek",
       location: "Pune, Maharashtra",
