@@ -2,6 +2,182 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Principal DevOps Engineer",
+      companyName: "IBM",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.veritas.com/company/careers",
+      dateUpdated: "14/sept/2023"
+    },
+	
+	{
+      jobTitle: "Application Developer: DevOps",
+      companyName: "IBM",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.ibm.com/careers/us-en/",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle:"Devops Engineer",
+      companyName: "Capgemini Technology Services India Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.capgemini.com/in-en/careers/",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle: "Technical Lead-Cloud DevOps Engineer",
+      companyName: "PTC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.ptc.com/en/careers",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "NICE Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.7,
+      applyURL: "https://www.nice.com/careers",
+      dateUpdated: "14/Sept/2023"
+    },
+	
+	{
+     jobTitle: "AWS & DevOps Engineer",
+      companyName: "Websar Technologies LLP",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://webshar.com/careers.php",
+      dateUpdated: "14/sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Pricewaterhouse Coopers Private Limited",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.pwc.in/careers/campus-careers.html",
+      dateUpdated: "14/Sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Team Lead",
+      companyName: "Amdocs",
+      location: "Pimpri-Chinchwad, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle: "Technical Support Executiv",
+      companyName: "Techno Compass Consulting Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.wovvtech.com/careers/",
+      dateUpdated: "14/sept/2023"
+    },
+	
+	{
+      jobTitle: "Remote Support Engineer",
+      companyName: "CMS IT SERVICES P LTD",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.cmsitservices.com/careers-cms/",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle: "DESKTOP SUPPORT ENGINEER(FRESHER)",
+      companyName: "SALT TECH SOFTWARE SERVICES LLP",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://salt-tech.com/#",
+      dateUpdated: "14/Sept/2023"
+    },
+    {
+      jobTitle: "Cloud Support Engineer",
+      companyName: "NIKSUN",
+      location: "remote",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.niksun.com/careers.php",
+      dateUpdated: "14/sept/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Aptos LLC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.aptos.com/careers",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle:"Cloud Support Engineer - Remote",
+      companyName: "Work Labs Pte. Ltd.",
+      location: "Work Labs Pte. Ltd.",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.works.so/remote-jobs",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Ops Engineer",
+      companyName: "Seven Lakes Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://careers.encora.com/",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle: "Engineering Technical Support Engineer",
+      companyName: "Mimecast India Private Limited",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.mimecast.com/company/careers-at-mimecast/bangalore/",
+      dateUpdated: "14/Sept/2023"
+    },
+	
+	{
+     jobTitle: "Data Engineer - Azure",
+      companyName: "Syren Cloud",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://syrencloud.com/careers/",
+      dateUpdated: "14/sept/2023"
+    },
+	{
+      jobTitle: "Python; AWS",
+      companyName: "Irdeto",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.irdeto.com/go/IT/7125900/",
+      dateUpdated: "14/Sept/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Tekfortune IT India Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.tekfortune.com/careers/",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Amol Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://amoltechnologies.com/careers.html",
+      dateUpdated: "14/sept/2023"
+    },
+	
+	{
+      jobTitle: "Python Developer-Web Scraping",
+      companyName: "NielsenIQ",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.5,
+      applyURL: "https://nielseniq.com/global/en/careers/",
+      dateUpdated: "14/Sept/2023"
+    },
+	{
       jobTitle: "Cloud Devops Engineer (AWS)",
       companyName: "IVY TECH SOLUTIONS INC",
       location: "Anywhere",
