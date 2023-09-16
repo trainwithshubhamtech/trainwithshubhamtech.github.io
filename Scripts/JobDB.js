@@ -2,6 +2,98 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Senior Azure DevOps Engineer",
+      companyName: "Iron Systems",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://ironsystems.my.salesforce-sites.com/Jobs",
+      dateUpdated: "16/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Vikgol",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.vikgol.com/jobs",
+      dateUpdated: "16/Sept/2023"
+    },
+	{
+      jobTitle:"Software Engineer - Devops",
+      companyName: "Houghton Mifflin Harcourt",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.hmhco.com/careers",
+      dateUpdated: "16/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Consultant",
+      companyName: "CosMic IT",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://jobs.cosmic-it.in/?page_id=10",
+      dateUpdated: "16/Sept/2023"
+    },
+	{
+      jobTitle: "Linux Administrator/DevOps Engineer",
+      companyName: "aarna systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.aarnasystems.com/careers.php",
+      dateUpdated: "16/Sept/2023"
+    },
+	
+	{
+     jobTitle: "DevOps Engineer- Remote",
+      companyName: "Uplers",
+      location: "Anywher",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.uplers.com/careers/",
+      dateUpdated: "16/sept/2023"
+    },
+	{
+      jobTitle: "Site Reliability Engineer - Ansible/Docker",
+      companyName: "TALENT XO",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.talentxo.com/jobs",
+      dateUpdated: "16/Sept/2023"
+    },
+	
+	{
+      jobTitle: "SRE DevOps Engineer - Remote",
+      companyName: "Sophos",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.sophos.com/en-us/careers",
+      dateUpdated: "16/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "AdsGency AI",
+      location: "San Francisco/Remote",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://adsgency.ai/careers",
+      dateUpdated: "16/sept/2023"
+    },
+	
+	{
+      jobTitle: "AWS Glue and Python",
+      companyName: "iPowerFour",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:1,
+      applyURL: "http://www.ipowerfour.com/careers",
+      dateUpdated: "16/Sept/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Support Engineer",
+      companyName: "Crest It",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.crestit.in/career.php",
+      dateUpdated: "16/Sept/2023"
+    },
+	{
       jobTitle: "Principal DevOps Engineer",
       companyName: "IBM",
       location: "Pune, Maharashtra",
