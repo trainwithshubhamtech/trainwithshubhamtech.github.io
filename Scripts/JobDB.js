@@ -93,6 +93,7 @@ const jobList = [
       yearsOfExperienceRequired:0.1,
       applyURL: "https://careers.vanderlande.com/job-areas/",
       dateUpdated: "19/Sept/2023"
+	},
     {
       jobTitle: "Senior Azure DevOps Engineer",
       companyName: "Iron Systems",
