@@ -1,7 +1,99 @@
 const jobList = [
+
 	
 	
 	{
+      jobTitle: "DevOps Specialist",
+      companyName: "Amdocs",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "19/sept/2023"
+    },
+	
+	{
+      jobTitle: "Devops, Terraform",
+      companyName: "FIS",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.fisglobal.com/us/en",
+      dateUpdated: "19/Sept/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer (3+ Years)",
+      companyName: "Mindbowser Info Solutions Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.mindbowser.com/careers/",
+      dateUpdated: "19/Sept/2023"
+    },
+	{
+      jobTitle: "AWS Support Engineer",
+      companyName: "Capgemini",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.capgemini.com/in-en/careers/",
+      dateUpdated: "19/Sept/2023"
+    },
+	{
+      jobTitle: "Linux Administrator/DevOps Engineer",
+      companyName: "ISS | Institutional Shareholder Services",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.issgovernance.com/join-the-iss-team/",
+      dateUpdated: "19/Sept/2023"
+    },
+	
+	{
+     jobTitle: "DevOps Engineer",
+      companyName: "Ideapoke",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.ideapoke.com/careers.html",
+      dateUpdated: "19/sept/2023"
+    },
+	{
+      jobTitle: "Systems Engineer - AWS",
+      companyName: "ResultsCX",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.resultscx.com/",
+      dateUpdated: "19/Sept/2023"
+    },
+	
+	{
+      jobTitle: "Mid Level DevOPS Engineer (AWS)",
+      companyName: "Everestek Technosoft Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.everestek.com/careers/",
+      dateUpdated: "19/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "AdsGency AI",
+      location: "San Francisco/Remote",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://vsynergize.freshteam.com/jobs",
+      dateUpdated: "19/sept/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Futran Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://futransolutions.com/careers/",
+      dateUpdated: "19/Sept/2023"
+    },
+	{
+      jobTitle: "Senior Cloud Engineer",
+      companyName: "Vanderlande Careers",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.vanderlande.com/job-areas/",
+      dateUpdated: "19/Sept/2023"
+    {
       jobTitle: "Senior Azure DevOps Engineer",
       companyName: "Iron Systems",
       location: "Anywhere",
