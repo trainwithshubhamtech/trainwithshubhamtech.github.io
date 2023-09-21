@@ -1,7 +1,98 @@
 const jobList = [
-
 	
 	
+	{
+      jobTitle: "Azure DevOps",
+      companyName: "Persistent Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.persistent.com/#!/",
+      dateUpdated: "21/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps (Hybrid Architecture)",
+      companyName: "Valtech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.valtech.com/en-in/career/joblist/",
+      dateUpdated: "20/Sept/2023"
+    },
+	{
+      jobTitle:"Automation Devops",
+      companyName: "Evoke HR Solutions Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://evokehr.com/",
+      dateUpdated: "20/Sept/2023"
+    },
+	{
+      jobTitle: "Kalyx Infotech - Desktop Engineer",
+      companyName: "Kalyx Infotech Pvt Ltd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.6,
+      applyURL: "http://kalyxinfotech.com/contactus.html",
+      dateUpdated: "20/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "BNP Paribas",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://group.bnpparibas/en/",
+      dateUpdated: "20/Sept/2023"
+    },
+	
+	{
+     jobTitle: "DevOps Engineer",
+      companyName: "OMP",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://careers.omp.com/jobs?locations=IN-Mumbai",
+      dateUpdated: "20/sept/2023"
+    },
+	{
+      jobTitle: "Linux / Devops",
+      companyName: "bprise pvt ltd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.bprise.com/careers",
+      dateUpdated: "20/Sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Vibrent health India",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://jobs.lever.co/vibrenthealth",
+      dateUpdated: "20/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Flentas Technologies",
+      location: "San Francisco/Remote",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.flentas.com/career/Cloud-Engineer",
+      dateUpdated: "20/sept/2023"
+    },
+	
+	{
+      jobTitle: "Junior Cloud Support Engineer",
+      companyName: "Platform9 Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://platform9.com/careers/",
+      dateUpdated: "20/Sept/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Devops Engineer",
+      companyName: "Facile Services",
+      location: "Pune",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.facileserv.com/careers/#",
+      dateUpdated: "20/Sept/2023"
+    },
 	{
       jobTitle: "DevOps Specialist",
       companyName: "Amdocs",
