@@ -1,6 +1,97 @@
 const jobList = [
+
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "SANICON IT Services Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://saniconservices.com/careers-page/",
+      dateUpdated: "23/sept/2023"
+    },
 	
+	{
+      jobTitle: "System Administrator",
+      companyName: "Ifinix Fintech Private limited",
+      location: "Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.ifinixfintech.com/",
+      dateUpdated: "23/Sept/2023"
+    },
+	{
+      jobTitle:"Enterprise DevOps Engineer",
+      companyName: "ZS",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://jobs.zs.com/join/talentcommunity/form",
+      dateUpdated: "23/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Mobikode",
+      location: "Pune",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://mobikode.com/current-openings/",
+      dateUpdated: "23/Sept/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "NVIDIA",
+      location: "Pune",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.nvidia.com/en-in/about-nvidia/careers/",
+      dateUpdated: "23/Sept/2023"
+    },
 	
+	{
+     jobTitle: "Software Engineer",
+      companyName: "Telstra",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.telstra.com.au/careers/in",
+      dateUpdated: "23/sept/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Global Payments",
+      location: "Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://jobs.globalpayments.com/en/jobs/",
+      dateUpdated: "23/Sept/2023"
+    },
+	
+	{
+      jobTitle: "Sr System Reliability Engineer (Automation)",
+      companyName: "Fulcrum Digital",
+      location: "Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://fulcrumdigital.com/careers/",
+      dateUpdated: "23/Sept/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Flentas Technologies",
+      location: "Pune",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.flentas.com/career/Cloud-Engineer",
+      dateUpdated: "23/sept/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Operatons Specialist",
+      companyName: "Cloud Reach",
+      location: "Pune",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.cloudreach.com/en/careers/",
+      dateUpdated: "23/Sept/2023"
+    },
+	{
+      jobTitle: "Associate Architect - Azure",
+      companyName: "Yash Technologies",
+      location: "Pune",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.yash.com/about-us/career/",
+      dateUpdated: "23/Sept/2023"
+    },
 	{
       jobTitle: "Azure DevOps",
       companyName: "Persistent Systems",
