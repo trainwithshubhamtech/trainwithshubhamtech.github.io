@@ -1,5 +1,90 @@
 const jobList = [
-
+	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "DataEconomy",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://dataeconomy.zohorecruit.com/jobs/Careers",
+      dateUpdated: "27/sept/2023"
+    },
+	
+	{
+      jobTitle: "Technology Engineer",
+      companyName: "Amdocs",
+      location: "Pune",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "27/Sept/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "insightsoftware",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://insightsoftware.com/careers/",
+      dateUpdated: "27/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Recruin",
+      location: "Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://jobs.recru.in/",
+      dateUpdated: "27/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "ADAGRAD HQ",
+      location: "Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.adagrad.ai/",
+      dateUpdated: "27/Sept/2023"
+    },
+	
+	{
+     jobTitle: "Software Engineer",
+      companyName: "vmedulife Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://vmedulife.freshteam.com/jobs",
+      dateUpdated: "27/sept/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Automation (Python)",
+      companyName: "Capgemini",
+      location: "India",
+      yearsOfExperienceRequired:9,
+      applyURL: "https://www.capgemini.com/in-en/careers/",
+      dateUpdated: "27/Sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Intern ",
+      companyName: "Bynry Inc.",
+      location: "Pune",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.bynry.com/careers",
+      dateUpdated: "27/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer ( Intern )",
+      companyName: "Mactores Cognition",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://mactores.com/careers",
+      dateUpdated: "27/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "MTAB Technology Center P Ltd",
+      location: "Pune",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.abhyaz.com/internship_for_jobseekers",
+      dateUpdated: "27/Sept/2023"
+    },
 	{
       jobTitle: "AWS DevOps Engineer",
       companyName: "SANICON IT Services Pvt Ltd",
