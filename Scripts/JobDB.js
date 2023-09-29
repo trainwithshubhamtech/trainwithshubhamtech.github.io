@@ -2,6 +2,56 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "AZURE DEVOPS ENGINEER",
+      companyName: "Atos",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://atos.net/en/careers",
+      dateUpdated: "29/sept/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer(Python)SAVE",
+      companyName: "Cohesity",
+      location: "Pune",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://careers.cohesity.com/open-positions/",
+      dateUpdated: "29/Sept/2023"
+    },
+	{
+      jobTitle:"AWS Devops",
+      companyName: "SwiftWIN | A Concord Company",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.swiftwininc.com/career/",
+      dateUpdated: "29/Sept/2023"
+    },
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Acme Services Private Limited",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.acme-services.in/current-openings/",
+      dateUpdated: "29/Sept/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "RedSeal, Inc.",
+      location: "Pune",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.redseal.net/company/careers/",
+      dateUpdated: "29/Sept/2023"
+    },
+	
+	{
+      jobTitle: "AWS / Azure Developer",
+      companyName: "ThoughtsWin Systems",
+      location: "Jaipur, Rajasthan",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://thoughtswinsystems.com/career/",
+      dateUpdated: "29/Sept/2023"
+    },
+	{
       jobTitle: "DevOps Engineer",
       companyName: "DataEconomy",
       location: "Pune, Maharashtra",
