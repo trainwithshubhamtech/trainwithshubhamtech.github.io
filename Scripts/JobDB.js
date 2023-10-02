@@ -1,6 +1,113 @@
 const jobList = [
+
+	{
+      jobTitle: "CLOUD AWS",
+      companyName: "Pivotree",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.pivotree.com/about-us/careers/",
+      dateUpdated: "03/Oct/2023"
+    },
 	
+	{
+      jobTitle: "AWS Devops",
+      companyName: "Wipro Technologies",
+      location: "AWS Devops",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.wipro.com/careers-home/",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer (SRE)",
+      companyName: "Cloudside Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://thecloudside.com/careers.html",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Data Engineer (Bangalore)",
+      companyName: "3M",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.3mindia.in/3M/en_IN/careers-in/",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Developer",
+      companyName: "T-Systems ICT India Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://careers.smartrecruiters.com/T-SystemsICTIndiaPvtLtd1/",
+      dateUpdated: "03/oct/2023"
+    },
 	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "D-Techworks",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://dtechworks.com/careers/",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Vsynergize",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://vsynergize.freshteam.com/jobs",
+      dateUpdated: "03/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "People Maketh",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.peoplemaketh.com/career",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Lex/Connect Chatbot Developer",
+      companyName: "Deloitte",
+      location: "India",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www2.deloitte.com/us/en/careers/careers.html",
+      dateUpdated: "03/Oct/2023"
+    },
+	
+	{
+      jobTitle: "AWS Support Engineer",
+      companyName: "Antal International",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.antal.com/careers",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer - II(AWS)",
+      companyName: "Shure",
+      location: "Secunderabad, Telangana",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.shure.com/en-US/about-us/careers",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "SitusAMC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://careers.situsamc.com/",
+      dateUpdated: "03/Oct/2023"
+    },
+	{
+      jobTitle: "Google Cloud Engineer",
+      companyName: "Han Digital Solution",
+      location: "India",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.handigital.com/jobs/google-cloud-engineer-gcp-google-cloud-c-javascript-nodejs-python-delhi-bengaluru-pune-hyderabad-459/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "03/Oct/2023"
+    },
 	{
       jobTitle: "AZURE DEVOPS ENGINEER",
       companyName: "Atos",
