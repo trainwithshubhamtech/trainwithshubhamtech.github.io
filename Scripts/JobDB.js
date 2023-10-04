@@ -1,5 +1,90 @@
 const jobList = [
-
+	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Unilode",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.unilode.com/careers/",
+      dateUpdated: "05/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "HEXANIKA",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://hexanika.com/careers/",
+      dateUpdated: "05/Oct/2023"
+    },
+	{
+      jobTitle:"Cloud & DevOps Intern",
+      companyName: "PIGEON INNOVATIVE SOLUTIONS LLP",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://pigeonis.in/company/career/",
+      dateUpdated: "05/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Trainee",
+      companyName: "Rapyder",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://careers.rapyder.com/jobs/Careers",
+      dateUpdated: "05/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer Trainee",
+      companyName: "Workmates Core2cloud",
+      location: "India",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://cloudworkmates.com/careers/",
+      dateUpdated: "05/oct/2023"
+    },
+	
+	{
+      jobTitle: "Intern/Project Trainee in Cloud at IBM",
+      companyName: "IBM",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://cse.noticebard.com/internships/project-trainee-internship-at-ibm/",
+      dateUpdated: "05/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - GCP (India)",
+      companyName: "CloudWerx",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://cloudwerx.co/careers/",
+      dateUpdated: "05/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Security Engineer",
+      companyName: "Mphasis",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.mphasis.com/home.html",
+      dateUpdated: "05/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Lex/Connect Chatbot Developer",
+      companyName: "Seven Lakes Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.sevenlakes.com/careers/",
+      dateUpdated: "05/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer, Data, Google Cloud",
+      companyName: "Google",
+      location: " Hyderabad, Telangana, India",
+      yearsOfExperienceRequired:3,
+      applyURL:"https://www.linkedin.com/jobs/view/strategic-cloud-engineer-data-google-cloud-at-google-3731943528/",
+      dateUpdated: "05/Oct/2023"
+    },
 	{
       jobTitle: "CLOUD AWS",
       companyName: "Pivotree",
