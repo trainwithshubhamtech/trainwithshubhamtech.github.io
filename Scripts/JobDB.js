@@ -2,6 +2,90 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Cloud Engineer - Terraform + DevOps (L2)",
+      companyName: "Noventiq’s",
+      location: "Noida, India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://jobs.jobvite.com/noventiq/jobs",
+      dateUpdated: "09/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer (Remote)",
+      companyName: "Nivoda",
+      location: "remote",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://nivoda.net/careers",
+      dateUpdated: "09/Oct/2023"
+    },
+	{
+      jobTitle:"Cloud & DevOps Intern",
+      companyName: "CIED Technologies pvt ltd",
+      location: "Cochin",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://cied.keka.com/careers",
+      dateUpdated: "09/Oct/2023"
+    },
+	{
+      jobTitle: "AWS/DevOps Engineer",
+      companyName: "Deltacubes",
+      location: "Remote",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://deltacubes.us/#career",
+      dateUpdated: "09/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Godaddy",
+      location: "India",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://careers.godaddy.com/search-jobs",
+      dateUpdated: "09/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Deque Systems",
+      location: "Remote",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.deque.com/company/careers/",
+      dateUpdated: "09/Oct/2023"
+    },
+	{
+      jobTitle: "SRE with DevOps & Terraform",
+      companyName: "cosmic IT",
+      location: "Remote",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.cosmicitservices.com/careers.aspx",
+      dateUpdated: "09/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Cloud Engineer",
+      companyName: "wavv technologies",
+      location: "Remote",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.wovvtech.com/careers/",
+      dateUpdated: "09/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Lex/Connect Chatbot Developer",
+      companyName: "athonet",
+      location: "India",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://athonet.com/careers/",
+      dateUpdated: "09/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps / SecOps - Remote",
+      companyName: "SourceFuse Technologies",
+      location: "New Delhi",
+      yearsOfExperienceRequired:5,
+      applyURL:"https://www.sourcefuse.com/careers/",
+      dateUpdated: "09/Oct/2023"
+    },
+	{
       jobTitle: "DevOps Engineer",
       companyName: "Unilode",
       location: "Anywhere",
