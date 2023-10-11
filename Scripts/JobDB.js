@@ -2,6 +2,82 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Trainee Engineer -Devops",
+      companyName: "Firminiq systems",
+      location: "Chandigarh",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://firminiq.com/job-openings/",
+      dateUpdated: "12/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Software Engineer Fresher",
+      companyName: "HeveaHill Technologies",
+      location: "Cannanore",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://heveahill.com/careers/",
+      dateUpdated: "12/Oct/2023"
+    },
+	{
+      jobTitle:"Associate Trainee (Non - IT Role)",
+      companyName: "American Chase",
+      location: "Indore",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://americanchase.com/career/",
+      dateUpdated: "12/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Intern",
+      companyName: "Sigmoid, Bengaluru",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://boards.greenhouse.io/sigmoid/jobs/4470647002",
+      dateUpdated: "12/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Pronix Talent Hunt",
+      location: "Hyderabad/REMOTE",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.pronixinc.com/job/48/freshers-hiring-for-it-positions-pronix-talent-hunt",
+      dateUpdated: "12/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Coimbatore",
+      location: "Remote",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.byteforza.com/Careers",
+      dateUpdated: "12/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "HotelKey",
+      location: "Nāgpur",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.hotelkeyapp.com/#/",
+      dateUpdated: "12/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Trainee Engineer, Fresher",
+      companyName: "nenosystems",
+      location: "Remote",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.nenosystems.com/career",
+      dateUpdated: "12/Oct/2023"
+    },
+	{
+      jobTitle: "Linux Server Administrator",
+      companyName: "Firebee techno services",
+      location: "Madurai",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.firebeetechnoservices.com/careers",
+      dateUpdated: "12/Oct/2023"
+    },
+	
+	{
       jobTitle: "Cloud Engineer - Terraform + DevOps (L2)",
       companyName: "Noventiq’s",
       location: "Noida, India",
