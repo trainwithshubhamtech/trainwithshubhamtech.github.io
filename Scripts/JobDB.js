@@ -1,6 +1,90 @@
 const jobList = [
+
 	
 	
+	{
+      jobTitle: "DevOps Engineer ( Azure DevOps)",
+      companyName: "Ansys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://careers.ansys.com/job/Pune-DevOps-Engineer-%28-Azure-DevOps%29-MH-411057/1064493300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "15/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Azure/DevOps Engineer - Kubernetes/Terraform",
+      companyName: "Intelliswift Software India Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.intelliswift.com/careers",
+      dateUpdated: "15/Oct/2023"
+    },
+	{
+      jobTitle:"Associate Trainee (Non - IT Role)",
+      companyName: "Cavin Infotech Pvt Ltd",
+      location: "Indore",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.glassdoor.co.in/job-listing/get-graduate-engineer-trainee-cavin-infotech-JV_IC2833209_KO0,29_KE30,44.htm?jl=1008926559415&pos=108&ao=1136043&s=58&guid=0000018b32d4b74990ea087c6e5824d2&src=GD_JOB_AD&t=SR&vt=w&uido=857D9D0FD476F24C0A4E3C83F77925F9&ea=1&cs=1_c3661733&cb=1697364883565&jobListingId=1008926559415&jrtk=5-yul1-0-1hcpd9dsrjjhi804-992f684b9a386c20&ctt=1697364992031",
+      dateUpdated: "15/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer (Immediate Joiners )",
+      companyName: "Synechron",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.synechron.com/en-in/careers",
+      dateUpdated: "15/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Aicence",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.aicence.com/careers.html",
+      dateUpdated: "15/oct/2023"
+    },
+	
+	{
+      jobTitle: "AWS Machine Learning Engineer",
+      companyName: "Ankercloud GmbH",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.ankercloud.com/careers",
+      dateUpdated: "15/Oct/2023"
+    },
+	{
+      jobTitle: "ALM/AWS Engineer",
+      companyName: "Cybage Software Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.4,
+      applyURL: "https://www.cybage.com/careers/current-openings",
+      dateUpdated: "15/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Databricks AWS Engineer",
+      companyName: "Xoriant",
+      location: "Mulshi, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.xoriant.com/about-xoriant/careers",
+      dateUpdated: "15/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Migration Engineer",
+      companyName: "PerfectJobAccord",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://perfectjobaccord.com/",
+      dateUpdated: "15/Oct/2023"
+    },
+	{
+      jobTitle: "AWS cloud engineer",
+      companyName: "NIBODHAH",
+      location: "Ahmedabad",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.adzuna.in/details/3909933518?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "15/Oct/2023"
+    },
 	{
       jobTitle: "Trainee Engineer -Devops",
       companyName: "Firminiq systems",
