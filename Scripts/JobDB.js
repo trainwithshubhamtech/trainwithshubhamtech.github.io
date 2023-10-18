@@ -1,7 +1,89 @@
 const jobList = [
-
 	
 	
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "VWorker Solutions India Pvt Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://staging.vworker.in/career/"
+      dateUpdated: "18/Oct/2023"
+    },
+	
+	{
+      jobTitle: "GCP DevOps Engineer",
+      companyName: "Axiom IO IT Services Private Limited",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://axiomio.freshteam.com/jobs",
+      dateUpdated: "18/Oct/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "MULTICARE SERVICES (I) PRIVATE LIMITED",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://staging.vworker.in/career/",
+      dateUpdated: "18/Oct/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Qrata",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.qrata.co/career.html",
+      dateUpdated: "18/Oct/2023"
+    },
+	{
+      jobTitle: "Junior DevOps Engineer (Azure Administrator)",
+      companyName: "CapeStart Software Private Limited",
+      location: "Nagercoil, Tamil Nadu",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.capestart.com/#!/",
+      dateUpdated: "18/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Tessell",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.tessell.com/careers",
+      dateUpdated: "18/Oct/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineering",
+      companyName: "Fafadia Tech",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.4,
+      applyURL: "https://www.fafadiatech.com/about-us/career/",
+      dateUpdated: "18/Oct/2023"
+    },
+	
+	{
+      jobTitle: "AWS {Freshers}Developers",
+      companyName: "Neti Soft Consultants",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.netisoft.in/careers.html",
+      dateUpdated: "18/Oct/2023"
+    },
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "GuideWire",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://careers.guidewire.com/jobs",
+      dateUpdated: "18/Oct/2023"
+    },
+	{
+      jobTitle: "AWS Glue and Python",
+      companyName: "iPowerFour",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:1,
+      applyURL: "http://www.ipowerfour.com/careers",
+      dateUpdated: "18/Oct/2023"
+    },
 	{
       jobTitle: "DevOps Engineer ( Azure DevOps)",
       companyName: "Ansys",
