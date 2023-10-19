@@ -6,7 +6,7 @@ const jobList = [
       companyName: "VWorker Solutions India Pvt Ltd",
       location: "Anywhere",
       yearsOfExperienceRequired:7,
-      applyURL: "https://staging.vworker.in/career/"
+      applyURL: "https://staging.vworker.in/career/",
       dateUpdated: "18/Oct/2023"
     },
 	
