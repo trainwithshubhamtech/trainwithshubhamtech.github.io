@@ -1,4 +1,72 @@
 const jobList = [
+		{
+      jobTitle: "Devops Engineer",
+      companyName: "klaus it solutions pvt ltd",
+      location: "Pune",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://klausit.com/careers/"
+      dateUpdated: "21/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "data economy",
+      location: "Pune",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://dataeconomy.zohorecruit.com/jobs/Careers",
+      dateUpdated: "21/Oct/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "mobisoft infotech",
+      location: "Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://mobisoftinfotech.com/jobs-at-mobisoft",
+      dateUpdated: "21/Oct/2023"
+    },
+	{
+      jobTitle: "Application Support Cloud",
+      companyName: "Fulcrum Digital",
+      location: "Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://fulcrumdigital.com/careers/",
+      dateUpdated: "21/Oct/2023"
+    },
+	{
+      jobTitle: "Principal Cloud Engineer -",
+      companyName: "system plus",
+      location: "pune",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.systems-plus.com/careers/",
+      dateUpdated: "21/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "paratus system",
+      location: "pune",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://paratussystems.com/careers/",
+      dateUpdated: "21/Oct/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineering",
+      companyName: "Vam Infosys Pvt. Ltd.",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://vaminfosys.com/careers.php",
+      dateUpdated: "21/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - IT Automation",
+      companyName: "Datawens Technologies Pvt Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://in.jobrapido.com/#browse-jobs",
+      dateUpdated: "21/Oct/2023"
+    },
+	
 	
 	
 	{
