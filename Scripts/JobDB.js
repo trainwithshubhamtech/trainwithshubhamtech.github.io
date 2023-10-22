@@ -4,7 +4,7 @@ const jobList = [
       companyName: "klaus it solutions pvt ltd",
       location: "Pune",
       yearsOfExperienceRequired:4,
-      applyURL: "https://klausit.com/careers/"
+      applyURL: "https://klausit.com/careers/",
       dateUpdated: "21/Oct/2023"
     },
 	
