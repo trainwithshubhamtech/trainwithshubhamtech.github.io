@@ -1,5 +1,72 @@
 const jobList = [
-		{
+	{
+      jobTitle: "DevOps Engineer (AWS, Terraform)",
+      companyName: "SA Technologies Inc.,",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.satincorp.com/careers",
+      dateUpdated: "24/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Developer",
+      companyName: "XRG Consulting Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://xrg.in/careers.html",
+      dateUpdated: "24/Oct/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "nurdsoft",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.nurdsoft.co/career/",
+      dateUpdated: "24/Oct/2023"
+    },
+	{
+      jobTitle: "Cloud devops lead",
+      companyName: "Vaco Binary Semantics LLP",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.vacobinary.in/careers/",
+      dateUpdated: "24/Oct/2023"
+    },
+	{
+      jobTitle: "Platform Engineer - Azure DevOps",
+      companyName: "SitusAMC",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.situsamc.com/",
+      dateUpdated: "24/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps",
+      companyName: "xEnabler",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://xenabler.digital/career",
+      dateUpdated: "24/Oct/2023"
+    },
+	{
+      jobTitle: "Cloud Intern (AWS)",
+      companyName: "Mentorsity",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://mentorsity.com/career/",
+      dateUpdated: "24/Oct/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer ",
+      companyName: "Bipolar Factory",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.bipolarfactory.com/career",
+      dateUpdated: "24/Oct/2023"
+    },
+	{
       jobTitle: "Devops Engineer",
       companyName: "klaus it solutions pvt ltd",
       location: "Pune",
