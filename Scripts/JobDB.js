@@ -1,4 +1,82 @@
 const jobList = [
+
+	
+	
+	{
+      jobTitle: "DevOps Engineer 2",
+      companyName: "Michelin",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.michelin.com/en/careers-work-for-michelin/",
+      dateUpdated: "26/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Intern-infra management and cloud support",
+      companyName: "TGC Technologies Pvt Ltd",
+      location: "Pune",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://m5.apply.indeed.com/beta/indeedapply/form/contact-info",
+      dateUpdated: "26/Oct/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "FossGen Technologies Pvt.ltd",
+      location: "Pune",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://fossgentechnologies.com/career/",
+      dateUpdated: "26/Oct/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Instem",
+      location: "Bangalore",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://instem.csod.com/ux/ats/careersite/8/home/requisition/97?c=instem",
+      dateUpdated: "26/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Quantum",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.instahyre.com/job-286475-linux-admin-at-linkedin-bangalore/",
+      dateUpdated: "26/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Mphasis",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.instahyre.com/job-285991-devops-engineer-at-mphasis-bangalore/",
+      dateUpdated: "26/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Inito",
+      location: "Bangalore",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.instahyre.com/job-285267-devops-engineer-at-inito-bangalore/",
+      dateUpdated: "26/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Verve Group",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://verve.com/careers/",
+      dateUpdated: "26/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Bynry Inc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.linkedin.com/jobs/view/devops-intern-6-months-internship-at-bynry-inc-3711554282/",
+      dateUpdated: "26/Oct/2023"
+    },
 	{
       jobTitle: "DevOps Engineer (AWS, Terraform)",
       companyName: "SA Technologies Inc.,",
