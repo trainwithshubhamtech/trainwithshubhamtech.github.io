@@ -3,6 +3,81 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Salesforce DevOps",
+      companyName: "Salesforce",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.linkedin.com/jobs/view/salesforce-devops-consultant-at-salesforce-3749787320/",
+      dateUpdated: "28/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer ",
+      companyName: "Mindbowser Info Solutions Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.mindbowser.com/careers/",
+      dateUpdated: "28/Oct/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "rtCamp",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://rtcamp.com/careers/",
+      dateUpdated: "28/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Specialist",
+      companyName: "iBASIS",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.linkedin.com/jobs/view/devops-specialist-at-ibase-t-3735054601/",
+      dateUpdated: "28/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "NiYO Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.instahyre.com/search-jobs/",
+      dateUpdated: "28/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - IT Automation",
+      companyName: "Datawens Technologies Pvt Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.datawens.com/#careers",
+      dateUpdated: "28/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "MultiversX",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://multiversx.com/careers",
+      dateUpdated: "28/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Mactores",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://mactores.com/careers",
+      dateUpdated: "28/Oct/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "vmedulife Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://vmedulife.freshteam.com/jobs",
+      dateUpdated: "28/Oct/2023"
+    },
+	{
       jobTitle: "DevOps Engineer 2",
       companyName: "Michelin",
       location: "Pune, Maharashtra",
