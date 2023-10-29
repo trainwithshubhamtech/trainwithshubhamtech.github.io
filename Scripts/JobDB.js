@@ -3,6 +3,91 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Cimpress India",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://cimpress.com/careers/",
+      dateUpdated: "29/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Celigo",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.celigo.com/careers/",
+      dateUpdated: "29/Oct/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "eShopbox",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.eshopbox.com/job-listings",
+      dateUpdated: "29/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - IT Automation",
+      companyName: "Datawens Technologies Pvt Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.wovvtech.com/careers/",
+      dateUpdated: "29/Oct/2023"
+    },
+	{
+      jobTitle: "Cloud DevOps",
+      companyName: "Tata Consultancy Services",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.tcs.com/careers",
+      dateUpdated: "29/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Rave Business Systems",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://ravebizz.com/career.html",
+      dateUpdated: "29/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Cloudesign Technology Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.cloudesign.com/careers",
+      dateUpdated: "29/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Infrabyte Technology",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://infrabyteits.com/jobs/",
+      dateUpdated: "29/Oct/2023"
+    },
+	{
+      jobTitle: "Cloud Devops Engineer (AWS)",
+      companyName: "IVY TECH SOLUTIONS INC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://ivytechsol.com/jobs/",
+      dateUpdated: "29/Oct/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Devops Engineer (AWS)",
+      companyName: "IVY TECH SOLUTIONS INC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://syndigo.com/about-us/life-at-syndigo/",
+      dateUpdated: "29/Oct/2023"
+    },
+	
+	{
       jobTitle: "Salesforce DevOps",
       companyName: "Salesforce",
       location: "Pune, Maharashtra",
