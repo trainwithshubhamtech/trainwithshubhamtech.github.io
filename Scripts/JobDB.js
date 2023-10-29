@@ -80,9 +80,9 @@ const jobList = [
 	
 	{
       jobTitle: "Cloud Devops Engineer (AWS)",
-      companyName: "IVY TECH SOLUTIONS INC",
+      companyName: "Syndigo",
       location: "Anywhere",
-      yearsOfExperienceRequired:4,
+      yearsOfExperienceRequired:2,
       applyURL: "https://syndigo.com/about-us/life-at-syndigo/",
       dateUpdated: "29/Oct/2023"
     },
