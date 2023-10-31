@@ -1,7 +1,90 @@
 const jobList = [
-
 	
 	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "GoodSpace",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.linkedin.com/jobs/view/devops-engineer-at-goodspace-3750105156/",
+      dateUpdated: "31/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Specialist",
+      companyName: "G-Jobs ",
+      location: "Anywhere",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.linkedin.com/jobs/view/devops-specialist-at-g-jobs-3749857531/",
+      dateUpdated: "31/Oct/2023"
+    },
+	{
+      jobTitle:"Azure DevOps Application Support Engineer",
+      companyName: "Accenture in India",
+      location: "Anywhere",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.linkedin.com/jobs/view/microsoft-azure-devops-application-support-engineer-at-accenture-in-india-3754324765/",
+      dateUpdated: "31/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - IT Automation",
+      companyName: "ScaleupInfra",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://internshala.com/internship/detail/educational-content-developmentdevops-cloud-technologies-work-from-home-job-internship-at-scaleupinfra1698678373",
+      dateUpdated: "31/Oct/2023"
+    },
+	{
+      jobTitle: "DevOps Instructor",
+      companyName: "e-gain Technologies · India",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.linkedin.com/jobs/view/devops-instructor-at-e-gain-technologies-3749894498/",
+      dateUpdated: "31/oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Rupeek",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.instahyre.com/candidates/register/",
+      dateUpdated: "31/Oct/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "CN Group CZ",
+      location: "Remote",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.glassdoor.co.in/job-listing/senior-devops-engineer-cn-group-cz-JV_KO0,22_KE23,34.htm?jl=1008948227358&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "31/Oct/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Plasma Computing Group",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.glassdoor.co.in/job-listing/devops-engineer-build-and-release-engineer-plasma-JV_IC2891681_KO0,42_KE43,49.htm?jl=1006074401477&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "31/Oct/2023"
+    },
+	{
+      jobTitle: "Azure DevOps Intern",
+      companyName: "Emplay Inc",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.glassdoor.co.in/job-listing/azure-devops-intern-emplay-inc-JV_KO0,19_KE20,30.htm?jl=1008946347347&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "31/Oct/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer Trainee",
+      companyName: "Kloudone",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.glassdoor.co.in/job-listing/aws-devops-engineer-trainee-position-kloudone-JV_KO0,36_KE37,45.htm?jl=1008790263094&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "31/Oct/2023"
+    },
 	{
       jobTitle: "Senior DevOps Engineer",
       companyName: "Cimpress India",
