@@ -60,15 +60,7 @@ const jobList = [
       dateUpdated: "05/Nov/2023"
     },
 	
-	{
-      jobTitle: "DevOps Engineer",
-      companyName: "Diverse Lynx India",
-      location: "Pune, Maharashtra",
-      yearsOfExperienceRequired:1.2,
-      applyURL: "https://www.diverselynx.com/upload-your-resume/",
-      dateUpdated: "05/Nov/2023"
-    },
-	{
+     {
       jobTitle: "DevOps",
       companyName: "Diverse Lynx India",
       location: "Pune, Maharashtra",
