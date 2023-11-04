@@ -218,7 +218,7 @@
           </div>
     </div>
     <script>
-      $('.2').hide();
+      
 
       var url = "https://prod-82.eastus.logic.azure.com:443/workflows/b3ec5c0ccf6e45cb927393a9dd9dfd08/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=-VY6an80DMrRObAfCr-842k0ipfYiUsWeZjETbNWyvI"
       function XYZ(s){
@@ -234,7 +234,8 @@
               contentType: "application/json",
               success: function(response) {
                 // Handle the response from the API
-                //console.log(response);            
+                //console.log(response);        
+                $('.2').hide();
               },
               error: function(jqXHR, textStatus, errorThrown) {
                 // Handle any errors that occur during the API call
