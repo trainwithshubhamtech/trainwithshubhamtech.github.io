@@ -1,7 +1,90 @@
 
 const jobList = [
+
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Cummins Inc.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.cummins.com/careers",
+      dateUpdated: "05/Nov/2023"
+    },
 	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Evolent",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.evolenthealth.com/careers/current-opportunities",
+      dateUpdated: "05/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps",
+      companyName: "IBM",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.ibm.com/careers/us-en/search/?filters=primary_country:CA,primary_country:US",
+      dateUpdated: "05/Nov/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Architect",
+      companyName: "Hexaware Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://hexaware.com/careers/",
+      dateUpdated: "05/Nov/2023"
+    },
+	{
+      jobTitle: "Sr. DevOps Engineer",
+      companyName: "Hilti Corporation",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://careers.hilti.group/en/jobs/",
+      dateUpdated: "05/Nov/2023"
+    },
 	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Deloitte",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www2.deloitte.com/us/en/careers/careers.html",
+      dateUpdated: "05/Nov/2023"
+    },
+	{
+      jobTitle: "Azure DevOps with Kubernetes",
+      companyName: "Expleo",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://careers.expleo.com/en/#",
+      dateUpdated: "05/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Diverse Lynx India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.diverselynx.com/upload-your-resume/",
+      dateUpdated: "05/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps",
+      companyName: "Diverse Lynx India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.diverselynx.com/career-with-us/",
+      dateUpdated: "05/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Varian Medical Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.varian.com/about-varian/careers",
+      dateUpdated: "05/Nov/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "GoodSpace",
