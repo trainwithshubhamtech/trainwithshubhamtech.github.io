@@ -1,6 +1,92 @@
 
 const jobList = [
 
+	
+	
+	{
+      jobTitle: "Senior Cloud & DevOps Engineers",
+      companyName: "Veryx Technologies",
+      location: "India",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://veryxtech.com/careers/",
+      dateUpdated: "06/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Environmental Services Wipro",
+      location: "Hardoi, Uttar Pradesh",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.wipro.com/careers-home/",
+      dateUpdated: "06/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Evervent Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://evervent.in/career",
+      dateUpdated: "06/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "HEXANIKA",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://hexanika.com/careers/",
+      dateUpdated: "06/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "ADAGRAD HQ",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://careers.adagrad.ai/",
+      dateUpdated: "06/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Daynil Group Solutions Pvt Ltd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://daynilgroup.com/career.php",
+      dateUpdated: "06/Nov/2023"
+    },
+	{
+      jobTitle: "Devops Trainee",
+      companyName: "thyssenkrupp Materials IT Services India Pvt. Ltd",
+      location: "Thane, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://jobs.thyssenkrupp.com/en",
+      dateUpdated: "06/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Mactores Internship",
+      companyName: "Mactores",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://mactores.com/careers",
+      dateUpdated: "06/Nov/2023"
+    },
+	{
+      jobTitle: "Sr. Cloud Applications Engineer",
+      companyName: "opentext",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://careers.opentext.com/go/Early-Careers/2621817/",
+      dateUpdated: "06/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Data Architect",
+      companyName: "QuaXigma Inc.,",
+      location: "India",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.quaxigma.com/careers/",
+      dateUpdated: "06/Nov/2023"
+    },
 	{
       jobTitle: "DevOps Engineer",
       companyName: "Cummins Inc.",
