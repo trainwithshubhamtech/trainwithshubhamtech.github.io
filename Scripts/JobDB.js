@@ -4,6 +4,90 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "S&P Global",
+      location: "India",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.spglobal.com/en/careers/overview/",
+      dateUpdated: "07/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS Machine Learning Engineer",
+      companyName: "Ankercloud GmbH",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.raspl.com/career.php",
+      dateUpdated: "07/Nov/2023"
+    },
+	{
+      jobTitle:"AWS Infra DevOps",
+      companyName: "Tata Consultancy Services",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://www.ankercloud.com/careers",
+      dateUpdated: "07/Nov/2023"
+    },
+	{
+      jobTitle: "AWS Data Engineer",
+      companyName: "Vaspire Technologies Inc.",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://vaspiretech.com/career/",
+      dateUpdated: "07/Nov/2023"
+    },
+	{
+      jobTitle: "Senior AWS Engineer",
+      companyName: "US eDirect",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.tylertech.com/careers",
+      dateUpdated: "07/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS - Data Engineer",
+      companyName: "MSD Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://msdtech.in/career/",
+      dateUpdated: "07/Nov/2023"
+    },
+	{
+      jobTitle: "Devops Trainee",
+      companyName: "thyssenkrupp Materials IT Services India Pvt. Ltd",
+      location: "Thane, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://jobs.thyssenkrupp.com/en",
+      dateUpdated: "07/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Database Engineer - AWS",
+      companyName: "ITC Infotech",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://jobs.itcinfotech.com/#!/joblist",
+      dateUpdated: "07/Nov/2023"
+    },
+	{
+      jobTitle: "Python AWS Engineer",
+      companyName: "Numentica LLC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://numentica.zohorecruit.com/recruit/Portal.na?iframe=false&digest=vdse4pa3UG.8eZ1tXmZI9q13S9ZqbOaGpS5XA1%40GWCw-",
+      dateUpdated: "07/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS Data Engineer - Support Engineer Freelancer",
+      companyName: "Hatigen",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://hatigen.com/careers",
+      dateUpdated: "07/Nov/2023"
+    },
+	{
       jobTitle: "Senior Cloud & DevOps Engineers",
       companyName: "Veryx Technologies",
       location: "India",
