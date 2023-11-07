@@ -1,8 +1,82 @@
 
 const jobList = [
-
 	
 	
+	{
+      jobTitle: "Azure DevOps",
+      companyName: "A-1 Technology",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.a1technology.com/careers.aspx",
+      dateUpdated: "08/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps+Openshift+Linux",
+      companyName: "NTT DATA INFORMATION PROCESSING SERVICES PRIVATE LIMITED",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.nttdata.com/global/en/careers/search-jobs?category=see-job",
+      dateUpdated: "08/Nov/2023"
+    },
+	{
+      jobTitle:" Senior DevOps Engineer",
+      companyName: "inContact",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.nice.com/careers",
+      dateUpdated: "08/Nov/2023"
+    },
+	{
+      jobTitle: "AWS/DevOps Engineer",
+      companyName: "Softpath Technologies LLC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.softpathtech.com/current.html",
+      dateUpdated: "08/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Synechron",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.synechron.com/en-in/careers",
+      dateUpdated: "08/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps",
+      companyName: "RARR Technologies",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.rarrtech.com/current-job-opening",
+      dateUpdated: "08/Nov/2023"
+    },
+	{
+      jobTitle: "Devops Trainee",
+      companyName: "Cloud Consultant ",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "08/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Oracle HCM Cloud Consultant",
+      companyName: "West Advanced Technologies Pvt Ltd",
+      location: "Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.wati.com/careers/",
+      dateUpdated: "08/Nov/2023"
+    },
+	{
+      jobTitle: "Oracle Epm Cloud",
+      companyName: "Elfonze Technologies",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://elfonze.zohorecruit.in/jobs/Careers",
+      dateUpdated: "08/Nov/2023"
+    },
 	{
       jobTitle: "Senior DevOps Engineer",
       companyName: "S&P Global",
