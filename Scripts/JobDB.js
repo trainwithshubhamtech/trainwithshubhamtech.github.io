@@ -54,7 +54,7 @@ const jobList = [
       jobTitle: "Intern - Firmware",
       companyName: "Seagate Technology",
       location: "Pune",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:0.1,
       applyURL: "https://www.seagate.com/in/en/",
       dateUpdated: "19/Nov/2023"
     },
