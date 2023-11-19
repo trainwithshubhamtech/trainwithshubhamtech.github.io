@@ -1,7 +1,89 @@
 
 const jobList = [
+	{
+      jobTitle: "Azure DevOps",
+      companyName: "innofied",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.innofied.com/career/",
+      dateUpdated: "19/Nov/2023"
+    },
 	
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "HEXANIKA",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://hexanika.com/careers/",
+      dateUpdated: "19/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps Intern",
+      companyName: "Bynry Inc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.bynry.com/careers",
+      dateUpdated: "19/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps and IT Intern",
+      companyName: "Avegen India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://aipl.keka.com/careers?&utm_source=avegen-website",
+      dateUpdated: "19/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Radical Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.radicaltechnologies.co.in/careers/",
+      dateUpdated: "19/Nov/2023"
+    },
 	
+	{
+      jobTitle: "DevOps Engineer- Intern",
+      companyName: "ADAGRAD HQ",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.adagrad.ai/",
+      dateUpdated: "19/Nov/2023"
+    },
+	{
+      jobTitle: "Intern - Firmware",
+      companyName: "Seagate Technology",
+      location: "Pune",
+      yearsOfExperienceRequired:,
+      applyURL: "https://www.seagate.com/in/en/",
+      dateUpdated: "19/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Enlighten Schola",
+      companyName: "Python Intern",
+      location: "India",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.enlightenschola.com/course",
+      dateUpdated: "19/Nov/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Consultant- AWS",
+      companyName: "Meteonic Innovation",
+      location: "Senior DevOps Consultant- AWS",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.meteonic.com/careers",
+      dateUpdated: "19/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Intern – System Admin - Vertoz",
+      companyName: "Vertoz",
+      location: "Mumbai",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.vertoz.com/careers/",
+      dateUpdated: "19/Nov/2023"
+    },
 	{
       jobTitle: "Azure DevOps",
       companyName: "A-1 Technology",
