@@ -1,5 +1,65 @@
 
 const jobList = [
+	
+	
+	{
+      jobTitle: "Azure DevOps",
+      companyName: "Alp Consulting Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://alp.consulting/careers/",
+      dateUpdated: "22/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS Architect(Part Time)",
+      companyName: "Programmers.io",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://programmers.io/our-openings/",
+      dateUpdated: "22/Nov/2023"
+    },
+	{
+      jobTitle:"Cloud Engineer - AWS",
+      companyName: "Lentra Ai",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://lentra.ai/careers",
+      dateUpdated: "22/Nov/2023"
+    },
+	{
+      jobTitle: "AWS data services",
+      companyName: "Convera",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://convera.com/careers/",
+      dateUpdated: "22/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Saama Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.saama.com/about/company/careers/",
+      dateUpdated: "22/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS Architect ",
+      companyName: "Cygnus Professionals Inc.",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.cygnuspro.com/job-openings/",
+      dateUpdated: "22/Nov/2023"
+    },
+	{
+      jobTitle: "Python Developer (AWS)",
+      companyName: "Medidata Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://florencehc.com/careers/",
+      dateUpdated: "22/Nov/2023"
+    },
 	{
       jobTitle: "Azure DevOps",
       companyName: "innofied",
