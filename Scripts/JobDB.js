@@ -3,6 +3,90 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "DevOps Specialist",
+      companyName: "Synechron",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5.8,
+      applyURL: "https://www.synechron.com/en-in/careers",
+      dateUpdated: "23/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Remote Freelance DevOps Engineer",
+      companyName: "Flexiple",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://app.flexiple.com/talent-form?_gl=1*jglbsb*_gcl_au*MTE1MjYxMDQwMy4xNjk1ODQxODgy",
+      dateUpdated: "23/Nov/2023"
+    },
+	{
+      jobTitle:"Azure Devops Engineer Freelance",
+      companyName: "Jupiter AI Labs ",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://juppiterailabs.com/jobs/",
+      dateUpdated: "23/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Docker/Kubernetes",
+      companyName: "Softpath Technologies LLC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.softpathtech.com/current.html",
+      dateUpdated: "23/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Consultant",
+      companyName: "Infosys",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.infosys.com/careers/apply.html",
+      dateUpdated: "23/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - IT Automation",
+      companyName: "Datawens Technologies Pvt Ltd",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.datawens.com/#careers",
+      dateUpdated: "23/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Helius Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.helius-tech.com/careers/",
+      dateUpdated: "23/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Devops Automation Engineer",
+      companyName: "TEKGENCE INC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.helius-tech.com/careers/",
+      dateUpdated: "23/Nov/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Consultant- AWS",
+      companyName: "KloudOne",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.actalentservices.com/in/en/search-results",
+      dateUpdated: "23/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Azure Devops Engineer",
+      companyName: "Marktine Technology Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://marktine.com/current-openings/",
+      dateUpdated: "23/Nov/2023"
+    },
+    {
       jobTitle: "Azure DevOps",
       companyName: "Alp Consulting Ltd.",
       location: "Pune, Maharashtra",
