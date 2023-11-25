@@ -1,7 +1,92 @@
 
 const jobList = [
+
 	
 	
+	{
+      jobTitle: "Sr. DevOps Engineer (WFH)",
+      companyName: "Uplers",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.uplers.com/careers/",
+      dateUpdated: "24/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "RemoteMore",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://remotemore.com/candidates/",
+      dateUpdated: "24/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "EnactOn Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.enacton.com/careers/",
+      dateUpdated: "24/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Docker/Kubernetes",
+      companyName: "Kudzu Infotech",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.kudzuinfotech.com/the-careers/",
+      dateUpdated: "24/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer (Permanent WFH)",
+      companyName: "Turgajo Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://turgajo.com/careers/",
+      dateUpdated: "24/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "AST Consulting",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.astcorporation.com/careers/",
+      dateUpdated: "24/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Mediaocean",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.mediaocean.com/careers",
+      dateUpdated: "24/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer (3+ years)",
+      companyName: "Helius Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.helius-tech.com/careers/",
+      dateUpdated: "24/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Docker/Kubernetes",
+      companyName: "Simform",
+      location: "Simform",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.simform.com/careers/",
+      dateUpdated: "24/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "AptEdge",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.aptedge.io/careers/",
+      dateUpdated: "24/Nov/2023"
+    },
 	{
       jobTitle: "DevOps Specialist",
       companyName: "Synechron",
