@@ -1,8 +1,91 @@
 
 const jobList = [
-
 	
 	
+	{
+      jobTitle: "AWS - DevOps Engineer",
+      companyName: "Vector Flow",
+      location: "Anywhere",
+      yearsOfExperienceRequired:,
+      applyURL: "https://vectorflow.com/careers",
+      dateUpdated: "25/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "EPAM",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.epam.com/careers",
+      dateUpdated: "25/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer - Low Level team (Poland remote)",
+      companyName: "Nord Security",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://nordsecurity.com/careers/jobs",
+      dateUpdated: "25/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - Docker/Kubernetes",
+      companyName: "Softpath Technologies LLC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.softpathtech.com/current.html",
+      dateUpdated: "25/Nov/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineering",
+      companyName: "Rydeu Logistics UG",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://internshala.com/internship/detail/aws-devops-engineering-work-from-home-job-internship-at-rydeu-logistics-ug1700487233",
+      dateUpdated: "25/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Devops Intern",
+      companyName: "Fold",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://app.reczee.com/talenthub/fold/jobs/JgAf8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "25/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps work from home job/internship ",
+      companyName: "JALA Academy",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.mediaocean.com/careers",
+      dateUpdated: "25/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Ernst and Young Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://eyglobal.yello.co/job_boards/c1riT--B2O-KySgYWsZO1Q?locale=en",
+      dateUpdated: "25/Nov/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Devops Engineer",
+      companyName: "Facile Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.glassdoor.co.in/job-listing/aws-cloud-devops-engineer-facile-services-JV_IC2856202_KO0,25_KE26,41.htm?jl=1007172446048&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "25/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS/DevOps Engineer",
+      companyName: "Softpath Technologies LLC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.softpathtech.com/current.html",
+      dateUpdated: "25/Nov/2023"
+    },
 	{
       jobTitle: "Sr. DevOps Engineer (WFH)",
       companyName: "Uplers",
