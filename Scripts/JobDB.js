@@ -6,7 +6,7 @@ const jobList = [
       jobTitle: "AWS - DevOps Engineer",
       companyName: "Vector Flow",
       location: "Anywhere",
-      yearsOfExperienceRequired:,
+      yearsOfExperienceRequired:0.2,
       applyURL: "https://vectorflow.com/careers",
       dateUpdated: "25/Nov/2023"
     },
