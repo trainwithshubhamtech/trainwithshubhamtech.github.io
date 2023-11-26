@@ -1,7 +1,92 @@
 
 const jobList = [
+
 	
 	
+	{
+      jobTitle: "DevOps",
+      companyName: "Zensar Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.zensar.com/careers/",
+      dateUpdated: "26/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "DevOps Engineer",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "26/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Caizin",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.6,
+      applyURL: "https://nordsecurity.com/careers/jobs",
+      dateUpdated: "26/Nov/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Intellect Design Arena Ltd",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.intellectdesign.com/careers/",
+      dateUpdated: "26/Nov/2023"
+    },
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Webority Technologies",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.webority.com/careers/",
+      dateUpdated: "26/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Ashnik",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.ashnik.com/careers/",
+      dateUpdated: "26/Nov/2023"
+    },
+	{
+      jobTitle: "Cloud/DevOps Engineer - fresher- Jaipur",
+      companyName: "KainSkep",
+      location: "Jaipur, Rajasthan",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.kainskep.com/career",
+      dateUpdated: "26/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Long Finch Technologies LLC",
+      location: "Kochi, Kerala",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://longfinch.com/career",
+      dateUpdated: "26/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "UNIMONI FINANCIAL SERVICES LTD",
+      location: "Sikar, Rajasthan",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.unimoni.in/careers.php",
+      dateUpdated: "26/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "HCL",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.hcltech.com/careers/Careers-in-india",
+      dateUpdated: "26/Nov/2023"
+    },
 	{
       jobTitle: "AWS - DevOps Engineer",
       companyName: "Vector Flow",
