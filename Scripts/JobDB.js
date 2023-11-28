@@ -4,6 +4,90 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "CGI",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4.7,
+      applyURL: "https://www.cgi.com/en/careers",
+      dateUpdated: "28/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "LTIMindtree",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "28/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps Specialist",
+      companyName: "Synechron",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.synechron.com/en-in/careers",
+      dateUpdated: "28/Nov/2023"
+    },
+	{
+      jobTitle: "Senior Devops Architect",
+      companyName: "Persistent Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.persistent.com/",
+      dateUpdated: "28/Nov/2023"
+    },
+	{
+      jobTitle: "AWS Devops",
+      companyName: "Wipro",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://careers.wipro.com/careers-home/",
+      dateUpdated: "28/Nov/2023"
+    },
+	
+	{
+      jobTitle: "AWS Devops",
+      companyName: "Wipro",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://careers.wipro.com/careers-home/",
+      dateUpdated: "28/Nov/2023"
+    },
+	{
+      jobTitle: "Software Engineer Senior - Devops",
+      companyName: "FIS Global",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.fisglobal.com/us/en/fis-university-internships",
+      dateUpdated: "28/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Mindbowser Info Solutions Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.mindbowser.com/careers/",
+      dateUpdated: "28/Nov/2023"
+    },
+	{
+      jobTitle: "Sse DevOps",
+      companyName: "Mindtree",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "28/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "JetSynthesys Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.jetsynthesys.com/careers/",
+      dateUpdated: "28/Nov/2023"
+    },
+	{
       jobTitle: "DevOps",
       companyName: "Zensar Technologies",
       location: "Pune, Maharashtra",
