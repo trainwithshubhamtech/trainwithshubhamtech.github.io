@@ -13,7 +13,7 @@ const jobList = [
     },
 	
 	{
-      jobTitle: "Golden Hippo Technology Pvt Ltd",
+      jobTitle: "DevOps Engineer",
       companyName: "Golden Hippo Technology Pvt Ltd",
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:0.1,
