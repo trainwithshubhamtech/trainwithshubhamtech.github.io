@@ -4,6 +4,74 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Trainee Engineer, Fresher",
+      companyName: "CGI",
+      location: "Indore",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.nenosystems.com/openings#",
+      dateUpdated: "29/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Golden Hippo Technology Pvt Ltd",
+      companyName: "Golden Hippo Technology Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.golden-hippo.com/#career-section",
+      dateUpdated: "29/Nov/2023"
+    },
+	{
+      jobTitle:"Azure DevOps Engineer",
+      companyName: "MALtech Solutions Pvt Ltd",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.maltech.co/careers",
+      dateUpdated: "29/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "R K Infotech",
+      location: "Rājkot",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.rkinfo-tech.com/careers/current-openings/",
+      dateUpdated: "29/Nov/2023"
+    },
+	{
+      jobTitle: "Freshers Hiring for IT Positions-Pronix Talent Hunt",
+      companyName: "Pronix",
+      location: "Hyderābād",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.pronixinc.com/job/48/freshers-hiring-for-it-positions-pronix-talent-hunt",
+      dateUpdated: "29/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Ops",
+      companyName: "Whisltemind",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://whistlemind.freshteam.com/jobs",
+      dateUpdated: "29/Nov/2023"
+    },
+	{
+      jobTitle: "Associate Support Engineer",
+      companyName: "Cloud Software Group",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.cloud.com/CloudCareers",
+      dateUpdated: "29/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Freshers - AWS Cloud - Gujarat",
+      companyName: "AeonX Digital Solutions",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.aeonx.digital/career/",
+      dateUpdated: "29/Nov/2023"
+    },
+	
+	{
       jobTitle: "DevOps Engineer",
       companyName: "CGI",
       location: "Pune, Maharashtra",
