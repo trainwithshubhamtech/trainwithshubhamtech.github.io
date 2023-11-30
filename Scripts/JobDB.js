@@ -4,6 +4,91 @@ const jobList = [
 	
 	
 	{
+      jobTitle: " DevOps Engineer",
+      companyName: "Ansys",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.ansys.com/en-in/careers",
+      dateUpdated: "30/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Devops Specialist",
+      companyName: "Ibase T",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://www.ibaset.com/careers/",
+      dateUpdated: "30/Nov/2023"
+    },
+	{
+      jobTitle:"DevOps Intern",
+      companyName: "HotelKey",
+      location: "Bengaluru",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.hotelkeyapp.com/#/job-details?job_id=6",
+      dateUpdated: "30/Nov/2023"
+    },
+	{
+      jobTitle: "Trainee Engineer, Fresher",
+      companyName: "nenosystems",
+      location: "Indore",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.nenosystems.com/openings#",
+      dateUpdated: "30/Nov/2023"
+    },
+	{
+      jobTitle: "Associate Cloud Operations Engineer",
+      companyName: "Basware",
+      location: "Chandigarh",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://emp.jobylon.com/jobs/169351-basware-junior-associate-cloud-operations-engineer-pdf-mapping/",
+      dateUpdated: "30/Nov/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Ops",
+      companyName: "NIMESA Technologies",
+      location: "Bangalore",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://nimesa.io/careers/",
+      dateUpdated: "30/Nov/2023"
+    },
+	{
+      jobTitle: "Associate DevOps Engineer",
+      companyName: "Golden Hippo Technology Pvt Ltd",
+      location: "Madurai",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.golden-hippo.com/#career-section",
+      dateUpdated: "30/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Specialist Engineer",
+      companyName: "Eaton",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.eaton.com/us/en-us/company/careers.html",
+      dateUpdated: "30/Nov/2023"
+    },
+	{
+      jobTitle: "DevOps",
+      companyName: "Zensar Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://www.zensar.com/careers/",
+      dateUpdated: "30/Nov/2023"
+    },
+	
+	{
+      jobTitle: "DevOps",
+      companyName: "Barclays",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://home.barclays/careers/",
+      dateUpdated: "30/Nov/2023"
+    },
+	
+   {
       jobTitle: "Trainee Engineer, Fresher",
       companyName: "CGI",
       location: "Indore",
