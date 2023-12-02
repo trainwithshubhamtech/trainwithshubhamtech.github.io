@@ -4,6 +4,90 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Deutsche Bank",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.db.com/?language_id=1",
+      dateUpdated: "02/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Senior Engineer - Devops",
+      companyName: "Accelya",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://w3.accelya.com/careers/",
+      dateUpdated: "02/Dec/2023"
+    },
+	{
+      jobTitle:"Senior DevOps Engineer",
+      companyName: "Finastra",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.finastra.com/jobs",
+      dateUpdated: "02/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "rtCamp",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.rtcamp.com/#openings",
+      dateUpdated: "02/Dec/2023"
+    },
+	{
+      jobTitle: "Associate Cloud Operations Engineer",
+      companyName: "Uplers",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.uplers.com/careers/",
+      dateUpdated: "02/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Revvity",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://jobs.revvity.com/search-jobs",
+      dateUpdated: "02/Dec/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Softenger",
+      location: "Madurai",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.softenger.com/index.php/vacancies/",
+      dateUpdated: "02/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - GCP (India)",
+      companyName: "CloudWerx",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://cloudwerx.co/careers/",
+      dateUpdated: "02/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Cloud Engineer",
+      companyName: "CrossAsyst Infotech",
+      location: "Navi Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.crossasyst.com/career/",
+      dateUpdated: "02/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer (Senior)",
+      companyName: "Infogain",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.infogain.com/careers/",
+      dateUpdated: "02/Dec/2023"
+    },
+	{
       jobTitle: " DevOps Engineer",
       companyName: "Ansys",
       location: "Pune, Maharashtra",
