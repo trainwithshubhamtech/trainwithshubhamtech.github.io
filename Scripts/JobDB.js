@@ -1,9 +1,111 @@
 
 const jobList = [
 
+
 	
 	
 	{
+      jobTitle: "Devops Engineer",
+      companyName: "dentsu",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.dentsu.com/us/en/careers",
+      dateUpdated: "05/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Light & Wonder",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.lnw.com/careers",
+      dateUpdated: "05/Dec/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Tech Alchemy",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.techalchemy.co/",
+      dateUpdated: "05/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "deqode",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://deqode.com/careers/",
+      dateUpdated: "05/Dec/2023"
+    },
+	{
+      jobTitle: "Sr DevOps Engineer - Azure - Kubernetes",
+      companyName: "TJC Group",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5.8,
+      applyURL: "https://www.tjc-group.com/careers/",
+      dateUpdated: "05/Dec/2023"
+    },
+	
+	{
+      jobTitle: "vmedulife Software",
+      companyName: "vmedulife Software",
+      location: "Hinjewadi, Pune",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://vmedulife.freshteam.com/jobs",
+      dateUpdated: "05/Dec/2023"
+    },
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "FindingPi Pvt Ltd",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.findingpi.com/careers",
+      dateUpdated: "05/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - GCP (India)",
+      companyName: "CloudWerx",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://cloudwerx.co/careers/",
+      dateUpdated: "05/Dec/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Renovision Automation Services Pvt. Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.raspl.com/career.php",
+      dateUpdated: "05/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer (Senior)",
+      companyName: "Wissen Infotech",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.wissen.com/career/opportunities-wissen-infotech",
+      dateUpdated: "05/Dec/2023"
+    },
+	{
+      jobTitle: "AWS Data Engineer",
+      companyName: "Teqtous Inc",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.teqtous.com/careers.html",
+      dateUpdated: "05/Dec/2023"
+    },
+	
+		{
+      jobTitle: "Cloud Support Engineer",
+      companyName: "Calpine Group",
+      location: "Kochi, Kerala",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.calpinetech.com/career",
+      dateUpdated: "05/Dec/2023"
+    },
+    {
       jobTitle: "DevOps Engineer",
       companyName: "Deutsche Bank",
       location: "Pune, Maharashtra",
