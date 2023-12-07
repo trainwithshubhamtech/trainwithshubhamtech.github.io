@@ -1,8 +1,108 @@
 
 const jobList = [
-
-
 	
+	
+	{
+      jobTitle: "AWS DevOps Architect",
+      companyName: "Hexaware Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://hexaware.com/careers/",
+      dateUpdated: "08/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Se/sse/mlse: Aws DevOps",
+      companyName: "Impetus Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.impetus.com/careers/",
+      dateUpdated: "08/Dec/2023"
+    },
+	{
+      jobTitle:"AWS DevOps Engineer (Permanent Remote Opportunity)",
+      companyName: "Gesheften Software Service Pvt Ltd",
+      location: "Anywhere",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.softwaregen.com/",
+      dateUpdated: "08/Dec/2023"
+    },
+	{
+      jobTitle: "AWS Devops engineer",
+      companyName: "IDESLABS PRIVATE LIMITED",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://ideslabs.com/current-openings.php",
+      dateUpdated: "08/Dec/2023"
+    },
+	{
+      jobTitle: "AWS DevOps and Kafka Developer",
+      companyName: "Infosys",
+      location: "India",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.infosys.com/careers/apply.html",
+      dateUpdated: "08/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Sr. DevOps Engineer – AWS",
+      companyName: "WalkingTree Technologies",
+      location: "gra, Uttar Pradesh",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://walkingtree.tech/careers/",
+      dateUpdated: "08/Dec/2023"
+    },
+	{
+      jobTitle: "AWS Cloud Formation //AWS DevOps",
+      companyName: "Nixsol Inc",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://www.nixsol.com/careers.html",
+      dateUpdated: "08/Dec/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "3i Infotech Ltd.",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:3.7,
+      applyURL: "https://www.3i-infotech.com/careers/",
+      dateUpdated: "08/Dec/2023"
+    },
+	{
+      jobTitle: "AWS Devops",
+      companyName: "Macropace Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://macropace.com/careers.html",
+      dateUpdated: "08/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "SitusAMC",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://www.situsamc.com/careers",
+      dateUpdated: "08/Dec/2023"
+    },
+	{
+      jobTitle: "Azure Cloud Engineer",
+      companyName: "TheMaverics Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://themaverics.com/careers/",
+      dateUpdated: "08/Dec/2023"
+    },
+	
+    {
+      jobTitle: "DevOps with Cloud Job in Bangalore, India",
+      companyName: "Virtusa",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "08/Dec/2023"
+    },
 	
 	{
       jobTitle: "Devops Engineer",
