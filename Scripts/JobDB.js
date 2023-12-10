@@ -3,6 +3,98 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "DevOps Engineer - Azure/Google Cloud Platform",
+      companyName: "Lumenci",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2.4,
+      applyURL: "https://www.lumenci.com/careers",
+      dateUpdated: "10/Dec/2023"
+    },
+	
+	{
+      jobTitle: "SENIOR DEVOPS ENGINEER",
+      companyName: "Svitla Systems",
+      location: "Anywhere",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://svitla.com/career",
+      dateUpdated: "10/Dec/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Sophos",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.sophos.com/en-us/careers",
+      dateUpdated: "10/Dec/2023"
+    },
+	{
+      jobTitle: "Automation/DevOps engineer",
+      companyName: "Vnomic",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://vnomic.com/careers/",
+      dateUpdated: "10/Dec/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Techasoft",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.techasoft.com/careers",
+      dateUpdated: "10/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Atyeti Inc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.atyeti.com/careers/",
+      dateUpdated: "10/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Tata Technologies",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.tatatechnologies.com/in/careers/",
+      dateUpdated: "10/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "UnitedLayer",
+      location: "India",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.unitedlayer.com/careers/",
+      dateUpdated: "10/Dec/2023"
+    },
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Siemens",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.siemens.com/in/en/company/jobs.html",
+      dateUpdated: "10/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Mercedes-Benz Research and Development India Private Limited",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:0.3,
+      applyURL: "https://group.mercedes-benz.com/careers/",
+      dateUpdated: "10/Dec/2023"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "DAZN",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.dazn.com/about/",
+      dateUpdated: "10/Dec/2023"
+    },
+	{
       jobTitle: "AWS DevOps Architect",
       companyName: "Hexaware Technologies",
       location: "Pune, Maharashtra",
