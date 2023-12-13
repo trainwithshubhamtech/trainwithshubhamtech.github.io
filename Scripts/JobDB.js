@@ -1,7 +1,93 @@
 
 const jobList = [
+
+
 	
 	
+	{
+      jobTitle: "Senior Azure DevOps Engineer",
+      companyName: "MSD Technologies",
+      location: "WalkingTree Technologies",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://msdtech.in/career/",
+      dateUpdated: "14/Dec/2023"
+    },
+	
+	{
+      jobTitle: "SENIOR DEVOPS ENGINEER",
+      companyName: "Svitla Systems",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://walkingtree.tech/careers/",
+      dateUpdated: "14/Dec/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Ziegler Aerospace",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://ziegler-aerospace.co.uk/careers/",
+      dateUpdated: "14/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer / Senior DevOps Engineer",
+      companyName: "Deuex Solutions",
+      location: "Thane, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://deuexsolutions.com/team/careers",
+      dateUpdated: "14/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps (Internship)",
+      companyName: "Indepay Networks",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:0.6,
+      applyURL: "https://cutshort.io/job/DevOps-Internship-Gurugram-Setara-Networks-pvt-ltd-0ZF3FRWJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "14/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "ABNO Softwares International",
+      location: "Jaipur, Rajasthan",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://abnosoftwares.com/careers",
+      dateUpdated: "14/Dec/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Cotocus",
+      location: "Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.cotocus.com/career/",
+      dateUpdated: "14/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Larsen & Toubro",
+      location: "Azure DevOps Engineer",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.larsentoubro.com/corporate/careers/",
+      dateUpdated: "14/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "OSI Digital",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://osidigital.com/careers/",
+      dateUpdated: "14/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "eZee Technosys Pvt. Ltd.",
+      location: "Surat, Gujarat",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.ezeetechnosys.com/careers/",
+      dateUpdated: "14/Dec/2023"
+    },
 	{
       jobTitle: "DevOps Engineer - Azure/Google Cloud Platform",
       companyName: "Lumenci",
