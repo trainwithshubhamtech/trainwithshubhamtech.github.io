@@ -8,7 +8,7 @@ const jobList = [
       companyName: "MSD Technologies",
       location: "WalkingTree Technologies",
       yearsOfExperienceRequired:5,
-      applyURL: "https:"https://www.mastek.com/careers/",
+      applyURL: "https:"https://www.mastek.com/careers",
       dateUpdated: "16/Dec/2023"
     },
 	
