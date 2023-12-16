@@ -1,4 +1,13 @@
 const jobList = [
+		{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "StepSetGo",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://stepsetgo.com/careers.html",
+      dateUpdated: "16/Dec/2023"
+    },
+	
 
 	
          {
