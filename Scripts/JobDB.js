@@ -1,10 +1,84 @@
 
 const jobList = [
 
-
 	
 	
 	{
+      jobTitle: "Senior Azure DevOps Engineer",
+      companyName: "MSD Technologies",
+      location: "WalkingTree Technologies",
+      yearsOfExperienceRequired:5,
+      applyURL: "https:"https://www.mastek.com/careers/",
+      dateUpdated: "16/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Architect",
+      companyName: "Accenture",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.accenture.com/in-en/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1",
+      dateUpdated: "16/Dec/2023"
+    },
+	{
+      jobTitle:"Technical Lead - DevOps",
+      companyName: "ZiMetrics Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://zimetrics.com/careers/",
+      dateUpdated: "16/Dec/2023"
+    },
+	{
+      jobTitle: "Docker/Kubernetes",
+      companyName: "Dynamisch IT Pvt ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://dynamisch.co/career/",
+      dateUpdated: "16/Dec/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Software Engineer",
+      companyName: "Nitor Infotech",
+      location: "Pimpri-Chinchwad, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://careers.nitorinfotech.com/",
+      dateUpdated: "16/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Xoriant - AWS DevOps Architect - Cloud Infrastructure",
+      companyName: "Xoriant Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.xoriant.com/about-xoriant/careers",
+      dateUpdated: "16/Dec/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "StepSetGo",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://stepsetgo.com/careers.html",
+      dateUpdated: "16/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Larsen & Toubro",
+      location: "Azure DevOps Engineer",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.larsentoubro.com/corporate/careers/",
+      dateUpdated: "14/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "OSI Digital",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://osidigital.com/careers/",
+      dateUpdated: "14/Dec/2023"
+    },
+      {
       jobTitle: "Senior Azure DevOps Engineer",
       companyName: "MSD Technologies",
       location: "WalkingTree Technologies",
