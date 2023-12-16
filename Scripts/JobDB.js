@@ -1,9 +1,6 @@
 
 const jobList = [
-
-	
-	
-	{
+              {
       jobTitle: "Senior Azure DevOps Engineer",
       companyName: "MSD Technologies",
       location: "WalkingTree Technologies",
