@@ -1,4 +1,3 @@
-
 const jobList = [
               {
       jobTitle: "Senior Azure DevOps Engineer",
@@ -8,7 +7,6 @@ const jobList = [
       applyURL: "https:"https://www.mastek.com/careers/",
       dateUpdated: "16/Dec/2023"
     },
-	
 	{
       jobTitle: "DevOps Architect",
       companyName: "Accenture",
