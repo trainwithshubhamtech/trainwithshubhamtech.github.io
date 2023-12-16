@@ -7,6 +7,14 @@ const jobList = [
       applyURL: "https://stepsetgo.com/careers.html",
       dateUpdated: "16/Dec/2023"
     },
+		{
+      jobTitle: "Senior Azure DevOps Engineer",
+      companyName: "MSD Technologies",
+      location: "WalkingTree Technologies",
+      yearsOfExperienceRequired:5,
+      applyURL: "https:"https://www.mastek.com/careers/",
+      dateUpdated: "16/Dec/2023"
+    },
 	
 
 	
