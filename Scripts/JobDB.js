@@ -65,22 +65,6 @@ const jobList = [
       applyURL: "https://www.larsentoubro.com/corporate/careers/",
       dateUpdated: "14/Dec/2023"
     },
-	{
-      jobTitle: "DevOps Engineer",
-      companyName: "OSI Digital",
-      location: "Hyderabad, Telangana",
-      yearsOfExperienceRequired:5,
-      applyURL: "https://osidigital.com/careers/",
-      dateUpdated: "14/Dec/2023"
-    },
-      {
-      jobTitle: "Senior Azure DevOps Engineer",
-      companyName: "MSD Technologies",
-      location: "WalkingTree Technologies",
-      yearsOfExperienceRequired:5,
-      applyURL: "https://msdtech.in/career/",
-      dateUpdated: "14/Dec/2023"
-    },
 	
 	{
       jobTitle: "SENIOR DEVOPS ENGINEER",
