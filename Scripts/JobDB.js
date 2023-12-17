@@ -3,6 +3,125 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Senior Azure DevOps Engineer",
+      companyName: "MSD Technologies",
+      location: "WalkingTree Technologies",
+      yearsOfExperienceRequired:5,
+      applyURL: "https:"https://www.mastek.com/careers/",
+      dateUpdated: "18/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Senior Azure DevOps Engineer",
+      companyName: "MSD Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https:"https://www.mastek.com/careers/",
+      dateUpdated: "18/Dec/2023"
+    },
+	{
+      jobTitle:"Technical Lead - DevOps",
+      companyName: "ZiMetrics Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://zimetrics.com/careers/",
+      dateUpdated: "18/Dec/2023"
+    },
+	{
+      jobTitle: "Docker/Kubernetes",
+      companyName: "Dynamisch IT Pvt ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://dynamisch.co/career/",
+      dateUpdated: "18/Dec/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Software Engineer",
+      companyName: "Nitor Infotech",
+      location: "Pimpri-Chinchwad, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://careers.nitorinfotech.com/",
+      dateUpdated: "18/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Xoriant AWS DevOps Architect Cloud Infrastructure",
+      companyName: "Xoriant Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.xoriant.com/about-xoriant/careers",
+      dateUpdated: "18/Dec/2023"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "StepSetGo",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://stepsetgo.com/careers.html",
+      dateUpdated: "18/Dec/2023"
+    },
+	
+	
+	{
+      jobTitle: "SFDC Devops rs",
+      companyName: "TEKGENCE INC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.learn4good.com/jobs/pune/india/info_technology/2774225656/e/",
+      dateUpdated: "18/Dec/2023"
+    },
+	{
+      jobTitle: "SFDC Devops rs",
+      companyName: "Talentica Software India",
+      location: "Pune",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.talentica.com/careers/",
+      dateUpdated: "18/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Amdocs ",
+      location: "Pune",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "18/Dec/2023"
+    },
+
+{
+      jobTitle: "Cloud",
+      companyName: "Virtusa",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "18/Dec/2023"
+    },
+{
+      jobTitle: "Cloud Support Engineer (Azure)",
+      companyName: "Prorigo Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.prorigo.com/careers.html",
+      dateUpdated: "18/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Systems Engineer",
+      companyName: "Express Analytics",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.expressanalytics.com/about-us/careers/",
+      dateUpdated: "18/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Unisys",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://jobs.unisys.com/us/en/home",
+      dateUpdated: "18/Dec/2023"
+    },
+  {
       jobTitle: "DevOps Engineer",
       companyName: "Larsen & Toubro",
       location: "Azure DevOps Engineer",
