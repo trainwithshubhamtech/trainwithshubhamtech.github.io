@@ -1,10 +1,12 @@
 const jobList = [
-{
+
+	
+	{
       jobTitle: "Senior Azure DevOps Engineer",
       companyName: "MSD Technologies",
       location: "WalkingTree Technologies",
       yearsOfExperienceRequired:5,
-      applyURL: "https:"https://www.mastek.com/careers/",
+      applyURL: "https://www.mastek.com/careers/",
       dateUpdated: "18/Dec/2023"
     },
 	
@@ -13,7 +15,7 @@ const jobList = [
       companyName: "MSD Technologies",
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:5,
-      applyURL: "https:"https://www.mastek.com/careers/",
+      applyURL: "https://www.mastek.com/careers/",
       dateUpdated: "18/Dec/2023"
     },
 	{
@@ -118,7 +120,7 @@ const jobList = [
       applyURL: "https://jobs.unisys.com/us/en/home",
       dateUpdated: "18/Dec/2023"
     },
-  {
+     {
       jobTitle: "DevOps Engineer",
       companyName: "Larsen & Toubro",
       location: "Azure DevOps Engineer",
