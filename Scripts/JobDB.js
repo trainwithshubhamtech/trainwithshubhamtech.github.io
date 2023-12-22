@@ -1,7 +1,84 @@
 const jobList = [
 
 	
+	
 	{
+      jobTitle: "Sr DevOps Engineer",
+      companyName: "Varian",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.varian.com/about-varian/careers",
+      dateUpdated: "23/Dec/2023"
+    },
+	
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "P99SOFT Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://p99soft.com/careers/",
+      dateUpdated: "23/Dec/2023"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "ACA Group",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.acaglobal.com/careers",
+      dateUpdated: "23/Dec/2023"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer, Hinjewadi, Pune",
+      companyName: "vmedulife Software",
+      location: "Marunji, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://vmedulife.freshteam.com/jobs",
+      dateUpdated: "23/Dec/2023"
+    },
+	{
+      jobTitle:"Devops",
+      companyName: "growel softech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://growelsoftech.com/careers/",
+      dateUpdated: "23/Dec/2023"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer - Terraform/Ansible",
+      companyName: "Marktine Technology Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://marktine.com/current-openings/",
+      dateUpdated: "23/Dec/2023"
+    },
+	{
+      jobTitle: "Principal DevOps Engineer",
+      companyName: "Thomson Reuters",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.thomsonreuters.com/en/careers.html",
+      dateUpdated: "23/Dec/2023"
+    },
+	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "amdocs",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "23/Dec/2023"
+    },
+	{
+      jobTitle: "DevOps Engineer - GCP (India)",
+      companyName: "CloudWerx",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://cloudwerx.co/careers/",
+      dateUpdated: "23/Dec/2023"
+    },
+    {
       jobTitle: "Senior Azure DevOps Engineer",
       companyName: "MSD Technologies",
       location: "WalkingTree Technologies",
